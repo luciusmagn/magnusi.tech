@@ -8,4 +8,5 @@ or message me directly using one of the [contacts listed here](/posts/contacts.h
 
 The following rules apply to all contributions, failure to abide will result in article
 not being included:
-- Don't be a cunt
+
+0. Don't be a cunt

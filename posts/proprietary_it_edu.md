@@ -1,4 +1,4 @@
-created = "2020-04-02T13:44:18+02:00"
+created = "2020-04-01T13:44:18+02:00"
 tags = ["magnusi"]
 title = "Properietary software has no place in common IT education and otherwise"
 

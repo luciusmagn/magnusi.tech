@@ -1,4 +1,4 @@
-created = "2020-04-02T13:32:58+02:00"
+created = "2020-03-31T13:32:58+02:00"
 tags = ["magnusi"]
 title = "Messenger is a fractal of bad design"
 
