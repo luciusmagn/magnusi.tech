@@ -118,10 +118,15 @@ even though it may more than likely bite you in the end.
 I know all that, and I accept it. I love you even with those parts and for your sake, I put up
 with them, and I will do everything I can to help you improve in the areas which are most important
 in the longterm. I have come to terms with them. I have come to terms with your mental struggle
-and I love you despite that. Also, everyone has a bunch of flaws, I am no different, I have
-some bits that just really suck, yea, and I admit to them.
+and I love you despite that.
 
-I promise to you, that regardless of anything, I will always be there for you in your recovery
+Also, everyone has a bunch of flaws, I am no different, I have some bits that just really suck,
+yea, and I admit to them. I have trouble expressing some of my emotions, I can be annoying at times,
+I am a bit lazy, I get lonely easily but I also avoid people, I can be pretty mean to people outside
+my social circles, I have a dominating element and I have some odd random rituals
+and bunch more. You can probably figure out some on your own, too. Yea, I am far from perfect.
+
+Nevertheless, I promise to you, that regardless of anything, I will always be there for you in your recovery
 and I will combat whatever demons you throw at me. If your anxieties act out, I will talk to
 you until we have dispelled all of them, if your PTSD acts out, I will console you and I will offer
 you comfort and my loving presence until its attack is over, if your depression acts out, I won't
