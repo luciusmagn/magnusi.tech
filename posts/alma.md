@@ -355,6 +355,8 @@ away from them. Summer makes me a bit angsty, to be honest.
 
 So, thank you, thanks for everything you have done for me, and thanks for being who you are,
 thanks for being there for me and most importantly, thanks for making me your friend.
+I regret I missed my window and that I acted like a dumbass for a bit, but I am happy
+to be your friend.
 
 My heart is open and it's full of you.
 
