@@ -29,7 +29,7 @@ stayed close to you and that I could have prevented some of the trauma you went 
 I consider it to be one of my greatest failures as a man and as a very keen people observer
 because I know that even then, when I was miles back in my 'skills', that I could have noticed.
 It makes me angry that what happened to you did happen and that it hurt you as much as it did.
-Really, if I would get a chance with the people who wronged you, that I would be within an inch
+Really, if I would get a chance with the people who wronged you, trust me that I would be within an inch
 of introducing them to the GBH acronym.
 
 Back then, when you went to the hospital for the first time, and I learned about what happened
@@ -289,6 +289,10 @@ about the future, and I am sorry for that. I always do my best to not show it at
 it influence me, but I feel it every time. It's just that the time I spend with you is so
 precious to me and I am anxious about the time these moments will end. If I could stop time, I'd keep
 our moments forever.
+
+This night, I felt like I was losing you the entire time. I was in great physical pain
+and I was worried about everything. And sadly, you were too drunk or too distracted to see this.
+It felt horrible.
 
 There is an invisible noose around my neck and it's slowly tightening and it seems only I can see it. But if I would
 know that it will lead to a happier Almink, I'd do a flip down the gallows right now. You are so unreal to me,
