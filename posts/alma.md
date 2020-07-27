@@ -76,7 +76,7 @@ better, more than anything else does.
 And well, the truth is, as much I learned and got close, I was confused about you. You and your
 presence was constantly attacking my old ways of handling emotion, relationships, and communication,
 and my perspective changed significantly. It took me a long time to formulate and admit it given
-my previous disposition for this type of stuff, but the honest, naked truth is: I love you.
+my previous disposition for this type of stuff, but to be honest, I love you.
 I love who you are as a person, I love your art and your writing, I love your fashion, I love your
 funky ideas, I love your humor, I love your quirky smiles and expressions, I love your beautiful
 brown eyes and your unique face, I love your funny hair, and well, I love how you look as a whole.
@@ -122,6 +122,7 @@ and I love you despite that.
 
 Also, everyone has a bunch of flaws, I am no different, I have some bits that just really suck,
 yea, and I admit to them. I have trouble expressing some of my emotions, I can be annoying at times,
+I started slurring my speech when I am thinking too hard, I can hold a grudge like nobody's business,
 I am a bit lazy, I get lonely easily but I also avoid people, I can be pretty mean to people outside
 my social circles, I have a dominating element and I have some odd random rituals
 and bunch more. You can probably figure out some on your own, too. Yea, I am far from perfect.
