@@ -21,7 +21,7 @@ eyes for the Kačka-Nella-Sára axis, but you were important as went.
 However, I didn't really consider you as a girl, I had you as a gaming friend and a weeb friend
 and if someone asked me what girl friends I have, I would have probably forgotten to list you.
 
-I made many mistakes during that time and I regret most of them, but the one I regret the most
+I made many mistakes during that time and I regret most of them, but the one I regret a lot
 is letting you go back then. I feel like if I didn't let you drift away, or if I endured more
 of what Artem and the lads (and later the girls) were putting me through, that I could have
 stayed close to you and that I could have prevented some of the trauma you went through.
