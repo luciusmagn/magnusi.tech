@@ -125,7 +125,7 @@ yea, and I admit to them. I have trouble expressing some of my emotions, I can b
 I started slurring my speech when I am thinking too hard, I can hold a grudge like nobody's business,
 I am a bit lazy, I get lonely easily but I also avoid people, I can be pretty mean to people outside
 my social circles, I have a dominating element and I have some odd random rituals
-and bunch more. You can probably figure out some on your own, too. Yea, I am far from perfect.
+and bunch more. You can probably figure out way more on your own, too. Yea, I am far from perfect.
 
 Nevertheless, I promise to you, that regardless of anything, I will always be there for you in your recovery
 and I will combat whatever demons you throw at me. If your anxieties act out, I will talk to
@@ -279,8 +279,8 @@ because I have seen people, I know people and I am very good at predicting what'
 with people. And yes, you said that it's gonna be fine and that we would only maybe not do some
 of the stuff, but the truth is, no offense, that's just wishful thinking. And I am not
 putting you at fault - you have enough worry in the present and you don't like to think about stuff
-because the conclusions you come to might both not be correct and bring harm/distress to you, so why would
-you start worrying about the future, too? I get that, and I respect that, I know that to a degree,
+because the conclusions you come to might both not be correct and bring distress to you, so why would
+one start worrying about the future, too? I get that, and I respect that, I know that to a degree,
 that it is a coping mechanism and I know that there will one day be a time where you will be able
 to consider the consequences of everything that's important and that will help you lead a happy
 life.
@@ -333,7 +333,7 @@ the same mistake and so that I may one day become the man you would have deserve
 I want to be around you. I want to have your heart always close to mine
 so I can hear every throb of life, every sorrow, every joy. You are the only one for me.
 
-This text is very risky and it was extremely difficult to express and open myself like this,
+This text is very risky and it was very difficult for me to express and open myself like this,
 I hope you can understand that. It's just that I wanted to avoid bottling up stuff inside,
 wanted to bring some things to your attention, and finally just organize and share my thoughts
 and feelings.
