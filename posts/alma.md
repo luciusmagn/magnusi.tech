@@ -83,8 +83,8 @@ brown eyes and your unique face, I love your funny hair, and well, I love how yo
 Ye, basically I love you as a whole. And I hope this doesn't sound creepy or anything, I have never
 told anyone this like that.
 
-You are the closest thing to a soulmate I got. I consider you to be my soulmate actually.
-You have just so much in common with me when it comes to the core. We are like two sides of the
+You are the closest thing to a soulmate I got. I think I consider you to be a soulmate actually.
+You have just so much in common with me when it comes to the core stuff. We are like two sides of the
 same coin separated by drastically different life experiences and conditions. And I love that
 about you and I am angry that yours were so harsh and damaging.
 
@@ -112,7 +112,7 @@ I know that you get attracted to things like a curious puppy and you don't reali
 might bite. I can tell that you are sometimes in denial, or you indulge in avoidance. That you
 are a chronic people-pleaser, that you don't like to listen to reason sometimes and that some
 advice is more like a challenge to you. That you have trouble being mean and dealing with toxic people.
-That, despite what you say, that you mainly get attracted to people by their looks and bad-boy status,
+That, despite what you say, that you mainly get attracted to people by their looks and bad-boy/edgy-girl status,
 even though it may more than likely bite you in the end.
 
 I know all that, and I accept it. I love you even with those parts and for your sake, I put up
@@ -122,10 +122,11 @@ and I love you despite that.
 
 Also, everyone has a bunch of flaws, I am no different, I have some bits that just really suck,
 yea, and I admit to them. I have trouble expressing some of my emotions, I can be annoying at times,
-I started slurring my speech when I am thinking too hard, I can hold a grudge like nobody's business,
-I am a bit lazy, I get lonely easily but I also avoid people, I can be pretty mean to people outside
-my social circles, I have a dominating element and I have some odd random rituals
-and bunch more. You can probably figure out way more on your own, too. Yea, I am far from perfect.
+I start slurring my speech when I am thinking too hard, I am not that handsome, I can hold a grudge like
+nobody's business, I am a bit lazy, I get lonely easily but I also avoid people, I can be pretty mean
+to people outside my social circles, I have a dominating element, I have much higher standards for myself
+than for others and I have some odd random rituals and bunch more. You can probably figure out way
+more on your own, too. Yea, I am far from perfect.
 
 Nevertheless, I promise to you, that regardless of anything, I will always be there for you in your recovery
 and I will combat whatever demons you throw at me. If your anxieties act out, I will talk to
