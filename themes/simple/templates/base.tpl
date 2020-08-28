@@ -16,6 +16,8 @@
 	<meta name="twitter:site" content="@">
 	<link rel="shortcut icon" href="{{ config.site_url }}/static//favicon.png">
 	<link type="text/css" rel="stylesheet" href="{{ config.site_url }}/static/main.css">
+	<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+	<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 	{%- block css %}{% endblock css -%}
 	{%- block title %}{% endblock title -%}
 </head>
@@ -41,5 +43,8 @@
 		{%- block main %}{% endblock main %}
 	</main>
 </body>
+<script>
+AOS.init();
+</script>
 {%- block js %}{% endblock js -%}
 </html>

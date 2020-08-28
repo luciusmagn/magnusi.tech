@@ -178,71 +178,71 @@ figcaption {
   font-size: smaller;
 }
 @font-face {
-  font-family: 'Nanotech LLC';
-  src: url("/static/NanotechLLC-RegularItalic.ttf") format('truetype');
+  font-family: 'Fanwood';
+  src: url("/media/Fanwood.otf") format('truetype');
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Fanwood Italic';
+  src: url("/media/Fanwood Italic.otf") format('truetype');
   font-weight: normal;
   font-style: italic;
   font-display: swap;
 }
 @font-face {
   font-family: 'Charger';
-  src: url("/static/ChargerExBdIt.ttf") format('truetype');
+  src: url("/media/ChargerExBdIt.ttf") format('truetype');
   font-weight: 800;
   font-style: italic;
   font-display: swap;
 }
 @font-face {
-  font-family: 'Nanotech LLC';
-  src: url("/static/NanotechLLC.ttf") format('truetype');
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
-@font-face {
   font-family: 'Charger';
-  src: url("/static/ChargerBd.ttf") format('truetype');
+  src: url("/media/ChargerBd.ttf") format('truetype');
   font-weight: bold;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Charger';
-  src: url("/static/ChargerExBd.ttf") format('truetype');
+  src: url("/media/ChargerExBd.ttf") format('truetype');
   font-weight: 800;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Charger';
-  src: url("/static/ChargerHemi.ttf") format('truetype');
+  src: url("/media/ChargerHemi.ttf") format('truetype');
   font-weight: 900;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Charger';
-  src: url("/static/ChargerIt.ttf") format('truetype');
+  src: url("/media/ChargerIt.ttf") format('truetype');
   font-weight: normal;
   font-style: italic;
   font-display: swap;
 }
 @font-face {
   font-family: 'Charger';
-  src: url("/static/Charger.ttf") format('truetype');
+  src: url("/media/Charger.ttf") format('truetype');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Charger';
-  src: url("/static/ChargerBdIt.ttf") format('truetype');
+  src: url("/media/ChargerBdIt.ttf") format('truetype');
   font-weight: bold;
   font-style: italic;
   font-display: swap;
 }
 @font-face {
   font-family: 'Charger';
-  src: url("/static/ChargerHemiRT.ttf") format('truetype');
+  src: url("/media/ChargerHemiRT.ttf") format('truetype');
   font-weight: 900;
   font-style: normal;
   font-display: swap;
