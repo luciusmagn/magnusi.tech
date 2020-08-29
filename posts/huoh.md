@@ -226,7 +226,7 @@ Roll the window down a little, wind blows through hair and into the face. The ma
 They are a novelty as well, of course. The temples of the specs are adorned on one side with a cracked skull and, on the other,
 with a Rubik's cube.
 
-An artist had them custom made decades ago. The Rubik's cube is the representation of the infinity of problems, since there is thousands
+An artist had them custom-made decades ago. The Rubik's cube is the representation of the infinity of problems, since there are thousands
 times more configurations than grains of sand on Earth.
 
 The cracked skull resembles the ancient supercontinent of Pangaea. It reminds of the last time
@@ -241,7 +241,7 @@ seem important to you.
 Step on clutch, shift gears.
 
 The city finally shows up on the horizon. The walls are very tall and let off an oppressive atmosphere. Their monumentality
-is a testament to the separating power they posses, of what needs to be kept out, or, more precisely, of what needs to be kept in.
+is a testament to the separating power they possess, of what needs to be kept out, or, more precisely, of what needs to be kept in.
 
 Tiny hints of smoke can be seen over the walls. It's the houses trying to stay warm during the winter.
 
@@ -255,7 +255,7 @@ Finally at the gates. There was no other vehicle waiting for entry or attempting
 Shut the engine, remove key from ignition, poke the astronaut.
 
 The man took his documents from the glove compartment. Details about his shipment and his newly assigned business permit.
-The documents requested a three day stay, excluding day of arrival and day of departure.
+The documents requested a three-day stay, excluding day of arrival and day of departure.
 
 > One does not become enlightened by imagining figures of light,
 but by making the darkness conscious. The latter procedure, however,
@@ -331,7 +331,7 @@ Right.
 
 Like the beating of the drum.
 
-The Rat is on the run once again. She tries to figure out where to go, but fear gets the better of her and she just ends up running straight
+The Rat is on the run once again. She tries to figure out where to go, but fear gets the better of her, and she just ends up running straight
 forward.
 
 Unfortunately, as is sometimes found in the predator-prey relationships of the animal kingdom, this is by design. The Rat doesn't realize
@@ -348,7 +348,7 @@ Left
 
 Right.
 
-Rat collapses for a moment, she feels like her head is going to split. Left. Right. Left. Right. After a moment, she regains some her composure
+Rat collapses for a moment, she feels like her head is going to split. Left. Right. Left. Right. After a moment, she regains some of her composure
 and starts to run again.
 
 Alas, her sprint leads to a dead end. This is why one should pay attention to maps and facts. Not knowing what you get into predicts loss,
@@ -380,7 +380,7 @@ now seems peaceful and quiet.
 
 A naked woman appears. She has black hair, not too long, not too short. Her body is balanced, like the template for a fit female figure, although perhaps
 tilted more towards the slim end of the distribution. Her eyes are red and the pupils have the stretch out over the iris in the shape of a triangle that
-had it's corners cut off.
+had its corners cut off.
 
 The only thing on her is a tight black choker, roughly at the center of her neck.
 
@@ -441,9 +441,9 @@ Then she walked off, towards the nuclear power plant.
 
 The man managed to park his truck in the parking lot for trucks and decided it was time to go for a walk and start exploring.
 
-Elsewhere but close enough, a short girl has just left the train to go to her friend's flat to drop off something for him.
+Elsewhere, but close enough, a short girl has just left the train to go to her friend's flat to drop off something for him.
 
-The sun is shining and a cold, wintry breeze is blowing. The girl is absent-mindedly walking on the sidewalk. She remembers an
+The sun is shining and a cold, wintry breeze is blowing. The girl is absentmindedly walking on the sidewalk. She remembers an
 event from a few years ago which changed her life forever. She is unsure why, perhaps it's the trucks that are driving by on
 the road.
 
@@ -469,7 +469,7 @@ Then the man spoke:
 "How did you get in? They don't let people without a resident card in," Neiro responded. Or something like that, I'm still unsure about the way she speaks.
 Cartographer insert out.
 
-"I have a business permit. I am a business man of sorts. I sell light bulbs and I also have another passion. I adore trinkets and oddities and
+"I have a business permit. I am a businessman of sorts. I sell light bulbs and I also have another passion. I adore trinkets and oddities and
 I trade for them. I heard there is a lot of strange stuff going on around here, so I came over here personally in hopes of finding some interesting
 things... Ah, I'm sorry I talk too much. I have been on the road for quite a while."
 
@@ -480,10 +480,10 @@ be willing to be my guide?"
 
 Neiro shook her head and declined as politely as she could. She felt a little cranky and wasn't in the mood for some strangers.
 
-Horus presented a counter-offer: "I'm paying". He was a pretty successful business man with a lot of coin to spare.
+Horus presented a counter-offer: "I'm paying". He was a pretty successful businessman with a lot of coin to spare.
 
 An image of a wallet full of only cobwebs flashed through Neiro's mind. Maybe she could use a little extra money,
-even though she know she would be broke again quite quickly anyway. Horus looked well kempt and didn't look to Neiro like the type
+even though she knew she would be broke again quite quickly anyway. Horus looked well kempt and didn't look to Neiro like the type
 to go murdering in a dark alley.
 
 "Okay, I will show you some places, but don't expect much. This city is a dangerous shithole. Also don't be weird."
@@ -494,14 +494,14 @@ to go murdering in a dark alley.
 
 "That's fine, what place are we visiting first?"
 
-"My friend Valentin's house. I got something for him."
+"My friend Valentine's house. I got something for him."
 
-"Would that happen to be one Valentin Erimez?"
+"Would that happen to be one Valentine Erimez?"
 
 "Yes...? Do you know him!?" said Neiro, slightly concerned. The fact that he knows Val's surname shook her a bit.
 
-"No, I don't know him. Not personally, but I have a shipment for him. Actually, let's take a two minute detour to my truck,
-we will pick up the package and then we can kill two birds with one stone, how about that?" Horus responded.
+"No, I don't know him. Not personally, but I have a shipment for him. Actually, let's take a two-minute detour to my truck,
+we will pick up the package, and then we can kill two birds with one stone, how about that?" Horus responded.
 
 "Uh, okay. What do you have for him?"
 
@@ -524,12 +524,125 @@ Horus tried: "Look at her, this beautiful beast. This is the best truck ever mad
 and it's protected, there is no safer place than behind this ship's steering wheel."
 
 It did not help.
-
+<div id="alma"></div>
 "It's my mobile command center, haha. I have a lot of trinkets, oddities and novelty in it. Surely there will be something in it
 you'd like."
 
 "No, let's get out of here."
 
-That was it, then. The two made their way towards Valentin's flat.
+That was it, then. The two made their way towards Valentine's flat.
 
-Neiro knocked on the door and in a moment, Valentin opened the door. Neiro immediately hugged him.
+Neiro knocked on the door and in a moment, Valentin opened the door. He was a black man, with dark-looking eyes,
+about the same height as Horus, slim but definitely fit.
+
+Neiro immediately hugged him. She was very cranky before, but now she was excited to see him.
+
+"Look, what the cat dragged in. I'm glad you came, Nei-rou," said Valentine with a smirk.
+
+"Who is this other guy, N?" he added.
+
+"I'm Horus, I have your light bulb shipment. Ampoules Sans Frontiéres Pvt. Ltd.," responded Horus with French
+that sounded more like German.
+
+"Uh, Neiro, this isn't the guy was supposed to make the delivery," said Valentine and readied his hand to grab for his dagger,
+if it were necessary.
+
+"That is correct, I'm not your local delivery man. I'm the manufacturer, my company produces these.
+We accepted a few orders to The City, so I took the opportunity to visit and see it for myself. Sorry for
+the misunderstanding. Here's your light bulbs," replied Horus, handing the box to Valentine.
+
+"Okay, then, thanks."
+
+"Pleased to meet you, like I said, my name is Horus. That's 'US' at the end.". Horus extended his hand to shake
+Valentine's.
+
+"I'm Valentine."
+
+Valentine shook Horus, but as he did, Horus squeezed his hand as to not let him go and turned Valentine's hand
+knuckles up.
+
+"Fancy tattoos, I have never seen any like these before. Do they carry some deeper meaning?" asked Horus curiously.
+
+"Depends, they have meaning for me," says Valentine, shrugging.
+
+"I understand, well, all I can say is that I dig the skulls," responds Horus with a slight friendly smile.
+
+"We should go," Neiro joins the conversation.
+
+"We will talk later, Neiro. Be careful."
+
+"See you, Val."
+
+Neiro and Horus leave. On the way out, Horus asks:
+"I couldn't help but notice that your right eye is in a pretty bad shape. You can't see out of it, can you? What happened?"
+
+"No, I can't and it's a long story," responded Neiro, with a slightly angry undertone.
+
+"I see. If it's any consolation," said Horus, "my right eye doesn't see that well either. In my case, nothing happened. It's
+been like that for as long as I can remember. So my eyesight isn't that good, but I try to make up for it by making the most
+of what I got, by paying attention to things."
+
+A single "Huh" comes out of Neiro as she takes out a cigarette and a lighter. She puts the cigarette in her mouth.
+
+Lighter open, spark, flame, ignite... wait, what? Where is the cigarette?
+
+Neiro snaps out of it and sees that Horus snatched it.
+
+"These are bad for you, you know?" he exclaims.
+
+"Give it back, are you gonna school me about the dangers of schooling!?" says Neiro angrily.
+
+"No far from it, what I'm saying it, these suck," he responds as he throws it away. "I believe, that quality is preferable."
+
+Horus pulls out the cigar from earlier out of the breast pocket of his trench coat.
+
+"Try this, it's better and less cancer. And of course, it's a novelty. See the writing on the side?"
+
+At this point, it only said "you waiting, huh?", the front of it has been burnt off already, still, there was about two
+thirds of it left.
+
+"You know how to use it, right?" asked Horus.
+
+"Yea, what did you think?" Neiro was still a bit hostile, but she snatched the cigar out of Horus's hand.
+She was angry, but also curious, since she never smoked a cigar before.
+
+Lighter open, spark, flame, ignite, partake.
+
+Neiro immediately starts coughing and wheezing.
+
+Horus starts laughing: "It seems your prowess has been overstated a bit. You don't inhale a cigar like a cigarette,
+you will just start coughing and have a bad time. Also there is ten to fifteen times more tobacco in this than
+in a cigarette. Moderation is key."
+
+"Here, imagine that you are pulling in from a straw, that's a good way to think about it. You pull in, you let
+it sit for a moment and then you blow it out. But don't do it that often, or the cherry will get too heated and
+you will start tasting tar."
+
+"Okay, alright." Neiro was embarassed about her smoking failure.
+
+She tried being more gentle and doing it the way Horus said. It was much better. Unlike the cigarettes, which she
+was mostly smoking to take the edge off and to satisfy her addiction, this thing tasted pretty good.
+It was actually a pleasant experience. She finally calmed down and daydreamed again.
+
+She pulled in and blew out smoke a few times and then returned to paying attention.
+
+"So.. these light bulbs you are selling, what are they for?" she asked.
+
+"I sell a plenty of types. If you are asking about the ones for Valentine in particular,
+those are weed bulbs. They make weed grow better."
+
+If Neiro was drinking coffee right now, she would have spat it out. Unfortunately,
+it was just a single cough and a fast exhale: "What?"
+
+"Well, exactly that. They have a specifically calibrated color which emulates just the type of daylight you need
+for optimal growth. But, I make many more types of illumination devices. Bordering between shady and legal business
+is not all I do."
+
+Neiro, was still a little surprised, but it made sense. She pulled in the cigar again, blew out and said:
+"Okay, and what's a cherry?"
+
+"... the burning part of the cigar."
+
+# EPISODE 2: JAKE
+
+Elsewhere, some time earlier.
