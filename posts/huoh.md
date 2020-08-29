@@ -532,7 +532,7 @@ you'd like."
 
 That was it, then. The two made their way towards Valentine's flat.
 
-Neiro knocked on the door and in a moment, Valentin opened the door. He was a black man, with dark-looking eyes,
+Neiro knocked on the door and in a moment, Valentine opened the door. He was a black man, with dark-looking eyes,
 about the same height as Horus, slim but definitely fit.
 
 Neiro immediately hugged him. She was very cranky before, but now she was excited to see him.
