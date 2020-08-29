@@ -590,7 +590,7 @@ Neiro snaps out of it and sees that Horus snatched it.
 
 "These are bad for you, you know?" he exclaims.
 
-"Give it back, are you gonna school me about the dangers of schooling!?" says Neiro angrily.
+"Give it back, are you gonna school me about the dangers of smoking!?" says Neiro angrily.
 
 "No far from it, what I'm saying it, these suck," he responds as he throws it away. "I believe, that quality is preferable."
 
