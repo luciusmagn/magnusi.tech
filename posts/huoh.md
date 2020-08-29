@@ -52,14 +52,14 @@ Step on clutch, shift gears.
 Trucks like these have many more gears than regular cars. It helps when going uphill, or when
 the cargo is heavy.
 
-The driver adjusts the rearview mirror. One should only do this before the vehicle starts to move,
+The driver adjusts the revue mirror. One should only do this before the vehicle starts to move,
 but there is no one and the truck isn't moving that fast yet.
 
 The exit gate opens, the way is clear.
 
 Step on clutch, shift gears. Repeat.
 
-There is a small astronaut hanging from the rearview mirror. The symbol of man's greatest ambition.
+There is a small astronaut hanging from the rear view mirror. The symbol of man's greatest ambition.
 Its head is comically large.
 
 > You're going to pay a price for every bloody thing you do
@@ -93,7 +93,7 @@ but, despite that, tries to be the hero during difficult times and events, out o
 
 Step on clutch, shift gears.
 
-<div data-aos="fade-right" style="margin-right: 80rem; margin-left: -47rem; width: 45rem; text-align: right"><b>HORUS</b> AS THE LIGHTBULB SALESMAN</div>
+<div data-aos="fade-right" style="margin-right: 80rem; margin-left: -47rem; width: 45rem; text-align: right"><b>HORUS</b> AS THE LIGHT BULB SALESMAN</div>
 
 > Life is suffering<br>
 Love is the desire to see unnecessary suffering ameliorated<br>
@@ -116,7 +116,7 @@ Nature calls, it's time to stop for a moment.
 Step on clutch, shift to neutral. Lightly step on break, slowly come to the stop. It feels like gliding and it almost
 evokes the notion that perhaps, this iron beast, has a little finesse in it as well.
 
-Exit the truck. It's suprisingly windy here. The driver couldn't tell from the truck,
+Exit the truck. It's surprisingly windy here. The driver couldn't tell from the truck,
 there were no trees or other vegetation that would give it away. Ruins don't bend to the will of the wind.
 
 <div data-aos="fade-right" style="margin-right: 80rem; margin-left: -47rem; width: 45rem; text-align: right"><b>NEIRO</b> AS THE ACCIDENTAL GUIDE</div>
@@ -132,9 +132,9 @@ There was something solemn about this place, as ruined and barren as it was, and
 He sullied these hallowed grounds with the remains of the fluid intake of days past, it would make sense to honor it with something more
 palatable, he thought.
 
-Open right door of the truck and reach in to the shotgun seat's compartment. He pulls out a box of cigars.
+Open the right door of the truck and reach in to the shotgun seat's compartment. He pulls out a box of cigars.
 
-Calling the passenger seat shotgun is quite a strange phenomena. It used to be associated with carriages and the
+Calling the passenger seat shotgun is quite a strange phenomenon. It used to be associated with carriages and the
 idea of a gun-toting partner in a reckless mobile shootout in the old wild West, but it's faux. It was invented by Westerns, it's a fake.
 
 The cigars are, much like most things in the truck, a novelty. They bear the logo of one old game and in seemingly golden letters,
@@ -149,10 +149,10 @@ This should be the equivalent of a fresh smelling rose garden in contrast to the
 
 Some things stay with you for the duration of your life. A fair number of them stays in the lungs.
 
-It took a while to get into the right mood. The man was no smoker, it was an occassional endeavor at best. Something to take the
+It took a while to get into the right mood. The man was no smoker, it was an occasional endeavor at best. Something to take the
 edge off, once in a while.
 
-All around, it was silent. All one could hear was the muffled sound of the last bits of "Short Change Hero" coming from inside of the truck.
+All around, it was silent. All one could hear was the muffled sound of the last bits of "Short Change Hero" coming from inside the truck.
 It was peaceful, and lonely. Long ago has this place been claimed the kingdom of genius loci.
 
 As he put out the cigar and stored it away in his trench coat's pocket, the man noticed something flying in the wind towards him.
@@ -177,8 +177,8 @@ He gently folded it up and went to the back of the truck.
 
 Unlock, lift iron bar, pull door open. Turn the lights on.
 
-Everything inside was in order. He was a little fearful that his shipment of lightbulbs might have been damaged by the reckless driving,
-but luckily, no such thing did happen. It's fragile cargo, yes, but if handled well, the it will be fine even if a rocket hits the truck.
+Everything inside was in order. He was a little fearful that his shipment of light bulbs might have been damaged by the reckless driving,
+but luckily, no such thing did happen. It's fragile cargo, yes, but if handled well, it will be fine even if a rocket hits the truck.
 
 This container was much bigger than the ones that could have been commonly seen on cargo ships in the days of yore. It was about a meter wider
 on each side, a meter and a half taller, and a meter longer than the standard dimensions.
@@ -208,7 +208,7 @@ Step on clutch, shift gears.
 
 Repeat.
 
-The radio starts to only produce static, it seems like there is broadcast the way he's headed.
+The radio starts to only produce static, it seems like there is no broadcast the way he's headed.
 
 No matter, there is still a lot of tapes and other media to play. The driver owns several a few boxes of just music.
 
@@ -229,8 +229,8 @@ with a Rubik's cube.
 An artist had them custom made decades ago. The Rubik's cube is the representation of the infinity of problems, since there is thousands
 times more configurations than grains of sand on Earth.
 
-The cracked skull resembles the ancient supercontinent of Pangea. It reminds of the last time
-the entire world was trully connected and of the importance of connections.
+The cracked skull resembles the ancient supercontinent of Pangaea. It reminds of the last time
+the entire world was truly connected and of the importance of connections.
 
 > Loneliness does not come from having no people around you,
 but from being unable to communicate the things that
@@ -246,7 +246,7 @@ is a testament to the separating power they posses, of what needs to be kept out
 Tiny hints of smoke can be seen over the walls. It's the houses trying to stay warm during the winter.
 
 Finding a map of the city was a difficult endeavor, at best. One could only find rough ones, but the driver had a rough idea where he needs to go.
-There is a parking lot for trucks next to the largely obandoned industrial area. And this was itself close to the entry gate.
+There is a parking lot for trucks next to the largely abandoned industrial area. And this was itself close to the entry gate.
 
 <div data-aos="fade-right" style="margin-right: 80rem; margin-left: -47rem; width: 45rem; text-align: right"><b>CPT. VOSS</b> AS ROCKET LAUNCHER</div>
 
@@ -261,7 +261,7 @@ The documents requested a three day stay, excluding day of arrival and day of de
 but by making the darkness conscious. The latter procedure, however,
 is disagreeable and therefore not popular.
 
-The man approaches the boot that governs the massive gate, behind which the city lights.
+The man approaches the booth that governs the massive gate, behind which the city lights.
 
 Freeze frame, stop.
 
@@ -276,7 +276,7 @@ Very well, then.
 Hello, I welcome you, dear listener. On this most auspicious of nights, let me recount a series of strange events that make a story,
 one that I hope will be compelling, even if only a bit.
 
-However, I must warn you - I'm a cartographer, not a writer or a storyteller, I work with maps and factsheets,
+However, I must warn you - I'm a cartographer, not a writer or a storyteller, I work with maps and fact-sheets,
 the telling of a story, despite being a newfound hobby of mine, still largely remains an enigma to me.
 I cannot accurately convey the feelings, the oddities or the speech patterns of people I have never met in person.
 
@@ -291,7 +291,7 @@ and meaning and flow. All that which you expect from a literary masterpiece, or 
 
 So please, try to infer what's missing and extrapolate from presented data, and I wish you to get as much enjoyment out of this as I do.
 
-This is a roleplay of one strange cartographer, a man new to the waters of storytelling, so please, be gentle. In return, I will
+This is a role-play of one strange cartographer, a man new to the waters of storytelling, so please, be gentle. In return, I will
 try to make up for my imperfections with my virtues. I have got some items of interest prepared for later.
 
 Alright, let's get back to it then. But first, let me retell two isolated events before we return to the main yarn.
@@ -361,7 +361,7 @@ A tall shadowy figure soon appears. Left. Right. He calmly approaches Fira and e
 The man grabs her by the collar and lifts her off the ground. At first, she tries to struggle, but all resistance seems futile.
 She can't bite him and clawing on his arm doesn't help, it is covered by a thick black overcoat. She gives up and remains frozen in fear.
 
-And then, he speaks: "A little rat running around in the sewers, how fitting. I'm sory Fira,
+And then, he speaks: "A little rat running around in the sewers, how fitting. I'm sorry Fira,
 but I can't have you messing around with this place any longer." And as he finished the sentence, he let go of her, and as he did,
 the girl disappeared without a trace.
 
@@ -371,7 +371,7 @@ the girl disappeared without a trace.
 
 .
 
-Elswhere, several days later. It is night, the sky is clear and the moon is full. Thousands of shiny stars silently glimmer. They are pure and far
+Elsewhere, several days later. It is night, the sky is clear and the moon is full. Thousands of shiny stars silently glimmer. They are pure and far
 removed from the troubles of earthly life. A million years ago, they were shining like this, and a million years later, they will still be there. Silently
 shining, like tiny eyes, watching the world tirelessly.
 
@@ -396,7 +396,7 @@ She headed towards the middle of the river, where the water is deepest.
 
 The river started shining and changed color.
 
-The woman still warked towards the depths.
+The woman still walked towards the depths.
 
 The river started flowing the other direction.
 
@@ -406,7 +406,7 @@ The river changed color and direction.
 
 She finally reached the center, closed her eyes and laid down on to the water.
 
-The river changed color, direction and again color and shone even brigher.
+The river changed color, direction and again color and shone even brighter.
 
 The woman took a deep breath and... sunk.
 
@@ -422,7 +422,7 @@ Climax. The water stopped moving and turned black. It started getting colder and
 
 Suddenly, the woman rose out of the water, donning a black halter dress with a wide and ornate skirt, reminiscent
 to those of ball dresses, but not as large as the ones you can see in baroque reenactments. On the dress,
-there were sevaral brooches, each of them was just a gem set into gold with a pin. One for each color of the river.
+there were several brooches, each of them was just a gem set into gold with a pin. One for each color of the river.
 
 As she stepped on the surface, the water underneath her bare foot froze, so did the next step and the next.
 
@@ -469,8 +469,8 @@ Then the man spoke:
 "How did you get in? They don't let people without a resident card in," Neiro responded. Or something like that, I'm still unsure about the way she speaks.
 Cartographer insert out.
 
-"I have a business permit. I am a business man of sorts. I sell lightbulbs and I also have another passion. I adore trinkets and oddities and
-I trade for them. I heard there is a lot of strange stuff going on around here, so I came over here personaly in hopes of finding some interesting
+"I have a business permit. I am a business man of sorts. I sell light bulbs and I also have another passion. I adore trinkets and oddities and
+I trade for them. I heard there is a lot of strange stuff going on around here, so I came over here personally in hopes of finding some interesting
 things... Ah, I'm sorry I talk too much. I have been on the road for quite a while."
 
 Neiro commented on how strange Horus's vocation seems to be, but decided to bid him farewell and go on her merry way.
@@ -486,7 +486,7 @@ An image of a wallet full of only cobwebs flashed through Neiro's mind. Maybe sh
 even though she know she would be broke again quite quickly anyway. Horus looked well kempt and didn't look to Neiro like the type
 to go murdering in a dark alley.
 
-"Okay, I will show you some pleces, but don't expect much. This city is a dangerous shithole. Also don't be weird."
+"Okay, I will show you some places, but don't expect much. This city is a dangerous shithole. Also don't be weird."
 
 "Alright, you have my word. Where do we go?"
 
@@ -505,12 +505,12 @@ we will pick up the package and then we can kill two birds with one stone, how a
 
 "Uh, okay. What do you have for him?"
 
-"This might surprise you, but lightbulbs. It's not a big package, only six of them. He is one of the three customers
+"This might surprise you, but light bulbs. It's not a big package, only six of them. He is one of the three customers
 thanks to whom I have been able to enter The City." Horus explained.
 
-"Why would he order lightbulbs from you if you are from so far away?" Neiro was still more than slightly suspicious.
+"Why would he order light bulbs from you if you are from so far away?" Neiro was still more than slightly suspicious.
 
-"I make lightbulbs like no other. I have a wide sortiment of illumination devices for all sorts of usecases.
+"I make light bulbs like no other. I have a wide assortment of illumination devices for all sorts of use-cases.
 You'll see in due time."
 
 Strange.
