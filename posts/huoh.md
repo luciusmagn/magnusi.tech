@@ -645,4 +645,490 @@ Neiro, was still a little surprised, but it made sense. She pulled in the cigar 
 
 # EPISODE 2: JAKE
 
+> My soul, where are you? Do you hear me? I speak, I call you -
+are you there? I have returned, I am here again. I have shaken
+the dust of all the lands from my feet, and I have come to you,
+I am with you. After long years of long wandering, I have come to you again.
+Should I tell you everything I have seen, experienced, and drunk in?
+Or do you not want to hear about all the noise of life and the world?
+But one thing you must know: the one thing I have learned is that one must live this life.
+Do you still know me? How long the separation lasted! Everything has become so different.
+And how did I find you? How strange my journey was!
+What words should I use to tell you on what twisted paths a good star
+has guided me to you? Give me your hand, my almost forgotten soul.
+How warm the joy at seeing you again, you long disavowed soul. Life has led me back to you.
+Let us thank the life I have lived for all the happy and all the sad hours, for every joy,
+for every sadness. My soul, my journey should continue with you.
+I will wander with you and ascend to my solitude.
+
 Elsewhere, some time earlier.
+
+Jake was, by all accounts, an ordinary man. He was born and lived most of his life
+in Yatoru, working several oddjobs and trying out all sorts of different careers.
+
+He was by no means an uneducated man, but, for some reason, simple, manual jobs
+like these were relaxing for him.
+
+In school, he was above average in technical subjects, humanities didn't speak to
+him too much.
+
+When he reached adulthood, he first obtained a regular driver's license,
+then he went for trucks and buses, and eventually, he even learned how to fly
+a helicopter.
+
+Jake has always been a wayward spirit. He moved away from his parents at the
+age of twenty and was constantly looking for jobs where he could travel
+to a different city, or see things he hasn't seen before.
+
+One fine day, he found an interesting job posting in the newspaper. It was a chance
+encounter, really, he didn't really read the newspaper otherwise. It was rather cryptic
+in its omission of details, but it promised the things Jake was looking for.
+
+Travel to a different city, fly a helicopter, variety of manual jobs. Like a contractor
+and pilot amalgamation. There was a phone number underneath the ad, so he tried to call it.
+
+The person on the other end sounded excited and positive and invited Jake for a interview.
+A few days later, Jake went for the interview. It took place in a rather large office building,
+it was a little hard to orient oneself in the corporate setting.
+
+Thanks to pointers from the people working there, he was eventually led into an office with
+a nice view over the city.
+
+It was winter, so the scene wasn't as vibrant as in, say, spring, but it was a nice sight
+nevertheless. One could see hundreds of people moving around and going about their daily
+lights, cars driving around, as if they were little bugs looking for food, and houses,
+churning white smoke from their chimneys like a person breathing on their hands to keep them
+from freezing.
+
+The winter was dry and there was almost no snow, only some icy remnants on the sidewalk.
+
+> If we feel our way into the human secrets of the sick person,
+the madness also reveals its system, and we recognize in the
+mental illness merely an exceptional reaction to emotional problems
+which are not strange to us.
+
+The office apparently belonged to a blonde woman. She looked to Jake about 170cms high,
+she had blue eyes and a far more fit, perhaps even muscular, build than one would expect
+from a high-ranking office executive.
+
+What looked strange to Jake was that she, despite clearly holding a high position, looked
+very young. If he really stretched his imagination, he would say thirty at best, but that would
+be one foxy thirty-year old!
+
+The woman shook his hand and introduced herself: "Hello, my name is Eir, welcome to Morpho Inc."
+
+Jake responded: "Ah, hello, I hope I'm in the right place. I'm Jake. I'm sorry, I think I misheard you,
+did you say your name was Eir?"
+
+"Haha, yes, that's my name. My parents were of nordic descent. This name was quite common in the country
+where they came from. It's like the name Mercy was in US."
+
+The interview followed next. Eir asked Jake for some details about his life, verified that he
+has no stains on his criminal record and overall did her best to establish that he is good for the job.
+
+"What job was it anyway?" you might ask. Well, as she explained, the company wanted to establish a
+forward operating base in a city, which she said "was not that far". His job would be to occassionally
+move some cargo over the city with a helicopter, help with some manual tasks and with organization.
+Further details on-site.
+
+Jake was a little suspicious, but his curiousity and his adventurer spirit got the best of him. He said yes.
+
+Finally, the woman added: "Oh, and you might see some strange things. They could look supernatural
+or out of this world, or outright scary sometimes, but don't worry, there is nothing to be concerned about.
+Oh, and the boss, he will be there leading the operation, he is a little eccentric, don't be alarmed. Is that fine?"
+
+Jake was processing this for a second, then responded: "Meh, I guess so." The pay was very good
+and the woman even made a promise that there will be a sizable bonus if everything goes well, so Jake
+thought, given the fact that he didn't believe in the supernatural, that this will be fine.
+
+Lastly, the woman added: "Thank you, I'm glad we can do business. Now, here is the place where you need to travel to,
+from there, we will provide the transport to the city. If you retain your receipts,
+we will cover the travel costs. Also hand in this paper at the receptionist, they will hand you your work overalls
+and a complimentary company baseball cap. We might meet at the site, but I will be arriving later, if at all."
+
+Jake spotted an opportunity and said, with a suggestive smile: "We can meet over a drink later, too, if you want." Wink.
+It wasn't very effective.
+
+Eir responded: "Well, thanks for your offer, but I'm afraid I must decline. You see, if you go drinking
+with a nordic blood, you must have started off with the worst handicap ever. I have no interest
+in dragging young drunk men from under the table... Again."
+
+Jake was a little disappointed that his attempt failed, but no matter,
+"You miss one hundred percent of the shots you don't take," he thought.
+
+> To venture causes anxiety, but not to venture is to lose one's self....
+And to venture in the highest is precisely to be conscious of one's self.
+
+The two bid their farewells and Jake returned downstairs to the reception, where he picked
+up his new outfit. Both the cap and the overalls were dark blue with a single red stripe on each side.
+
+He was told that he is the last new employee to be accepted and that everyone else is already there.
+The instructions were to come as soon as possible, so he returned home, packed a modest backpack and
+left his flat first thing in the morning.
+
+Interestingly, the coordinates he was given led to a abandoned farm field, not far from The City.
+Jake was quite surprised, he heard about the city before, but had no idea what to expect.
+There were apparently some stories about strange events taking place in the city, including a great
+fire that nearly led to its destruction not too long ago.
+
+He took a bus as far as he could, near the edge of the ruins and then he had to go by foot. Yatoru
+has not established public transport to The City walls, so one could either travel to a gas station
+near a smaller city called Gan Adfeilion, which was about two thirds of the way,
+and walk the rest, or go to Korubon and then hitchhike
+with one of the drivers who ran a supply chain to the distribution center in southern City.
+
+Jake opted for the first option, since it was a few hours shorter and less risky than traveling with
+a stranger. People who dealt with The City had less than favorable reputation.
+
+Going to the designated place took several hours. Since it was winter, the days were quite short,
+so before Jake arrived at the destination, the sun had already set.
+
+At first, he thought that he was seeing wrong, but there was a man standing in the midst of the ruins,
+he was facing the other way, towards the walls.
+
+He wore black formal shoes, dark grey pants, a black overcoat and a wide brim fedora.
+He was slightly shorter than Jake, but not by that much.
+Thanks to the dark and the hat, it was hard to make out what he looked like.
+
+Jake tried to approach him, when suddenly the man turned around and yelled: "Jake?"
+
+Jake twitched, he was shocked a bit, but after a few seconds responded: "Yes?"
+
+"Hey, I've been waiting for you, come closer," the man said cheerfully and waved at him.
+
+Both of the men started moving to the other, soon enough, they were face to face.
+
+"Hi, glad you're here, Jake. I'm the boss. You will be working for me now."
+
+The two of them shook hands.
+
+"Hello," responded Jake, "am I in the right place? It seems kinda ruined around here,
+to be honest."
+
+"Yes, this is the correct place. Now, I will tell you where you need to go next.
+And I also got your first assignment. You get to fly a brand new helicopter. It's a Sikorsky H-60/S-70,
+utility line. Decomissioned without having taken a single trip before we got to it."
+
+"Hey, that's pretty cool. Isn't that a military helicopter, though? From a different continent, no less?"
+
+"It is, but if you got coin, you can buy them when their 'tenure' ends. We managed to find one
+which was just sitting in a warehouse."
+
+"Oh, man, that gets me excited, then, haha," Jake responded in a cheerful tone. "Well, it's a still strange just
+standing like this in the dark around some ruins, but this nice helicopter really gets my hopes up."
+
+"Ah, I'm afraid that this is not the end of strange things you are going to see here, heh. Anyways, to your
+task. You will arrive at our camp, in an empty area west of the nuclear power plant. We have set up camp there.
+There, you can relieve yourself of your backpack and go to sleep. By the next day, the others should mark a heliport
+near the camp, so you know where you will have to land.
+
+In the morning, go to the provisions officer, he has a yellow
+tag on his back and will probably be running around, distributing equipment, can't miss him. He will give you
+a parachute, a helmet and a handgun. The City is dangerous at times, so this is just an insurance in case you'd
+need to defend yourself.
+
+You will travel to the other side of the city, to the distribution center. That's where the helicopter
+is landed, and it's also where you will meet your co-pilot. They will already be waiting for you. The
+staff at the distribution center will attach a large pallet - and it will be also wrapped in a net - of cargo
+to the helicopter. Your task will be to take your co-pilot and fly all those supplies to the camp back near
+the powerplant.
+
+I recommend high altitude, for safety reasons."
+
+Jake nodded his head and said: "I get it. I'll do my best, boss. By the way, can I ask your name? Also, how
+do I get into the city, to the camp?"
+
+"Well, you can ask, but I'm afraid I can't give you an answer at this time. Later, sure,
+when we have our feet on the ground, but not now.
+There are people, who would be none too happy about my presence in The City, and I can't risk someone
+will be out to get me before we will have even set up shop."
+
+"Whoa, that sounds dangerous. It feels more like an action movie than a company expansion!" commented Jake.
+
+"Nooo, but it feels like that sometimes, haha. Now, let me be frank with you. There is a military aspect
+to our operation, and we need to do some stuff which seems sketchy to the outside observer, but don't worry,
+nothing of that is on you. Got it?"
+
+"Uh, alright, I'd prefer to stay out of too much danger, though, if you get me. How sketchy are we talking?"
+
+"Militaristic, weaponized. You'll see. Now, I know what I just said sounds scary, but I was being forward.
+Need to cover my bases, you see. Even with employees. I want none of you hurt or shocked or anything.
+Everyone has been briefed on what concerns them."
+
+"I see, well I'm curious and a little frightened, not gonna lie."
+
+"I understand that, of course, but you have my word. Not to mention, I can really make this worth your while.
+Apart from your payment, I can offer you a golden ingot. Real one, twenty-four carat gold. This might sound
+old-fashioned, keeping gold, I mean, but have you seen the prices lately? The last great war used up
+a great portion of the world's gold reserves on weapon electronics. Lower supply, bigger price. Let it
+sit for a few years and you'll be rich," the boss added.
+
+"Alright, thanks, I'm not really in it for the money, but thank you. Sounds like a rare keepsake to me,"
+said Jake.
+
+Jake suddenly heard a strange sound, as if something was dripping.
+
+The man continued: "Oh, I nearly forgot, you asked me how to get into the city. Well, you see the walls,
+they are a few minutes away, but they look tall already. So just go ahead towards the walls and you will
+get there. Don't worry about anything. Trust me."
+
+Jake listened, but he was trying to locate the source of the dripping. Aha! There it is.
+
+"Uh, Boss, I think you're bleeding from your left hand." Dark droplets vere slowly dripping onto the ground.
+There was either very low oxygen content in the blood, or it was mixing with some other color.
+Maybe the coat? Maybe the hands were dirty, it was possible he was touching some machinery and
+got some tar or pitch on his hand. Something like that.
+
+"Oh, that, yea. It will be fine. I guess it's the price you pay if you rush things, haha. Slow
+and steady, they say, slow and steady... Anyways, you better get going, same goes for me. I need
+to run one more errand first, so I'm going back to my car, it's parked on a road nearby. See you around,
+Jake."
+
+"Okay, goodbye, boss."
+
+This was a little perplexing. Jake tried many strange jobs, but not a single one of them began like this.
+
+He started walking towards the walls. It started to get windy.
+
+His path was blocked by a dilapidated bridge. Adjust backpack shoulder straps, examine the obstacle. Climb over it.
+Look around at the top. Ruins all around. Wind blowing.
+
+He took out an energy drink from his backpack. Refreshing, recharging. Start walking again.
+
+Wind intensifies. You can hear it whistle through the buildings. Clear sky, more stars appear.
+The moon is nearly full.
+
+Wind intensifies. He tries to figure out a way which uses the ruins as a cover. It only helps a bit.
+The ruins provide less and less cover the closer you get to The City.
+
+Wind intensifies. It's a warm wind. Unusual for winter. A lot of dust is lifted off the ground,
+making it harder to see.
+
+Again, wind intensifies. Jake can't stand it anymore, he has to close his eyes and cover them
+for a moment. He reaches behind and tries to blindly search for his sunglasses. Should be somewhere
+near the top of the backpack. Can't find them.
+
+The wind starts to slow down. It gets slower and slower, soon enough, it's just a breeze with an occassional
+stronger gust.
+
+Jake opens his eyes. He is elsewhere, there are no ruins around him. He can see the camp a few hundred feet of him.
+To his right is a nuclear powerplant. Wall is behind him.
+
+"What the hell?" he says to himself. He adjusts his backpack and goes to the camp.
+
+There is a few dozen people at the camp. They are wearing similar overalls as him, but the stripes
+have different colors or positioning. There is one woman which has two white stripes on one side, none
+on the other.
+
+There is also a lot of people in combat gear. They are in all black and are wearing masks. Not a single
+inch of skin is showing. They are just idly standing around. Sometimes, one of the overalls points at
+a crate or some object and shouts a command and a few of these pick it up and carry it where requested.
+
+Jake walks to the camp. Several people say hi to him. He responds likewise. He can't tell where to go.
+
+Suddenly an older man waves over at Jay, it's the provisions officer. He welcomes and apologizes that
+the camp is still in chaos. "We're only just setting up," he explains. He beckons Jay to one of the tents
+and hands him the items. Also, he gives him a map of the city.
+
+"I know you were probably expecting to pick these up in the morning, but we are in a kind of a
+hurry here, so I'm just giving you the stuff now. Also, you will need these for your way to the
+distribution center." He hands him a card and some change. "The card is so you can use the trains,
+the change, just in case. Or buy yourself a lunch, I don't care."
+
+Jake is a little confused by the chaos that's going all around him, but he thinks, "fair enough,
+it's the first day, this is all to be expected." Another person waves at him and beckons. This time,
+it's a woman, she has green stripes in the same pattern as Jake.
+
+She shows him to his bed and gives him a locker key. Jake decides he's had enough, he stores away
+his stuff and goes to sleep.
+
+In the morning, it was much more peaceful. He went outside of the tent, then regretted the decision
+because it was quite cold for his half-naked body, went back inside, put some clothes on and went outside.
+
+Just as it was promised, there was a heliport ready, next to the camp. He was surprised that it was possible
+to make one so early.
+
+He picked up his stuff, opened the map and tried to position himself. In a moment, he was able to
+figure out the nearest train station, so he picked up his things and left the camp.
+
+This part of the city was not exactly falling apart, but still, in a not so good shape.
+He could clearly tell that this district was worse off.
+
+"Good, I have the gun," he thought. It was a CZ-75, a reliable semi-automatic handgun. It was
+a bit outdated, with most of them being produced during the Great War, but it still worked well
+for most situations.
+
+Jake had to walk for quite a while in this district and although he saw some strange looking fellows,
+nothing happened.
+
+Eventually, he reached the train station. Luckily, the card worked.
+
+After a few minutes, the train arrived. Jake was standing near one of the train doors and was waiting
+for it to open. When it did, a short girl sproung out from the train and bumped into Jake hard.
+Jake saw that she had something like a burn accross her right eye. She looked quite irritated and
+was cussing under her breath. He could only make out the words "Fucking forgot".
+
+Strange. Jake boarded the train. He was able to find a seat by the window. So he just sat back and
+looked at the city.
+
+The city was split by a river. It had an odd color, like a hint of red, Jake thought that they must be
+leaking some garbage into it, and that's why it has that color.
+
+The eastern part was in a noticeably better shape than the western part. Both halves of the city
+displayed signs of renovation. In the West, it was often shoddy at best. East was more serious about
+rebuilding, some reconstructions were still taking place.
+
+He left the train near the South-East Gate. That was the one where the distribution center was.
+
+After about ten minutes of walking, he reached it. There it was, a majestic Sikorsky, with a fresh
+black finish. There was another Morpho worker sitting on the skids. He was eating a sandwich. Must be
+the other pilot.
+
+Jake greeted the other man and the two confirmed that they are the pilots. The other pilot then
+went into one of the buildings. A few seconds later, he emerged with several other people, who
+started attaching the large pallet of goods to the helicopter.
+
+There were all sorts of items on the pallet. Bags, crates, boxes, some machines. A coffee machine,
+even. One of the boxes had "GUNZ" written on it in crayon. That was a little suspicious even to Jake.
+On the other hand, it was probably be a joke.
+
+Soon, the helicopter was ready for lift off.
+
+Start the engine. One hand on the cyclic, one on the collective. Feet on tail rotor pedals. Lift off slowly.
+
+There is a strong south-west wind. Have to account for that. Adjust balance. Rise up.
+
+Maximum altitude available at this load is a under 1.5 km. Given the warning, Jake would prefer to go higher,
+but it's not possible.
+
+"Flight control, this is Morpho-Sikorsky. We are about to take off. Over."
+
+"Roger, Sikorsky. We only have one helicopter, you don't have to introduce yourself. Over."
+
+"Flight control, there is a strong south-west wind, landing may be difficult, please clear the landing zone of any obstacles
+before we get there. Over."
+
+"Roger, Sikorsky. We're on it. Over."
+
+.
+
+.
+
+.
+
+"Flight control, we are about to cross the river. Halfway there. Over."
+
+"Roger, we will be ready for you. Over."
+
+Elsewhere, a moment earlier. A man with binoculars is standing on one of the rooftops. He is in green combat gear,
+with a black gas mask and a red cape made of thick plastic. Like a raincoat. He has messy blue hair, the dye
+is fading in some places, the length of the hair waries from almost none to a few centimeters. There is
+no sense or direction to his hairstyle.
+
+He has several grenades attached to his vest, and above them, a sawed off shotgun and a few shells strapped to its barrel.
+On his left side, he has a blood bag attached. A hunting knife is dangling from his belt.
+
+> The greatest hazard of all, losing one’s self, can occur very quietly
+in the world, as if it were nothing at all. No other loss can occur
+so quietly; any other loss - an arm, a leg, five dollars,
+a wife, etc. - is sure to be noticed.
+
+Then, the man spoke.
+
+"Ahhh, what a fine fucking day to be alive. Everything goes well, the sun is shining, the wind is blowing,
+and I was just about to go do some 'philantropy', when I see that life has yet another treat for me."
+
+The man coughs, stretches his hands outward and turns around.
+
+"Rejoice brothers, for tonight... we feast."
+
+He turns around again and points at the helicopter
+
+"That"
+
+.
+
+.
+
+"That cannot be carrying anything good. Black helicopters flying over the city..."
+
+"You know, I used to fly one of these, back in the day. And I can tell you, each time we flown one like that
+... we were up to no good."
+
+"But one man's warcrimes is another man's comeup. I... want what it's carrying. Weapons, explosives, drugs.
+Whatever it is, we need that..."
+
+He turns on his heel again, and runs his hands through his hair.
+
+"Now, this is pretty high, a small target... if you are ordinary. But some of us in the city used
+to be privy to a kind of a special juice... one that... affects you."
+
+"And now you got it all. Better senses, a healing factor, some other stuff... Anything you could ever want..."
+
+He turns on his heels again, picking up a rocket launcher.
+
+"We are the next step in human evolution. It's *homo ascendens*, the climbing man. Rising through the ranks.
+We are the missing evolution link... and it's onto us to return the world to it's proper order..."
+
+"Where weak step aside for the strong, where those who adapt thrive and those who don't are... eliminated.
+Seize the day! *Carpe diem*... soon, we shall return the steering wheel of society to nature...
+kickstart the natural selection and save evolution. And I promise you..."
+
+The man turned his head to the ground and spoke more quietly.
+
+"And I promise you... that I will return man the primordial freedom he deserves, liberate him from
+the chains, and the strings... and the chains... and the strings... Or else my name isn't Voss!"
+
+"Men! Today is the day we begin! Our long work is finally coming to fruition," he said, patting the blood bag
+on his side.
+
+And as he said that, he pointed the rocket launcher at the helicopter and fired.
+
+Meanwhile, in the helicopter.
+
+"Flight control, alert, we got incoming," Jake yelled as he tried to steer the helicopter from the path
+of the missile.
+
+"We avoided the missile, but the cargo took a hit. We're bleeding goods."
+
+"Roger Sikorsky, try to get back here as soon as you can. We will have to cut our losses. Over. Hurry up,
+we are all on edge. Over."
+
+Back on the ground.
+
+"Ahh, we missed... Loot is falling from the sky and the wind is spreading it all over the city...
+No matter, it appears what you can't do in one hit, you gotta do in two. Hand me the heat-seeking one."
+
+Eject shell, reload rocket launcher. Prime the weapon, fire.
+
+"Mayday, mayday!!! We got -hit, - lost the hind rotor! Mayday, mayday!! -can't control the -copter."
+
+"Abandon ship, Sikorsky, get out of there."
+
+Jake and the co-pilot jumped out of the helicopter and deployed their parachutes. The helicopter continued
+to plummet down and ended up crashing into the river near one of the bridges.
+
+The two pilots were slowly gliding towards the camp.
+
+From up here, the city looks so peaceful. It's... surreal. There is something solemn about it,
+and noble. A man's ideal washed away by the years can still shine through if you look closely.
+An ambition which turned into something entirely different.
+
+The peace only lasts for a few seconds as gunshots start to fly by the two parachutists.
+
+They try swerving from side to side to avoid the bullets. Co-pilot's parachute gets hit several times,
+Jake's only twice. Co-pilot starts to descent faster than Jake.
+
+He ends up somewhere in the western district, while Jake makes it to the camp.
+
+He collapses to the ground, sweaty and breathing heavily. He loses consciousness.
+
+Back on the rooftops.
+
+"Now, gentlemen, I'd only call this a partial success, but a success nevertheless. Now, some of you, go sweep
+the streets around us, there is some cargo, we need everything we can get..."
+
+"The rest of you... refill your blood bags and prepare the sleeping gas grenades and flashbangs. We are going to
+hunt us a... white dove."
+
+
