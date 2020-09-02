@@ -1167,7 +1167,7 @@ What's the difference? These thoughts and other similar ones keep popping up in 
 <div data-aos="fade-right" style="margin-right: 80rem; margin-left: -47rem; width: 45rem; text-align: right"><b>STARRING</b></div>
 
 He looks somewhere in his early twenties, not very muscular, more on the skinny end of the
-distribution, even, his black hair seemingly has a mind of its own and formes two large cones,
+distribution, even, his black hair seemingly has a mind of its own and forms two large cones,
 one on each side of his head. He looks sickly, his pupils are heavily dilated, he looks pale
 and glistens with sweat.
 
@@ -1192,7 +1192,7 @@ to be painful in the morning, though.
 
 <div data-aos="fade-right" style="margin-right: 80rem; margin-left: -47rem; width: 45rem; text-align: right"><b>NEIRO</b> AS THE WINGED ONE</div>
 
-As the man lies in the garbage a butterfly catches his attention. What his a butterfly doing
+As the man lies in the garbage a butterfly catches his attention. What's this butterfly doing
 here? And at night? He must have startled it when he fell.
 
 It is a nice, big blue one. The wings have a black outline. When its wings are closed, it looks
@@ -1218,7 +1218,7 @@ He stops to breath and finally manages to look up.
 The stars are shining bright as winter stars are wont to do and shimmer silently.
 In his current state, they are far and yet look very close. He tries to reach them, but he can't.
 In his eyes, the stars move and shift, from side to side, some appear to brighten up, other dim down.
-Constelations are twisting and turning. The sky comes to life.
+Constellations are twisting and turning. The sky comes to life.
 
 If he weren't so out of it, maybe he would've stopped to consider, if this is not the constellations
 playing out their stories. A recording of history made by ancient men, forever encoded in the stars
@@ -1263,7 +1263,7 @@ and darker... and darker...
 
 The man has a strange dream. One of chaotic images flashing fast, here and there.
 <div data-aos="fade-right" style="margin-right: 80rem; margin-left: -47rem; width: 45rem; text-align: right"><b>HORUS</b> AS THE MAKESHIFT NURSE</div>
-Everytime he tries to focus on a single one it seems to disappear and he can feel
+Every time he tries to focus on a single one it seems to disappear and he can feel
 his head hurting, despite this being a dream.
 
 .
@@ -1276,7 +1276,7 @@ Is it tar? Is it paint? Is it dirt? No, doesn't seem like it. There is something
 the impurities diffuse in the water.
 
 He finally figures it out. It is ink. And suddenly he can see around himself that the droplets
-aren't everything falling from the skies. So are dozens of dead octopi, squids, crabs and jellyfish.
+aren't everything falling from the skies. So are dozens of dead octopuses, squids, crabs and jellyfish.
 The ink probably seeped from their dead bodies. The crabs clack and crack when they hit the ground,
 the rest loudly splats.
 
@@ -1365,7 +1365,7 @@ However, this "many" didn't include Endell. He was her ex-boyfriend from what se
 For him, she was mostly a headache, although the two managed to reconcile with time.
 
 Speaking of headaches, Minerva was suffering one right at this moment. She had a new girlfriend for
-some time, a young-looking girl with a, let's say, "ratty disposition". She was just as excentric as Minerva,
+some time, a young-looking girl with a, let's say, "ratty disposition". She was just as eccentric as Minerva,
 but in a completely different way. Despite this, and their disparity in temperaments - Minerva was far more mature -
 it seemed to click.
 <div data-aos="fade-right" style="margin-right: 80rem; margin-left: -47rem; width: 45rem; text-align: right"><b>HENRY CROSS</b> AS HENRY CROSS</div>
