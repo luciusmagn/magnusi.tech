@@ -1132,7 +1132,6 @@ the streets around us, there is some cargo, we need everything we can get..."
 "The rest of you... refill your blood bags and prepare the sleeping gas grenades and flash-bangs. We are going to
 hunt us a... white dove."
 
-<div id="alma"></div>
 
 # > Chapter 2
 
@@ -1430,13 +1429,13 @@ Minerva felt that, but not the kind that kills people... more like the opposite.
 Minerva pointed her weapon at him and put on a very stern look: "Alright, spill it out. If you are his friend from old days,
 then you must know that Endell was in some shady stuff when he was younger. That means you were probably, too. Spill the beans."
 
-The man stepped two steps back and put on a shocked face: "Fine, I concede, I'm an affected, too, and I met him in the underground,
+The man stepped two steps back and put on a shocked face: "Fine, I concede, I'm a Modified, too, and I met him in the underground,
 but I was never really involved with the underground and kinda split off, just like he did. He was good to me all those years
 back and now that I've finally managed to pull myself together, I'd like to surprise him and speak to him again."
 
 He tried to turn on his heel, but Minerva interrupted him: "DON'T... MOVE". The man froze in his tracks.
 
-"Hey, look, miss Cerés[sic]... I bring gifts." he reached into his bag and pulled out a bottle of wine.
+"Hey, look, miss Cerees... I bring gifts." he reached into his bag and pulled out a bottle of wine.
 
 "This is for you, as a sign of good will. Here, it's the Silver '30, a really fine year, hard to come by!"
 
@@ -1485,4 +1484,197 @@ to reveal clear blue eyes.
 
 .
 
-# INTERLUDE: MEMORY 1
+<div id="alma"></div>
+
+# INTERLUDE: MEMORY DATASTORE 15B9B298SY79298N0NS76 > ZmlyYSBhbmQgbWFn
+
+Elsewhere, about a 100 years ago.
+
+Fira Angelica was a pirate.
+
+Her quest for immortality has been changed forever by the realization of
+her true nature.
+
+A series of unfortunate events led to an adventure never before seen in this
+world.
+
+Right now, she, her brother Azwater and the rest of the crew were escaping their pursuers,
+with only two days between their ship and the ships of those, who were after them.
+
+Azwater, Fira and the crew were running low on supplies and Geoffrey Brimes
+was injured, they urgently needed to make a stop.
+
+It took them three days of sailing to reach Dead Whale Port, the closest pirate
+sanctuary. Now, the rules of the port were similar to many other pirate-ran locations.
+Regardless of your relationships with other pirates, no combat was allowed within
+its waters. There was the rest of the Pirate Code too, but that's too long to explain.
+
+It was evening when their ship landed in the port. They had to restock as quickly
+as possible and Geoffrey needed his wound tended to, so the entire crew sprung out of
+the ship like a well-fired cannonball. Well, apart from Geoffrey, he needed Benji
+to help him get to the healer.
+
+Dead Whale Port was home to the finest pubs in the area and most members of the
+crew knew that. Since it turned out that not all of them were needed to restock the ship,
+Shizo Ran invited Fira for a drink.
+
+They went into the closest pub to their ship. It was a open building, so they had
+a beatiful view of the sea. Older, more experienced pirates seemed to like this pub
+because of this, because for a true sea rover, the ocean was the only true love.
+
+Shizo ran signalled over to the waitress: "A beer for me and for the lady!"
+
+"Ah, thank you," Fira responded, blushing slightly.
+
+A short while later, they both had a pint in front of them.
+
+"Cheers," they both said, touching their jugs of beer.
+
+...
+
+"You know, if we succeed in this quest, I'd like to come here again. I like this place,"
+said Fira suddenly with dreamy eyes.
+
+"Yeah, I like it here too," responded Shizo with smile.
+
+Shizo diverted his attention to Fira's jug: "Hey, don't over do it, you kiddo! If you
+drink this fast, you will end up under the table! You know you are a lightweight, even for beer,"
+he said with a smirk.
+
+"No, I'm not, eeek," Fira retorted, slightly embarrassed after their previous experiences,
+"and I'm not a kiddo".
+
+"Oh, I'm sorry, it's just when you are this short, I mistook you for a toddler". Shizo was
+having a very good time at the moment.
+
+Fira let out a growl. She had soon almost finished the beer. She and Shizo chit-chatted about
+their journey and discussed the future plans their crew had, but suddenly, they were interrupted
+by Benji, who joined them at the table.
+
+"Hey, what are you two doing here? Are you babysitting, Shizo?" Benji started.
+
+"Not yet, but hey, lay off her, I already bullied her about that a few minutes ago."
+
+"Well, sure, I guess. I'm here just to have a quick pint anyway. I need to pick up old Brimes
+in a bit. He will be good, apparently, the wound wasn't hard to heal, but he won't be able to
+walk for a few more days."
+
+"Oh, that's good to hear," Fira responded, "I mean... the fact that he will be okay is great, not that
+he will need a few days to recover," she corrected herself.
+
+"Yea, it's great, but the geezer is more insufferable than ever, haha. I think we are going
+to hear all about it for the next month or so."
+
+Shizo laughed: "A month? That's optimistic. I mean, I like to tell stories, but I'm no match for a cranky
+vindictive Brimes. Until the end of our journey, I say! Not a minute earlier."
+
+Fira was enjoying the smalltalk with her friends, but she noticed something that put her on her edge.
+There was someone watching her.
+
+A man donning a black dress with a black coat over it, and a black hat with a large white feather. Most of his
+face was obscured by the hat, but she could tell that he was watching her from the other end of the pub.
+She only briefly saw a flash of his eyes and they looked... red? She thought she must be mistaken.
+
+Anyways, it was probably just her imagination playing tricks on her. Her recent life has been a
+rollercoaster, it was most likely making her be not herself her a bit. Or so she thought.
+A more pressing question was on her mind, now that she learned who she really ways. "What am I
+really like?"
+
+She was absorbed in her thought for a bit, but she was disturbed by Benji and Shizo reacting to someone
+coming over to them.
+
+It was the strange man in black. He really had red eyes with a triangular pupil. Fira noticed one of his
+eyes spinning a tiny bit.
+
+"I'm sorry, gentlemen and gentleladies," looking at Fira, "to interrupt you this fine evening. I come in peace
+a fellow lover of the sea to fellow lovers of the sea and I would like to ask you, gentlemen, if I could borrow the
+lady for a minute? Don't worry, I just want to speak to her for a minute."
+
+"No, thank you," responded Fira. She didn't know this man and frankly, she was a little scared about his visage.
+
+"I'm sorry, matey, not today, go bother someone else. We are in a hurry" responded Shizo and Benji.
+
+"Oh, I see, then," responded the man.
+
+He leaned over to Fira and whispered something in her ear. Fira froze and became white as a wall.
+Very pale.
+
+She said: "Excuse me for a moment, boys, I will be right back." and went to an open walk-in tent
+with the man.
+
+The man began: "Like I said, you are artificial."
+
+"How do you know that?"
+
+"I am not really a human. Call me mag or magnusi, by the way, nice to meet you. My eyes are special and they can see
+that your inner structure is very symmetrical and perfectly laid out. Your bones, some organs and so on.
+As if it was by design. Furthermore, there is a hole in your neck, which only got covered by your skin,
+but doesn't seem to make any attempt to fill itself with tissue. As if it was a slot for something."
+
+"Alright, you are right, I'm artificial, I was made by someone. I'm just some complex code, it seems. What do you want from me?"
+
+"Nothing, I was just being curious. I too am a part biologically artificial, but in my case, I did it myself.
+Now then, I'm interested in who made you."
+
+"He is called Echo, and he is a god."
+
+"A 'god' you say? Oh...," continued mag with a sly smile, "well I know about few of them. Some people count me
+in that category, too. You see, I got some strange powers and a very large number of years under my belt, haha. Tell me more."
+
+Fira then continued explaining her condition, about who she is, who Echo is and how he treats her, who Ciara is
+and how Fira's whole ordeal works, and why she is on her quest for immortality..
+Without really knowing why, she tried as best as she could to piece together the information she had available in this world.
+
+"Interesting, I have never heard about anything like this. It seems that me and my boys operate slightly differently
+than this Echo god. Curious."
+
+mag continued: "Well, I cannot bestow immortality upon you or your brother unfortunately, but I can give you
+a little something to maybe help you on your way."
+
+magnusi pulled out a vial and slit his wrist, using his abilities to softly and silently guide the blood into the the vial.
+
+Then he pulled out a cork and sealed it.
+
+"Look, this is my blood. It will help heal any wound better than most medicines there are. But beware, you have to be subtle.
+My blood is toxic in a way, in that it spreads my essence into others as a sort of a poison, so don't use too much of it on one
+person, or else they might suffer some unwelcome side-effects including developing insanity and some of my powers for a short while."
+
+"Thank you, very much. It's a great help," Fira responded, but she was a little worried about the warnings magnusi gave her.
+
+"There is one more thing. Come closer."
+Fira did.
+
+magnusi took her head and put it against his, so that the two of them were touching on their foreheads.
+
+"Now, look into my eyes." magnusi's eyes were spinning and jerking a little, like if you try to focus a camera, until
+they reached a synchronized position with one of the triangles' points pointing up.
+
+"Recall everything you can about this god of yours and whatever else you consider important."
+Fira didn't know what she would consider important on such a short notice, so her thoughts were really all
+over the place.
+
+"Alright," continued magnusi.
+
+Then his eyes spun left rapidly for a fraction of a second, Fira suddenly felt a spell of nausea and walked a few steps
+away from mag while holding her eyes and her head.
+
+"What the hell was that?" she asked.
+
+"I took some information. That is my price."
+
+He then pulled out his golden parachronal stopwatch.
+
+"Unfortunately, I was hoping I would be able to talk to you for a while longer, but it appears that time is not on
+my side right now. And neither on yours, as you said. You better hurry back to your ship. I'm hoping that we will meet again in the
+future."
+
+"Thank you for your help. Good-bye." responded Fira, walking away, now slightly more optimistic and waving. She thought that
+if it came to worst and they didn't have the immortality for Azwater and herself, then maybe she could at least heal her brother.
+
+magnusi, however, had to leave the world and would end up barred from ever returning to it.
+
+Fira choose to keep the vial a secret for now, maybe forever, given the warnings, and she lied to the rest of the crew
+about the meeting, saying that he was trying to convince her to join her crew by saying he knows about immortality,
+but that in reality, he didn't seem to know anything they hadn't already learned during their adventure.
+
+# EPISODE 1: LOKI
