@@ -1518,7 +1518,7 @@ crew knew that. Since it turned out that not all of them were needed to restock 
 Shizo Ran invited Fira for a drink.
 
 They went into the closest pub to their ship. It was a open building, so they had
-a beatiful view of the sea. Older, more experienced pirates seemed to like this pub
+a beautiful view of the sea. Older, more experienced pirates seemed to like this pub
 because of this, because for a true sea rover, the ocean was the only true love.
 
 Shizo ran signalled over to the waitress: "A beer for me and for the lady!"
@@ -1567,7 +1567,7 @@ to hear all about it for the next month or so."
 Shizo laughed: "A month? That's optimistic. I mean, I like to tell stories, but I'm no match for a cranky
 vindictive Brimes. Until the end of our journey, I say! Not a minute earlier."
 
-Fira was enjoying the smalltalk with her friends, but she noticed something that put her on her edge.
+Fira was enjoying the small-talk with her friends, but she noticed something that put her on her edge.
 There was someone watching her.
 
 A man donning a black dress with a black coat over it, and a black hat with a large white feather. Most of his
@@ -1575,7 +1575,7 @@ face was obscured by the hat, but she could tell that he was watching her from t
 She only briefly saw a flash of his eyes and they looked... red? She thought she must be mistaken.
 
 Anyways, it was probably just her imagination playing tricks on her. Her recent life has been a
-rollercoaster, it was most likely making her be not herself her a bit. Or so she thought.
+roller coaster, it was most likely making her be not herself her a bit. Or so she thought.
 A more pressing question was on her mind, now that she learned who she really was. "What am I
 really like?"
 
@@ -1731,7 +1731,7 @@ That didn't happen, instead what came out was something else and Endell quickly 
 "Hell", he thought, "she swapped out the cassettes again without telling me."
 
 Now, after being with Neiro for some time, he learned how to live with Neiro music, but
-what she had in the cassette player didn't fit the occassion, suffice to say.
+what she had in the cassette player didn't fit the occasion, suffice to say.
 
 However, there were also things happening outside his home.
 
@@ -1771,7 +1771,7 @@ their fumes.
 Smoke starts filling the flat as Endell rolls back into the kitchen and grabs the first makeshift
 weapon he could find, the egg pan.
 
-He throws the eggs at one of the assaillaints and slams another over the head with it. All of them
+He throws the eggs at one of the assailants and slams another over the head with it. All of them
 were geared up, but he managed to hit the first one in exposed skin on the neck, so he screamed and stumbled.
 
 Bang, Endell hit him too.
@@ -1809,7 +1809,7 @@ A man in a red raincoat-material hood comes in. It's Voss. He takes out an engra
 Endell into the chest and then fires several times.
 
 Endell is a little dazed, but he recovers and kicks Voss out. Voss stumbles back and Endell catches him
-off-guard by pluging a knife that fell out of one of the attackers between neck and collarbone.
+off-guard by plunging a knife that fell out of one of the attackers between neck and collarbone.
 
 Another man rolls in and goes after Endell, pinning him down for a few seconds. He tries to choke Endell,
 but Endell manages to punch him into his gas mask, shattering his left eye glass and thus sending several glass
@@ -1835,7 +1835,7 @@ He didn't notice that Voss is holding a primed grenade in his hand and can barel
 at him, while turning on his heel and picking up a ceramic bowl, which Neiro left on the nightstand
 after snacking last night.
 
-It's a fleshbang, Endell is blinded by the light and defeaned by it going off. He is staggered.
+It's a flashbang, Endell is blinded by the light and deafened by it going off. He is staggered.
 
 Voss doesn't slow down and slams Endell over the head with the bowl, which shatters it and leaves
 several cuts on Endell's face.
@@ -1898,14 +1898,14 @@ too far, in the direction that was closer to the truck despite neither of them h
 
 Earlier today, Neiro left the train at the station next to Val's so she could take a walk.
 
-Horus and Neiro then walked over to the walkstation. On their way, Horus could see more of how the city
+Horus and Neiro then walked over to the train station. On their way, Horus could see more of how the city
 looks like. There was a lot of establishments one might consider unsavory, and, despite this being the wealthier
 part of the city, its look didn't necessarily inspire security.
 
 Suddenly, Horus stop and asked: "You see that guy over there on the bench? He looks to be in a pretty bad
 shape. You think he's alright?"
 
-Neiro responed: "Probably." It was not uncommon to see drug addicts in the city. Since the pill market
+Neiro responded: "Probably." It was not uncommon to see drug addicts in the city. Since the pill market
 was still a little shaken, with recipes of Modified medication being only in the hands of few, it was most likely
 he was a Modified who didn't get his pills in time or even lacked the money to get them.
 
@@ -1946,7 +1946,7 @@ Horus reacts to the whole situation: "Alright, it doesn't look like this Loki is
 don't think it would be fair to leave him out like that. It's cold, and well, he isn't freezing to death,
 but his lips are a little blue. I will take him to the truck and let him rest. Would you like to come with?"
 
-He lifted this "Loki" and put him over his shoulder. Horus was a pretty big and appeared to be mascular
+He lifted this "Loki" and put him over his shoulder. Horus was a pretty big and appeared to be muscular
 (despite his beige trench coat obscuring most of his physique to Neiro and any possible nearby observer),
 and Loki was more on the scrawny side and shorter than Horus.
 
@@ -2005,7 +2005,7 @@ He then closed the container, noting: "Alright then, this guy isn't waking up fo
 so he won't mind."
 
 Horus then went to the cabin of the truck and retrieved another cigar, to have ready just in case.
-He was not really a smoker, but it has proven today to be a valueable bargaining chip in relation to his
+He was not really a smoker, but it has proven today to be a valuable bargaining chip in relation to his
 strange guide.
 
 He stretched his arms and massaged his shoulder and then he went to take a walk around the block.
@@ -2124,7 +2124,7 @@ Horus was trying to ask, if she doesn't know who could have done it, but Minerva
 figuring it out.
 
 Then it suddenly hit her. She put two and two together and became horrified and overcome with guilt.
-It was that strange man. It was her fault, she led him to her. Tears started streaming down her cheecks too,
+It was that strange man. It was her fault, she led him to her. Tears started streaming down her cheeks too,
 messing up her eyeliner. It was too much for her, first Rat, now Endell. She felt horrible.
 
 She tried to explain to Neiro, but it was hard on her too. She didn't question who Horus was, given the
@@ -2142,7 +2142,7 @@ quickly distracted by the sounds of gunfire, coming from nearly everywhere.
 
 People were screaming from all around. Perhaps, it was the whole city. The sky started to darken.
 
-Strange soldiers in black gear started flooding the city, coming from near the powerplant. There were probably
+Strange soldiers in black gear started flooding the city, coming from near the power plant. There were probably
 thousands of them in the city.
 
 Gunfire all around.
@@ -2150,10 +2150,10 @@ Gunfire all around.
 Horus decided: "What the hell, this is bad. We need to run, quickly! To the truck!"
 
 They started running through the chaos on the streets. The armored men were only about a hundred meters behind them,
-they were firing occassionally at or near people.
+they were firing occasionally at or near people.
 A few shots flew right by him and Neiro.
 
-Horus spotted that they are non-letal shots, rubber balls. Made to make a bruise but not to kill.
+Horus spotted that they are non-lethal shots, rubber balls. Made to make a bruise but not to kill.
 Neiro looked behind, she could see the soldiers advancing forward and pushing people back into the houses.
 
 They were taking some people, ones that looked particularly horrible. Horus saw one of these people seemingly
@@ -2163,7 +2163,7 @@ One soldier walked out from an alley that Horus and Neiro were about to run past
 revolver, shot him, cocked the hammer again and shot him for a second time.
 
 The soldier seemed to be knocked back and staggered, since the SAA does pack a punch as a weapon, but otherwise
-seemed unaffacted. Neiro felt something strange about the soldier.
+seemed unaffected. Neiro felt something strange about the soldier.
 
 However, these two shots were able to give them a window to escape, they turned a corner and they were
 finally close to the parking lot.
@@ -2208,7 +2208,7 @@ industrial zone, they seemed to go after people, and there weren't people there 
 Horus quickly said.
 
 "Yea, it's abandoned," said Neiro. Then she realized their predicament and blurted out: "Oh my god...".
-She held her hea din their hands, then she started cracking her knuckles again and again. She was really on
+She held her head din their hands, then she started cracking her knuckles again and again. She was really on
 edge, but this wasn't the time to smoke.
 
 "I saw one large abandoned warehouse there, it looked pretty good, I think we can hide near it, then
@@ -2242,7 +2242,7 @@ Horus looked up to the sky. It was somewhat dark. Very little stars could be see
 Elsewhere, some time earlier.
 
 A man on a horse rides into the Morpho encampment from the side of the walls. Behind him, hundreds, if
-not thousands of black soldiers follow on foot. Their march is perfectly in unison, it sounds almost artifical.
+not thousands of black soldiers follow on foot. Their march is perfectly in unison, it sounds almost artificial.
 Just like a perfectly prepared army parade.
 
 The man on the horse stops on in front of one of the Morpho officers. The man was wearing a black coat,
@@ -2252,12 +2252,12 @@ He was bleeding from his left hand.
 
 The officer greeted him: "Greetings boss, glad you could make it."
 
-"Thank you, Andrew. What's our status, what about the helicopter."
+"Thank you, Andrew. What's our status, what about the helicopter?"
 
 Andrew the officer explained the situation.
 
 "I see, that is unfortunate. The helicopter was supposed to carry my personal effects, too,
-not to mention important machinary. Anyways, we brought a lot machinery and materials as well.
+not to mention important machinery. Anyways, we brought a lot machinery and materials as well.
 What's the condition of the pilots, Jake and William?"
 
 "Jake is here, in the infirmary. He was shot in the thigh during his descent and lost a fair bit
@@ -2266,12 +2266,12 @@ somewhere in the city, due to a damaged parachute. We sent out a few people to f
 
 "Ah, I'm sorry, I exposed my men to a greater danger than I expected it would be. I appreciate their
 work. Hopefully, they will both be fine. I will do my best to make it up to them.
-Nevertheless, we need to procede with the operation."
+Nevertheless, we need to proceed with the operation."
 
 "Understood, Boss."
 
 The Boss turned on his horse and yelled out: "Venerable Sentinels, your time has come. Rise and seize
-the city. Bring in those we need. Put everything on lockdown!"
+the city. Bring in those we need. Put everything on lock-down!"
 
 He then pulled out a flare gun and fired a flare into the sky. This alerted even the Sentinels who were
 farther away and had no chance of hearing him.
