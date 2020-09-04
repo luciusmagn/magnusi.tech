@@ -1484,7 +1484,6 @@ to reveal clear blue eyes.
 
 .
 
-<div id="alma"></div>
 
 # INTERLUDE: MEMORY DATASTORE 15B9B298SY79298N0NS76 > ZmlyYSBhbmQgbWFn
 
@@ -1676,6 +1675,8 @@ magnusi, however, had to leave the world and would end up barred from ever retur
 Fira choose to keep the vial a secret for now, maybe forever, given the warnings, and she lied to the rest of the crew
 about the meeting, saying that he was trying to convince her to join her crew by saying he knows about immortality,
 but that in reality, he didn't seem to know anything they hadn't already learned during their adventure.
+
+<div id="alma"></div>
 
 # EPISODE 1: LOKI
 > If there are things that upset you, chaotic, terrible, serpentine monstrous
