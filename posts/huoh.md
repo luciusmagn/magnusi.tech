@@ -593,7 +593,7 @@ Neiro snaps out of it and sees that Horus snatched it.
 
 "Give it back, are you gonna school me about the dangers of smoking!?" says Neiro angrily.
 
-"No far from it, what I'm saying it, these suck," he responds as he throws it away. "I believe, that quality is preferable."
+"No far from it, what I'm saying it, these suck," he responds as he throws it away. "I believe... that quality is preferable."
 
 Horus pulls out the cigar from earlier out of the breast pocket of his trench coat.
 
@@ -1419,7 +1419,7 @@ I mean, look at his eyes and skin. A total ice man!". He turned on his heel.
 "But I'm really one of his friends, rest assured.". He turned on his heel back to face the door and stretched his
 arms out.
 
-"Sheesh, you are annoying, alright. Take of your coat, throw it to the side and put your hands up."
+"Sheesh, you are annoying, alright. Take off your coat, throw it to the side and put your hands up."
 
 "Alright, just don't shoot, haha!". He did as she instructed.
 
@@ -1577,7 +1577,7 @@ She only briefly saw a flash of his eyes and they looked... red? She thought she
 
 Anyways, it was probably just her imagination playing tricks on her. Her recent life has been a
 rollercoaster, it was most likely making her be not herself her a bit. Or so she thought.
-A more pressing question was on her mind, now that she learned who she really ways. "What am I
+A more pressing question was on her mind, now that she learned who she really was. "What am I
 really like?"
 
 She was absorbed in her thought for a bit, but she was disturbed by Benji and Shizo reacting to someone
@@ -1678,3 +1678,601 @@ about the meeting, saying that he was trying to convince her to join her crew by
 but that in reality, he didn't seem to know anything they hadn't already learned during their adventure.
 
 # EPISODE 1: LOKI
+> If there are things that upset you, chaotic, terrible, serpentine monstrous
+underworld things that threaten you, the best thing to do is to open your eyes,
+get your speech organized, and go out and confront the thing, and make the world
+out of it.
+
+Endell sat up in his bed. He was an albino with blond hair, a fairly muscular build,
+blue eyes and a characteristic mole on his face. His hair, which was slightly longer than was
+common, but not long enough to warrant a ponytail or anything of that sort, was usually swept back.
+Not now, since he was still rolling around in bed.
+
+He had a lazy day today. All he planted to do was some cleaning up,
+reading and maybe doing some repairs.
+
+This wasn't exactly morning and Endell, as a Modified, didn't need to sleep as much as regular
+humans, but everybody needs to be lazy sometimes.
+
+His girlfriend, Neiro, has left their home hours ago, she had some errands to run, and wanted
+to visit Valentine. Since she and Endell got together, they realized that neither of them is a
+good enough cook in the longterm. So Neiro, inspired by her friend, tried to better herself
+in that department.
+
+That was the reason for her visit - to let Val taste her latest attempt at cooking. Now, cooking
+requires attention and skill, both of which were hit and miss at times, in Neiro's case. This
+meant that some of her earlier attempts bordered on food poisoning or chemical contamination,
+nevertheless, there was a smooth upwards trends in the quality of her cooking.
+
+The first designated taster was always Endell, since he could eat anything without suffer
+major repercussions. If he didn't immediately reject the food, then it was good for a critique
+by Valentine. Now, Valentine was as sweet a guy as there can be, but there were some skills
+he took pride in.
+
+However, right now, Endell didn't have anything to eat. Not anything warm, anyways. He wasn't
+particularly hungry, but he also really wanted to eat something.
+
+Fried eggs it is. So, time to get out of bed and do some cooking. He only briefly folded the
+sheets, thinking he can do it later no problem. He didn't put on a T-shirt either, that comes
+later. Besides, grease can sometimes fly out of the pan and he didn't want to have a dirty
+shirt.
+
+And so he got up, readied the pan, turned on the stove, took out the butter and cracked some eggs.
+He preemptively put a plate on the table and took out a knife and a fork. There was also a book on the table.
+It was about Roman law, which is one of the first legal topics law students examined during
+their studies.
+
+Now, before the eggs are ready, he thought he could listen to some music. He was just mostly looking
+to fill the time until he could eat. He went over to the music player, which was on a counter in
+the kitchen and pressed play, expecting his usual tunes.
+
+That didn't happen, instead what came out was something else and Endell quickly turned it off.
+"Hell", he thought, "she swapped out the cassettes again without telling me."
+
+Now, after being with Neiro for some time, he learned how to live with Neiro music, but
+what she had in the cassette player didn't fit the occassion, suffice to say.
+
+However, there were also things happening outside his home.
+
+A blue butterfly, with wings that had a black edge was fluttering around in clear view of
+Endell and Neiro's place of stay. It was a church, not very used, but since two years ago, it
+looked at least a bit better. The inside was decorated with things that didn't traditionally
+belong in a church, but I will leave you, dear listener, to figure out the person responsible-
+Let me just hit that you should reach a - short - conclusion.
+
+A hand in a glove suddenly crushed the butterfly and the killer then wiped it off on his raincoat
+looking cape.
+
+Upstairs, Endell could hear some commotion from the outside. But that wasn't out of the ordinary.
+
+However, in a moment, he heard a knock on the door of their flat. So he went to the door and said:
+
+"Hello?" as he was about to go to the peephole to look at who it is.
+
+Just as he spoke though, there was a shotgun blast and many pellets made it through the door,
+several of which hit Endell in the chest. This wasn't enough to really harm Endell, but it
+staggered him for a moment.
+
+<small>Dan Terminus: Heavy Artillery</small><br>
+<audio
+        controls
+        src="/media/heavy-artiller.opus">
+            Your browser does not support the
+            <code>audio</code> element.
+</audio>
+
+Action.
+
+A second blast destroyed the door lock and the nob and the door swung right open. Men in combat gear
+start flooding through the door as smoke and gas grenades crash in through the windows releasing
+their fumes.
+
+Smoke starts filling the flat as Endell rolls back into the kitchen and grabs the first makeshift
+weapon he could find, the egg pan.
+
+He throws the eggs at one of the assaillaints and slams another over the head with it. All of them
+were geared up, but he managed to hit the first one in exposed skin on the neck, so he screamed and stumbled.
+
+Bang, Endell hit him too.
+
+Bang, Bang, Bang, another attacker.
+
+Some of them manage to take out their handguns and knifes and start to fire into the smoke.
+
+Endell is starting to feel a little dizzy due to the sleep gas. As he is modified, it won't
+be enough to knock him out on its own, but it slowed him down ever so slightly.
+
+Bang, bang, Endell gets hit two times in the chest by a handgun.
+
+He grabs a man close to him and slams him into the wall, as he bounces back, he bashes
+him over the head with the pan as a baseball bat.
+
+Sounds of metal. A knife. Endell manages to stop the hand with the knife and twist it back,
+releasing it.
+
+He catches it, in mid-air, turns it around and embeds it in the attackers neck.
+
+Endell gets shot again the back. He grabs another assailant and throws him into the bathroom, closing the
+door behind him.
+
+He then shoves a few attackers to the side and rolls into the bedroom, throwing the pan into the face
+of one of them.
+
+He grabs one of his Skorpions, switches the fire-mode selector from safety to full-auto and empties
+a magazine into two men who are just entering through the bedroom door.
+
+Another grenade flies in, this time it's a flashbang. Endell was too slow to notice. The gas and
+healing of his wounds are starting to take a toll on him.
+
+A man in a red raincoat-material hood comes in. It's Voss. He takes out an engraved M9A1, kicks
+Endell into the chest and then fires several times.
+
+Endell is a little dazed, but he recovers and kicks Voss out. Voss stumbles back and Endell catches him
+off-guard by pluging a knife that fell out of one of the attackers between neck and collarbone.
+
+Another man rolls in and goes after Endell, pinning him down for a few seconds. He tries to choke Endell,
+but Endell manages to punch him into his gas mask, shattering his left eye glass and thus sending several glass
+shards into the man's eye.
+
+The man screams, grabs his eye and opens himself to another left and right hook from Endell, which
+puts him out of the play.
+
+The choking attempt made Endell's vision a bit blurry, and his hearing was impacted as well.
+
+Suddenly, Voss appears from Endell's side and punches him hard in the stomach and as
+Endell bends over because of the impact but Voss punches him back into the temple.
+
+A faint blue glow can be seen through Voss's gas mask eye glasses and Endell suddenly
+finds it much harder to move, but he can push through.
+
+Voss kicks him into a half-open closet, shattering one of the wooden doors, but the closet otherwise
+softens Endell's impact.
+
+Endell isn't feeling very good.
+
+He didn't notice that Voss is holding a primed grenade in his hand and can barely react as he throws it
+at him, while turning on his heel and picking up a ceramic bowl, which Neiro left on the nightstand
+after snacking last night.
+
+It's a fleshbang, Endell is blinded by the light and defeaned by it going off. He is staggered.
+
+Voss doesn't slow down and slams Endell over the head with the bowl, which shatters it and leaves
+several cuts on Endell's face.
+
+Endell is almost done. He tries to blindly swing it at Voss, but he misses.
+
+Voss knocks him to the ground and then sits on his chest as other attackers are filling the room.
+
+He hits Endell in the face.
+
+Left hook.
+
+Right hook.
+
+Left hook.
+
+Right hook.
+
+Left.
+
+Right.
+
+Left.
+
+Right.
+
+He grabs Endell by the arms, lifts him into sitting position and headbutts him with full force, producing
+a crack in one of the eye glasses and a bloody stain on Endell's forehead.
+
+With the added effects of the sleep gas, Endell's world fades to black and he loses consciousness.
+
+.
+
+.
+
+.
+
+Elsewhere, some time later.
+
+> Never cease loving a person, and never give up hope for him, for
+even the prodigal son who had fallen most low, could still be saved;
+the bitterest enemy and also he who was your friend could again be your
+friend; love that has grown cold can kindle.
+
+Neiro was done with the cigar. She handed it back to Horus and he pulled in a few times as well,
+then he tapped it to knock out the ashes and smothered it with his glove. You shouldn't put out
+a cigar like that, but he didn't have anything to cut it with.
+
+"So, where do we go next, Neiro?" Horus asked, "You said you had more errands to run, right?"
+
+Neiro thought for a few seconds, then responded: "Actually, I need to go to me and my boyfriends'
+place. I need to send a letter, but I forgot it at home."
+
+She was a little cranky about it, but it was nothing out of the ordinary.
+
+"We need to go to the train station and ride the train for a few stops."
+
+There was a train stop close to Valentine's home, but Horus and Neiro walked off while smoking a cigar
+too far, in the direction that was closer to the truck despite neither of them having any planned direction.
+
+Earlier today, Neiro left the train at the station next to Val's so she could take a walk.
+
+Horus and Neiro then walked over to the walkstation. On their way, Horus could see more of how the city
+looks like. There was a lot of establishments one might consider unsavory, and, despite this being the wealthier
+part of the city, its look didn't necessarily inspire security.
+
+Suddenly, Horus stop and asked: "You see that guy over there on the bench? He looks to be in a pretty bad
+shape. You think he's alright?"
+
+Neiro responed: "Probably." It was not uncommon to see drug addicts in the city. Since the pill market
+was still a little shaken, with recipes of Modified medication being only in the hands of few, it was most likely
+he was a Modified who didn't get his pills in time or even lacked the money to get them.
+
+After all, he only had a T-shirt and sweatpants on him. It was winter.
+
+Neiro was about to start walking forward, but Horus stopped her and said: "Hey, let's check on him, see if he is
+alright."
+
+She sighed, but followed him over to the sleeping, unconscious, or possibly dead, man on the bench.
+
+Horus grabbed him by the shoulders and started shaking him. "Hey, you alright? Can you hear me? Wake up, man."
+
+This didn't help. Horus pulled out a small, but bright flashlight. He opened one of the man's eyes and shone into
+it. Neiro noticed he wasn't Modified, his eyes were brown. That surprised her.
+
+The man's pupil reacted to the light, luckily, so he wasn't in that of a dire condition. Both Horus and Neiro
+could see that his pupils were already very dilated, he probably had some strong stuff in his system.
+
+Horus tried slapping him to one side of his face and the other. The man finally starts producing sounds.
+
+"Howdy, can you hear me? What's your name? Are you alright?"
+
+The man opens his eyes with difficulty and growls. He tries to speak: "Mhnmh-ehh".
+
+Then he suddenly quickly tilts his head to the side and vomits on the pavement, for at least fifteen seconds.
+
+He then starts breathing in a more healthy manner, maybe a little too fast, but that is to be expected.
+
+"Hey, good? What's your name?" Horus repeats. It's not his first time seeing people in this state.
+Neiro, however, was a little shocked by the sudden projectile vomit.
+
+"Loki?" responds the man in a way which does not betray whether that's his name or he is calling out
+for someone, or perhaps mistaking Horus for another man.
+
+He then closes his eyes again and presumably falls asleep.
+
+Horus reacts to the whole situation: "Alright, it doesn't look like this Loki is in grave danger, but I
+don't think it would be fair to leave him out like that. It's cold, and well, he isn't freezing to death,
+but his lips are a little blue. I will take him to the truck and let him rest. Would you like to come with?"
+
+He lifted this "Loki" and put him over his shoulder. Horus was a pretty big and appeared to be mascular
+(despite his beige trench coat obscuring most of his physique to Neiro and any possible nearby observer),
+and Loki was more on the scrawny side and shorter than Horus.
+
+Neiro suddenly remembered: "Oh no... I forgot to give Valentine my... Ah, Shit. I need to go to Valentine's again,
+sorry."
+
+"Ah, nevermind, it's fine. Meet me at the truck, then?"
+
+"Okay."
+
+"Oh, and... wait for a second... Here you go," added Horus, holding a bill. "Consider it a, hmm, initial down payment."
+It was more than Neiro expected.
+
+Neiro then went to the nearest station and travelled one station back, so she was very close to Valentine's.
+
+She was very angry at herself because her list of forgotten things today was becoming longer and longer.
+The worst thing was that she of course, forgot what all she forgot, so every new discovery was an unwelcome surprise.
+
+She was cussing to herself the entire way, and when she was leaving the train, she didn't pay attention and ran into
+someone. He was a pretty normal blond guy wearing blue overalls and a baseball cap. He had a pretty large backpack,
+but that's all she noticed.
+
+Neiro was once again at peace when she could let Valentine taste her cooking. He commented that it is definitely
+an improvement since last time, but that she maybe went a little too hard with the soy sauce.
+
+Valentine then asked, if the guy can be trusted. Neiro then said that so far, there hasn't been any red flags
+and pulled out the bill Horus gave her, exclaiming that she isn't broke right now.
+
+Val found it suspicious that such good money was only the down payment, so he told her to watch herself,
+hugged her, and sent her on her way.
+
+Meanwhile, Horus was strutting through the streets with a body over his shoulder.
+
+He said, in a stern tone: "Hey, Loki-person, if you last meal decides to go out with a blast again,
+and if it's on my coat, then it will be a different kind of last meal. Hear me?" He said the last question
+in a more relaxed tone. But Loki did not seem to be on planet Earth right now.
+
+After a while, he reached his truck, opened the container and climbed in with Loki. There was a compact
+couch in the back lining the wall that was behind the driver's cabin. He laid Loki on the couch and then
+climbed the leather to the top floor of the container, where he retrieved a bucket, which he put beside Loki,
+to ensure easier clean up in case he throws up again.
+
+Now, this was no ordinary bucket. It came from Emilia-Romagna in Italy. This bucket was, according to the
+legend, a bone of contention between the rivaling cities of Bologna and Modena. Despite it being a simple
+oaken bucket, it became a coveted war trophy. The historians disagree on the veracity of these claims,
+nevertheless, the bucket was at one point an important cultural item.
+
+Horus was able to snatch it many years ago from the ruins left of the cities after the Great War.
+
+Despite its value as an oddity, it was still a bucket and could work as such.
+
+Next, he took a water bottle out of the cooler and soaked a towel with it and put it on Loki's forehead.
+Loki definitely had a fever, so he hoped this would help.
+
+He then closed the container, noting: "Alright then, this guy isn't waking up for several hours at least,
+so he won't mind."
+
+Horus then went to the cabin of the truck and retrieved another cigar, to have ready just in case.
+He was not really a smoker, but it has proven today to be a valueable bargaining chip in relation to his
+strange guide.
+
+He stretched his arms and massaged his shoulder and then he went to take a walk around the block.
+
+First, he went into the abandoned industrial area and checked out a few warehouses, but after a while, he went back,
+more towards the center of the city.
+
+A few minutes later, he found a sketchy convenience store. Horus entered and greeted the cashier,
+who was smoking and didn't respond to the greeting. He also had bullet-proof glass above his counter.
+
+He inspects the food section and ends up picking up some chips. He never heard of this flavor before.
+The name sounded like a chemical.
+
+Horus walks over to the cash register, hands the bag of chips to the cashier who rings it up
+and takes Horus's coins, returning the change.
+
+Horus then leaves, saying goodbye to the cashier, who once again doesn't respond and only
+looks at him. It is not certain, why he was like that, perhaps it was just his personality,
+maybe the fact that he could tell that Horus was a foreigner also did not help.
+
+Back to the truck now.
+
+When he gets there, Neiro is already standing there, smoking a cigarette.
+
+Horus snatches it, throws it away, and, without saying anything, pulls out the final bit of the cigar. Neiro
+doesn't object this time. The cigar really is better than the cigarette.
+
+The two then board another train to go to the church. Neiro and Endell previously considered moving out,
+but it turned out that they did not have the resources after their flat was broken into and several items,
+plus money, were stolen. Endell was generally careful about protecting his property, but a strange coincidence
+gave an opportunity to a petty burglar.
+
+Endell eventually tracked down the thief and delivered some justice, but the thief no longer had their stuff.
+This forced Endell to take a job as car mechanic to raise the household income. Eventually, they were able to
+at least renovate Endell's original flat and make it a more homely place.
+
+After a while of travel - it was just three stations, the first one, Val's and then over the river,
+one that was close to their home, so it didn't take that long - Horus and Neiro leave the train and
+walk towards the church.
+
+When they reach it, they can both tell that something is not right. There is a lot of fine dust
+settled on the ground around the property, and there are holes in the window panes.
+
+"Do your windows generally have holes in them?" asks Horus.
+
+"No... they don't." A chill runs down Neiro's spine, she has a bad feeling about this.
+
+The two come inside to investigate.
+
+They start walking up the stairs, but Neiro starts breaking into a sprint as soon as she notices
+the front door is open.
+
+Horus grabs her by the elbow and pulls her back.
+
+"Watch out," he says more silently, and points to the ground, "look, tripwire. You need to pay attention,
+could have killed us both."
+
+He pulls out a revolver. It's a Colt Single Action Army cavalry model, the staple of Old West.
+
+"Alright... you have a revolver?" asks Neiro, but moves forward more carefully. Horus walks in front of her,
+so she isn't the immediate target of gunfire, should there be an attacker still inside.
+
+"Yes, it is a very fine piece, although a highly impractical weapon," he says almost whispering.
+
+They enter the flat and Neiro is shocked. Everything is in disarray, there are bullet holes, blood stains,
+shards of both glass and ceramics, a bloody frying pan and many shell casings lying everywhere. Doors are destroyed,
+and there are discharged grenades near the windows and a few in the bedroom.
+
+One of Endell's Skorpions is lying on the ground, covered with blood.
+
+Neiro falls on her knees and starts hyperventilating, she is in complete shock. Her eyes are wide open
+and staring into the ground. Tragic memories flush through her mind. Tears start streaming down her cheeks and her
+eyes become red.
+
+Horus kneels one of his knees in front of Neiro to get to her level, grabs her by the shoulders and shakes
+with her: "Hey, pull yourself together. Look around, now is not the time for this... Your boyfriend is alive, look,
+there is no body, all the grenades are non-lethal. There are signs of struggle, he probably did a number of them.
+See that pan?"
+
+Neiro still isn't responding. Horus shakes her again: "Hey!! Listen. I will help you find your boyfriend,
+but you need to pull yourself together. Hey!!"
+
+Neiro finally looks up.
+
+"I don't know what to do," she says, still crying.
+
+"Hey, on the train, you said you had a friend who is involved with the criminal underworld. These were no
+ordinary attackers, see the artillery? She might know something, alright?"
+
+"Yea, I guess," Neiro responded, slowly regaining her composure, but still heavily shaken by what she witnessed.
+Right now, she can't imagine this place ever being back the way it was.
+
+"Can you call her? It might be easier than going to her place."
+
+"Yea..."
+
+Neiro, still sobbing a bit, wiped her nose and pulled out her phone.
+
+She dialed Minerva and waited for her to pick up.
+
+"Hey, Neiro, what's up?" said Minerva cheerfully, slightly inebriated with good wine.
+
+"Hi...," said Neiro, immediately starting to cry again.
+
+"OH MY GOD, what happened?" Minerva dropped her wine glass.
+
+Neiro started to try explaining what was going on and Minerva was
+becoming quickly more and more horrified.
+
+At some points, she cried so much she couldn't put together a whole sentence, so would Horus speak into
+the phone to fill in what Neiro was unable to say.
+
+Minerva was completely shocked and very disturbed.
+
+Horus was trying to ask, if she doesn't know who could have done it, but Minerva had a hard time
+figuring it out.
+
+Then it suddenly hit her. She put two and two together and became horrified and overcome with guilt.
+It was that strange man. It was her fault, she led him to her. Tears started streaming down her cheecks too,
+messing up her eyeliner. It was too much for her, first Rat, now Endell. She felt horrible.
+
+She tried to explain to Neiro, but it was hard on her too. She didn't question who Horus was, given the
+circumstances, but said to come to her, that they need to figure something out.
+
+She also said that the man left a calling card and that there is an address on it, that it might
+be the place where they are keeping Endell.
+
+Since it was they would need to switch to a different train and the intervals are slow now that it's evening,
+Horus proposed they depart the train at the station near which is the truck lot and take the truck to Minerva's place.
+This would definitely be to the chagrin of other participants of the traffic, given the truck's proportions.
+
+After a while, they departed the train. Horus could spot a blue butterfly near the station, but he was
+quickly distracted by the sounds of gunfire, coming from nearly everywhere.
+
+People were screaming from all around. Perhaps, it was the whole city. The sky started to darken.
+
+Strange soldiers in black gear started flooding the city, coming from near the powerplant. There were probably
+thousands of them in the city.
+
+Gunfire all around.
+
+Horus decided: "What the hell, this is bad. We need to run, quickly! To the truck!"
+
+They started running through the chaos on the streets. The armored men were only about a hundred meters behind them,
+they were firing occassionally at or near people.
+A few shots flew right by him and Neiro.
+
+Horus spotted that they are non-letal shots, rubber balls. Made to make a bruise but not to kill.
+Neiro looked behind, she could see the soldiers advancing forward and pushing people back into the houses.
+
+They were taking some people, ones that looked particularly horrible. Horus saw one of these people seemingly
+emerge from the ground.
+
+One soldier walked out from an alley that Horus and Neiro were about to run past. Horus quickly pulled out his
+revolver, shot him, cocked the hammer again and shot him for a second time.
+
+The soldier seemed to be knocked back and staggered, since the SAA does pack a punch as a weapon, but otherwise
+seemed unaffacted. Neiro felt something strange about the soldier.
+
+However, these two shots were able to give them a window to escape, they turned a corner and they were
+finally close to the parking lot.
+
+They ran quickly over to the truck, but another soldier appeared and opened fire.
+
+Neiro felt strange, and then she finally figured it out. It felt like the soldier was Modified,
+she could tell thanks to her abilities.
+
+Meanwhile, Horus emptied the rest of the clip into the masked soldier, but it didn't seem to have any
+effect beside staggering him.
+
+Horus was able to unlock the truck, but Neiro tried something. It has been a long time since she used her
+abilities. She tried to figure out if she could control the soldiers movement.
+
+She focused and used her power. But what happened was something she didn't not expect.
+The soldier's eyes lit up blue through his mask, he dropped his weapon and started slowly walking away,
+not paying any attention to either Horus or Neiro.
+
+"Take the gun and pass it," yelled Horus, who already opened left door of the truck.
+
+Neiro snapped out if it and did as he said, throwing the gun over to Horus.
+
+Horus pointed it another soldier that was closing in and staggered him. He noticed the weapon had two magazines,
+the other was filled with lethal rounds, so he switched to those.
+
+They were more effective than the rubber ones, but still couldn't stop the soldier.
+
+Neiro tried it again. Once again, the soldier dropped his weapon and walked away.
+
+"This one too?" she asked.
+
+"No, it's too far away! Get in!" yelled Horus. He quickly climbed into the truck and pulled Neiro up.
+
+Start ignition, step on clutch, shift gears. No time to poke astronaut. Time to get out of here.
+
+He floored the gas pedal and started quickly stepping on the clutch and shifting gears to build up speed as
+quickly as possible.
+
+"We cannot go to Minerva's, the city is flooded with these strange black things. I think we can hole up in the
+industrial zone, they seemed to go after people, and there weren't people there when I went there for a walk,"
+Horus quickly said.
+
+"Yea, it's abandoned," said Neiro. Then she realized their predicament and blurted out: "Oh my god...".
+She held her hea din their hands, then she started cracking her knuckles again and again. She was really on
+edge, but this wasn't the time to smoke.
+
+"I saw one large abandoned warehouse there, it looked pretty good, I think we can hide near it, then
+figure out what to do next."
+
+"Alright."
+
+Neiro pulled out her phone and tried to call Minerva, but there was no reception. Zero signal. The cell
+network must have been hijacked.
+
+As they progressed towards the zone, they could see less and less soldiers. Horus ran over about five of
+them, then they stopped.
+
+They reached the warehouse. There was no one there. Horus pulled over behind the warehouse, near its the wall,
+so they weren't seen from the city center.
+
+Then he let out a sigh of relief and said: "Well, I haven't had this much action in years."
+
+He then left the truck to go into the container to check on Loki, who was still in there.
+
+Loki was still sleeping.
+
+Horus looked up to the sky. It was somewhat dark. Very little stars could be seen. There was no moon.
+
+.
+
+.
+
+.
+
+Elsewhere, some time earlier.
+
+A man on a horse rides into the Morpho encampment from the side of the walls. Behind him, hundreds, if
+not thousands of black soldiers follow on foot. Their march is perfectly in unison, it sounds almost artifical.
+Just like a perfectly prepared army parade.
+
+The man on the horse stops on in front of one of the Morpho officers. The man was wearing a black coat,
+black pants, a hat, black riding gloves and riding boots.
+
+He was bleeding from his left hand.
+
+The officer greeted him: "Greetings boss, glad you could make it."
+
+"Thank you, Andrew. What's our status, what about the helicopter."
+
+Andrew the officer explained the situation.
+
+"I see, that is unfortunate. The helicopter was supposed to carry my personal effects, too,
+not to mention important machinary. Anyways, we brought a lot machinery and materials as well.
+What's the condition of the pilots, Jake and William?"
+
+"Jake is here, in the infirmary. He was shot in the thigh during his descent and lost a fair bit
+of blood, but he should be fine. We haven't found William yet. He appears to have landed earlier,
+somewhere in the city, due to a damaged parachute. We sent out a few people to find him already."
+
+"Ah, I'm sorry, I exposed my men to a greater danger than I expected it would be. I appreciate their
+work. Hopefully, they will both be fine. I will do my best to make it up to them.
+Nevertheless, we need to procede with the operation."
+
+"Understood, Boss."
+
+The Boss turned on his horse and yelled out: "Venerable Sentinels, your time has come. Rise and seize
+the city. Bring in those we need. Put everything on lockdown!"
+
+He then pulled out a flare gun and fired a flare into the sky. This alerted even the Sentinels who were
+farther away and had no chance of hearing him.
+
+They started to flood into the city.
