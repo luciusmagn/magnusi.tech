@@ -1487,7 +1487,7 @@ to reveal clear blue eyes.
 
 # INTERLUDE: MEMORY DATASTORE 15B9B298SY79298N0NS76 > ZmlyYSBhbmQgbWFn
 
-Elsewhere, about a 100 years ago.
+Elsewhere, about a hundred years ago.
 
 Fira Angelica was a pirate.
 
@@ -1500,7 +1500,7 @@ world.
 Right now, she, her brother Azwater and the rest of the crew were escaping their pursuers,
 with only two days between their ship and the ships of those, who were after them.
 
-Azwater, Fira and the crew were running low on supplies and Geoffrey Brimes
+Azwater, Fira, and the crew were running low on supplies and, Geoffrey Brimes
 was injured, they urgently needed to make a stop.
 
 It took them three days of sailing to reach Dead Whale Port, the closest pirate
@@ -1517,11 +1517,11 @@ Dead Whale Port was home to the finest pubs in the area and most members of the
 crew knew that. Since it turned out that not all of them were needed to restock the ship,
 Shizo Ran invited Fira for a drink.
 
-They went into the closest pub to their ship. It was a open building, so they had
+They went into the closest pub to their ship. It was an open building, so they had
 a beautiful view of the sea. Older, more experienced pirates seemed to like this pub
-because of this, because for a true sea rover, the ocean was the only true love.
+because of this since, for a true sea rover, the ocean was the only true love.
 
-Shizo ran signalled over to the waitress: "A beer for me and for the lady!"
+Shizo ran signaled over to the waitress: "A beer for me and the lady!"
 
 "Ah, thank you," Fira responded, blushing slightly.
 
@@ -1534,9 +1534,9 @@ A short while later, they both had a pint in front of them.
 "You know, if we succeed in this quest, I'd like to come here again. I like this place,"
 said Fira suddenly with dreamy eyes.
 
-"Yeah, I like it here too," responded Shizo with smile.
+"Yeah, I like it here too," responded Shizo with a smile.
 
-Shizo diverted his attention to Fira's jug: "Hey, don't over do it, you kiddo! If you
+Shizo diverted his attention to Fira's jug: "Hey, don't overdo it, you kiddo! If you
 drink this fast, you will end up under the table! You know you are a lightweight, even for beer,"
 he said with a smirk.
 
@@ -1547,7 +1547,7 @@ he said with a smirk.
 having a very good time at the moment.
 
 Fira let out a growl. She had soon almost finished the beer. She and Shizo chit-chatted about
-their journey and discussed the future plans their crew had, but suddenly, they were interrupted
+their journey and discussed the plans their crew had, but suddenly, they were interrupted
 by Benji, who joined them at the table.
 
 "Hey, what are you two doing here? Are you babysitting, Shizo?" Benji started.
@@ -1568,7 +1568,7 @@ Shizo laughed: "A month? That's optimistic. I mean, I like to tell stories, but 
 vindictive Brimes. Until the end of our journey, I say! Not a minute earlier."
 
 Fira was enjoying the small-talk with her friends, but she noticed something that put her on her edge.
-There was someone watching her.
+Someone was watching her.
 
 A man donning a black dress with a black coat over it, and a black hat with a large white feather. Most of his
 face was obscured by the hat, but she could tell that he was watching her from the other end of the pub.
@@ -1577,7 +1577,7 @@ She only briefly saw a flash of his eyes and they looked... red? She thought she
 Anyways, it was probably just her imagination playing tricks on her. Her recent life has been a
 roller coaster, it was most likely making her be not herself her a bit. Or so she thought.
 A more pressing question was on her mind, now that she learned who she really was. "What am I
-really like?"
+actually like?"
 
 She was absorbed in her thought for a bit, but she was disturbed by Benji and Shizo reacting to someone
 coming over to them.
@@ -1601,14 +1601,14 @@ Very pale.
 She said: "Excuse me for a moment, boys, I will be right back." and went to an open walk-in tent
 with the man.
 
-The man began: "Like I said, you are artificial."
+The man began: "As I said, you are artificial."
 
 "How do you know that?"
 
 "I am not really a human. Call me mag or magnusi, by the way, nice to meet you. My eyes are special and they can see
-that your inner structure is very symmetrical and perfectly laid out. Your bones, some organs and so on.
+that your inner structure is very symmetrical and perfectly laid out. Your bones, some organs, and so on.
 As if it was by design. Furthermore, there is a hole in your neck, which only got covered by your skin,
-but doesn't seem to make any attempt to fill itself with tissue. As if it was a slot for something."
+but doesn't seem to make any attempt to fill itself with any tissue. As if it was a slot for something."
 
 "Alright, you are right, I'm artificial, I was made by someone. I'm just some complex code, it seems. What do you want from me?"
 
@@ -1617,25 +1617,25 @@ Now then, I'm interested in who made you."
 
 "He is called Echo, and he is a god."
 
-"A 'god' you say? Oh...," continued mag with a sly smile, "well I know about few of them. Some people count me
+"A 'god' you say? Oh...," continued mag with a sly smile, "well I know about a few of them. Some people count me
 in that category, too. You see, I got some strange powers and a very large number of years under my belt, haha. Tell me more."
 
-Fira then continued explaining her condition, about who she is, who Echo is and how he treats her, who Ciara is
-and how Fira's whole ordeal works, and why she is on her quest for immortality..
+Fira then continued explaining her condition, about who she is, who Echo is, and how he treats her, who Ciara is
+and how Fira's whole ordeal works, and why she is on her quest for immortality.
 Without really knowing why, she tried as best as she could to piece together the information she had available in this world.
 
 "Interesting, I have never heard about anything like this. It seems that me and my boys operate slightly differently
 than this Echo god. Curious."
 
-mag continued: "Well, I cannot bestow immortality upon you or your brother unfortunately, but I can give you
+mag continued: "Well, I cannot bestow immortality upon you or your brother, unfortunately, but I can give you
 a little something to maybe help you on your way."
 
-magnusi pulled out a vial and slit his wrist, using his abilities to softly and silently guide the blood into the the vial.
+magnusi pulled out a vial and slit his wrist, using his abilities to softly and silently guide the blood into the vial.
 
 Then he pulled out a cork and sealed it.
 
 "Look, this is my blood. It will help heal any wound better than most medicines there are. But beware, you have to be subtle.
-My blood is toxic in a way, in that it spreads my essence into others as a sort of a poison, so don't use too much of it on one
+My blood is toxic in a way, in that it spreads my essence into others as a sort of poison, so don't use too much of it on one
 person, or else they might suffer some unwelcome side-effects including developing insanity and some of my powers for a short while."
 
 "Thank you, very much. It's a great help," Fira responded, but she was a little worried about the warnings magnusi gave her.
@@ -1643,13 +1643,13 @@ person, or else they might suffer some unwelcome side-effects including developi
 "There is one more thing. Come closer."
 Fira did.
 
-magnusi took her head and put it against his, so that the two of them were touching on their foreheads.
+magnusi took her head and put it against his so that the two of them were touching on their foreheads.
 
 "Now, look into my eyes." magnusi's eyes were spinning and jerking a little, like if you try to focus a camera, until
 they reached a synchronized position with one of the triangles' points pointing up.
 
 "Recall everything you can about this god of yours and whatever else you consider important."
-Fira didn't know what she would consider important on such a short notice, so her thoughts were really all
+Fira didn't know what she would consider important on such short notice, so her thoughts were really all
 over the place.
 
 "Alright," continued magnusi.
@@ -1667,7 +1667,7 @@ He then pulled out his golden parachronal stopwatch.
 my side right now. And neither on yours, as you said. You better hurry back to your ship. I'm hoping that we will meet again in the
 future."
 
-"Thank you for your help. Good-bye." responded Fira, walking away, now slightly more optimistic and waving. She thought that
+"Thank you for your help. Good-bye," responded Fira, walking away, now slightly more optimistic and waving. She thought that
 if it came to worst and they didn't have the immortality for Azwater and herself, then maybe she could at least heal her brother.
 
 magnusi, however, had to leave the world and would end up barred from ever returning to it.
@@ -1676,7 +1676,6 @@ Fira choose to keep the vial a secret for now, maybe forever, given the warnings
 about the meeting, saying that he was trying to convince her to join her crew by saying he knows about immortality,
 but that in reality, he didn't seem to know anything they hadn't already learned during their adventure.
 
-<div id="alma"></div>
 
 # EPISODE 1: LOKI
 > If there are things that upset you, chaotic, terrible, serpentine monstrous
@@ -1685,17 +1684,19 @@ get your speech organized, and go out and confront the thing, and make the world
 out of it.
 
 Endell sat up in his bed. He was an albino with blond hair, a fairly muscular build,
-blue eyes and a characteristic mole on his face. His hair, which was slightly longer than was
+blue eyes, and a characteristic mole on his face. His hair, which was slightly longer than was
+common, but not long enough to warraEndell sat up in his bed. He was an albino with blond hair, a fairly muscular build,
+blue eyes, and a characteristic mole on his face. His hair, which was slightly longer than was
 common, but not long enough to warrant a ponytail or anything of that sort, was usually swept back.
 Not now, since he was still rolling around in bed.
 
-He had a lazy day today. All he planted to do was some cleaning up,
+He had a lazy day today. All he planned to do was some cleaning up,
 reading and maybe doing some repairs.
 
 This wasn't exactly morning and Endell, as a Modified, didn't need to sleep as much as regular
 humans, but everybody needs to be lazy sometimes.
 
-His girlfriend, Neiro, has left their home hours ago, she had some errands to run, and wanted
+His girlfriend, Neiro, has left their home hours ago, she had some errands to run and wanted
 to visit Valentine. Since she and Endell got together, they realized that neither of them is a
 good enough cook in the longterm. So Neiro, inspired by her friend, tried to better herself
 in that department.
@@ -1703,9 +1704,9 @@ in that department.
 That was the reason for her visit - to let Val taste her latest attempt at cooking. Now, cooking
 requires attention and skill, both of which were hit and miss at times, in Neiro's case. This
 meant that some of her earlier attempts bordered on food poisoning or chemical contamination,
-nevertheless, there was a smooth upwards trends in the quality of her cooking.
+nevertheless, there was a smooth upwards trend in the quality of her cooking.
 
-The first designated taster was always Endell, since he could eat anything without suffer
+The first designated taster was always Endell since he could eat anything without suffering
 major repercussions. If he didn't immediately reject the food, then it was good for a critique
 by Valentine. Now, Valentine was as sweet a guy as there can be, but there were some skills
 he took pride in.
@@ -1718,7 +1719,7 @@ sheets, thinking he can do it later no problem. He didn't put on a T-shirt eithe
 later. Besides, grease can sometimes fly out of the pan and he didn't want to have a dirty
 shirt.
 
-And so he got up, readied the pan, turned on the stove, took out the butter and cracked some eggs.
+And so he got up, readied the pan, turned on the stove, took out the butter, and cracked some eggs.
 He preemptively put a plate on the table and took out a knife and a fork. There was also a book on the table.
 It was about Roman law, which is one of the first legal topics law students examined during
 their studies.
@@ -1735,7 +1736,7 @@ what she had in the cassette player didn't fit the occasion, suffice to say.
 
 However, there were also things happening outside his home.
 
-A blue butterfly, with wings that had a black edge was fluttering around in clear view of
+A blue butterfly, with wings that had a black edge, was fluttering around in clear view of
 Endell and Neiro's place of stay. It was a church, not very used, but since two years ago, it
 looked at least a bit better. The inside was decorated with things that didn't traditionally
 belong in a church, but I will leave you, dear listener, to figure out the person responsible-
@@ -1750,8 +1751,8 @@ However, in a moment, he heard a knock on the door of their flat. So he went to 
 
 "Hello?" as he was about to go to the peephole to look at who it is.
 
-Just as he spoke though, there was a shotgun blast and many pellets made it through the door,
-several of which hit Endell in the chest. This wasn't enough to really harm Endell, but it
+Just as he spoke, though, there was a shotgun blast, and many pellets made it through the door,
+several of which hit Endell in the chest. This wasn't enough to harm Endell, but it
 staggered him for a moment.
 
 <small>Dan Terminus: Heavy Artillery</small><br>
@@ -2124,16 +2125,16 @@ Horus was trying to ask, if she doesn't know who could have done it, but Minerva
 figuring it out.
 
 Then it suddenly hit her. She put two and two together and became horrified and overcome with guilt.
-It was that strange man. It was her fault, she led him to her. Tears started streaming down her cheeks too,
+It was that strange man. It was her fault, she led him to her. Her eyes teared up a little,
 messing up her eyeliner. It was too much for her, first Rat, now Endell. She felt horrible.
 
-She tried to explain to Neiro, but it was hard on her too. She didn't question who Horus was, given the
-circumstances, but said to come to her, that they need to figure something out.
+She tried to explain to Neiro, but it was hard. She didn't question who Horus was, given the
+circumstances, but she told them to come to her, that they need to figure something out.
 
 She also said that the man left a calling card and that there is an address on it, that it might
 be the place where they are keeping Endell.
 
-Since it was they would need to switch to a different train and the intervals are slow now that it's evening,
+Since they would need to switch to a different train and the intervals are slow now that it is evening,
 Horus proposed they depart the train at the station near which is the truck lot and take the truck to Minerva's place.
 This would definitely be to the chagrin of other participants of the traffic, given the truck's proportions.
 
@@ -2277,3 +2278,7 @@ He then pulled out a flare gun and fired a flare into the sky. This alerted even
 farther away and had no chance of hearing him.
 
 They started to flood into the city.
+
+<div id="alma"></div>
+
+# INTERMEZZO: CARTOGRAPHER
