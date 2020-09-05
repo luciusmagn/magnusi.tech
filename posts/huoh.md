@@ -2569,7 +2569,7 @@ That is not to say he is without vices. His approaches to solving some things ar
 say at least, and there is an air of vanity about his collection of trinkets and oddities. It
 is irresponsible to drive a truck when one of your eyes does not work well - although he does
 an admirable job despite that - and taking a weapon for protection which is attractive,
-but impractical in comparison to modern day handguns.
+but impractical in comparison to modern day handguns may not be the wisest choice either.
 
 After years of combat, Horus was finally able to retire from the battlefield and enter a new vocation.
 Building a large business selling light bulbs. He was always fond of the light, more of the light produced
