@@ -2692,7 +2692,7 @@ and caring guy and that he is worried about Neiro's safety.
 
 Valentine, is just like Neiro, a second-generation Winged One. He lived for many years
 in hiding with his father to avoid being caught by the elusive former ruler of The City.
-Val ended up losing his father a few year ago, in an event that had a deep impact on him.
+Val ended up losing his father a few years ago, in an event that had a deep impact on him.
 
 He owns a gay bar in the city, and he himself is attracted to men, but as far as my
 information reaches, there is no record of a longterm relationship. In his free time,
@@ -2822,7 +2822,7 @@ in the cold for much longer. He does not seem Modified or biologically unusual i
 other way, but he has a strange hairstyle as I described earlier.
 
 At this point in the story, he only showed little personality, we only really hear him
-speak in his dream and neither that is evocative of what he is like, but we can
+speak in his dream and that also isn't evocative of what he is like, but we can
 deduce from the data I presented and from his condition, that he is not typically
 the type of person one would get acquainted with or want to keep around, if they
 go by the old adage of making friends with people who want good for you, do not
@@ -2850,7 +2850,7 @@ to you. There is no visual yet, I'm still thinking about it.
 Nevertheless, there is one "visual" thing I want to show, for future reference. It will come
 in handy. Here is where I really start to shine.
 
-Here, for your inspection, a map of the city Yiandh (pronounced 'yand', for the linguistically disabled).
+Here, for your inspection, a map of the city of Yiandh (pronounced 'yand', for the linguistically disabled).
 
 ![Yiandh](/media/yiandh.png)
 
@@ -3096,50 +3096,6 @@ Anyways, I'm off for a cup of coffee.
 .
 
 <div data-aos="fade-right" style="margin-right: 80rem; margin-left: -47rem; width: 45rem; text-align: right"><b>A SPOON</b> FOR COFFEE RETRIEVING AND STIRRING</div>
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-<div data-aos="fade-right" style="margin-right: 80rem; margin-left: -47rem; width: 45rem; text-align: right"><b>A COFFEE MACHINE</b></div>
 .
 
 .
