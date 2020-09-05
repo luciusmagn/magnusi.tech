@@ -24,6 +24,25 @@ title = "HU: OH"
 		font-style: italic;
 		font-family: "Fanwood Italic", serif;
 	}
+	.char-row {
+	  display: flex;
+	  flex-direction: row;
+	  flex-wrap: wrap;
+	  width: 100%;
+	}
+
+	.char-column {
+	  display: flex;
+	  flex-direction: column;
+	  flex-basis: 100%;
+	  flex: 1;
+	}
+	th {
+		text-align: left;
+	}
+	img {
+		filter: invert(1);
+	}
 </style>
 
 # > Chapter 1
@@ -1685,8 +1704,6 @@ out of it.
 
 Endell sat up in his bed. He was an albino with blond hair, a fairly muscular build,
 blue eyes, and a characteristic mole on his face. His hair, which was slightly longer than was
-common, but not long enough to warraEndell sat up in his bed. He was an albino with blond hair, a fairly muscular build,
-blue eyes, and a characteristic mole on his face. His hair, which was slightly longer than was
 common, but not long enough to warrant a ponytail or anything of that sort, was usually swept back.
 Not now, since he was still rolling around in bed.
 
@@ -1920,7 +1937,7 @@ She sighed, but followed him over to the sleeping, unconscious, or possibly dead
 Horus grabbed him by the shoulders and started shaking him. "Hey, you alright? Can you hear me? Wake up, man."
 
 This didn't help. Horus pulled out a small, but bright flashlight. He opened one of the man's eyes and shone into
-it. Neiro noticed he wasn't Modified, his eyes were brown. That surprised her.
+it. Neiro could feel that he isn't Modified. That surprised her.
 
 The man's pupil reacted to the light, luckily, so he wasn't in that of a dire condition. Both Horus and Neiro
 could see that his pupils were already very dilated, he probably had some strong stuff in his system.
@@ -2282,3 +2299,1195 @@ They started to flood into the city.
 <div id="alma"></div>
 
 # INTERMEZZO: CARTOGRAPHER
+
+Well, that was climactic. And longer than I expected. I am getting really invested into the story,
+haha.
+
+These last bits have been quite extensive, and many characters were introduced. It might be
+confusing for a listener who doesn't pay attention, but you surely do.
+
+Anyways, I thought that it might be nice to reward you with some information, or call it trivia,
+about some of our new acquaintances.
+
+Behold, although partially obscured and intentionally incomplete, my glorious data-sheets:
+
+### Neiro
+
+<div class="char-row">
+	<div class="char-column">
+		<table>
+			<tr>
+				<th>
+					Age
+				</th>
+				<td>
+					20+
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Sex
+				</th>
+				<td>
+					F
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Eyes
+				</th>
+				<td>
+					Blue
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Weight
+				</th>
+				<td>
+					58 kg
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Height
+				</th>
+				<td>
+					155 cm
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Birthday
+				</th>
+				<td>
+					1st December
+				</td>
+			</tr>
+		</table>
+	</div>
+	<div class="char-column">
+		<table>
+			<tr>
+				<th>
+					Build
+				</th>
+				<td>
+					Slightly chubby
+					but not fat
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Favorite food
+				</th>
+				<td>
+					pancakes
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Likes
+				</th>
+				<td>
+					Coffee,
+					funky music,
+					dancing,
+					her friends,
+					Endell
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Dislikes
+				</th>
+				<td>
+					Waking up,
+					hot weather,
+					bell peppers,
+					being wrong,
+					weed cookies
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Designation
+				</th>
+				<td>
+					<u>Resistance</u>
+				</td>
+			</tr>
+		</table>
+	</div>
+</div>
+
+So this is Neiro. She is one of the characters we meet first.
+I am particularly partial to her, I think she has depth as a person
+and I like her antics.
+
+Her earlier life wasn't particularly easy, she came to The City after being hit
+by a truck, which by coincidence was similar to Horus's - it could not have been his,
+since he was still in Europe at the time - and a few years ago
+became tangled up in a plot that was so outlandish she couldn't have made it up
+if she wanted to! Not even in a dream.
+
+Neiro eventually found out that she is not a regular human, similar to her friend
+Valentine, but a type of Modified, one that they call Winged Ones... I think. Sheesh,
+hearing this always makes me think of chicken wings, shame I am getting none of those
+here in my realm. Could go for a breather though, it's been a few years since I last
+left this place.
+
+Being "Winged" gave her several perks and abilities, but ones unlike those of, say, Endell,
+a different type of Modified, one that is colloquially just referred to as "Modified". If you
+have been privy to her previous history, you know all about it, but here, dear listener,
+I would like to preserve the suspense a little longer.
+
+As a person, some describe Neiro as a angry goofball, which is no doubt amplified by her
+short stature, but there is depth to her personality, and she is anything but one-directional,
+so to speak. Talent lies within her, partially realized, largely dormant.
+
+### Horus
+
+<div class="char-row">
+	<div class="char-column">
+		<table>
+			<tr>
+				<th>
+					Age
+				</th>
+				<td>
+					35-40
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Sex
+				</th>
+				<td>
+					M
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Eyes
+				</th>
+				<td>
+					Blue
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Weight
+				</th>
+				<td>
+					87 Kg
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Height
+				</th>
+				<td>
+					182 cm
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Birthday
+				</th>
+				<td>
+					???
+				</td>
+			</tr>
+		</table>
+	</div>
+	<div class="char-column">
+		<table>
+			<tr>
+				<th>
+					Build
+				</th>
+				<td>
+					Muscular but not massive
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Favorite food
+				</th>
+				<td>
+					Anything meat
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Likes
+				</th>
+				<td>
+					Crabs,
+					trench coats,
+					trinkets and oddities,
+					guns,
+					less known music
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Dislikes
+				</th>
+				<td>
+					Pop music,
+					hip-hop,
+					dancing (likes to watch but not to participate),
+					dishonesty and inobservance
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Designation
+				</th>
+				<td>
+					<u>Dreamchaser</u>
+				</td>
+			</tr>
+		</table>
+	</div>
+</div>
+
+Horus is another of first introduced characters, just like Neiro. In
+that sense, he is just like her a protagonist in the original meaning of the word -
+"one who plays the first part". However, it is hard to say who is actually the center-piece
+of a large branching story like this.
+
+Horus is a strange man. He was born in a war-torn country and was an orphan since before
+he could remember, being adopted by a separatist groups. He spent his younger years
+as a child soldier, an experience, which, while definitely not easy and leaving permanent
+evidence of his existence on him as a human, provided him in later years with level-headedness,
+which is complimented by a form of idealism, uncommon in most people.
+
+That is not to say he is without vices. His approaches to solving some things are peculiar to
+say at least, and there is an air of vanity about his collection of trinkets and oddities. It
+is irresponsible to drive a truck when one of your eyes does not work well - although he does
+an admirable job despite that - and taking a weapon for protection which is attractive,
+but impractical in comparison to modern day handguns.
+
+After years of combat, Horus was finally able to retire from the battlefield and enter a new vocation.
+Building a large business selling light bulbs. He was always fond of the light, more of the light produced
+by tiny sources such as light bulbs, or the stars. Sun interested him none. However, it is not all
+nice and legal - he supplies some criminals with light bulbs too.
+
+### Valentine
+
+<div class="char-row">
+	<div class="char-column">
+		<table>
+			<tr>
+				<th>
+					Age
+				</th>
+				<td>
+					21+
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Sex
+				</th>
+				<td>
+					M
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Eyes
+				</th>
+				<td>
+					Blue (black with contacts)
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Weight
+				</th>
+				<td>
+					72 Kg
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Height
+				</th>
+				<td>
+					180 cm
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Birthday
+				</th>
+				<td>
+					7th June
+				</td>
+			</tr>
+		</table>
+	</div>
+	<div class="char-column">
+		<table>
+			<tr>
+				<th>
+					Build
+				</th>
+				<td>
+					Normal to athletic
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Favorite food
+				</th>
+				<td>
+					Weed brownies
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Likes
+				</th>
+				<td>
+					Dancing,
+					marijuana,
+					flamboyant clothes,
+					good-looking men,
+					friends,
+					graffiti
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Dislikes
+				</th>
+				<td>
+					Dangerous people,
+					the underworld,
+					being stared at,
+					bad trips,
+					no weed
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Designation
+				</th>
+				<td>
+					<u>Flame</u>
+				</td>
+			</tr>
+		</table>
+	</div>
+</div>
+
+We first meet Valentine when Neiro goes to visit him, taking Horus with her during
+her shoddy attempt to be a guide to the city. We can see that he is a good-natured
+and caring guy and that he is worried about Neiro's safety.
+
+Valentine, is just like Neiro, a second-generation Winged One. He lived for many years
+in hiding with his father to avoid being caught by the elusive former ruler of The City.
+Val ended up losing his father a few year ago, in an event that had a deep impact on him.
+
+He owns a gay bar in the city, and he himself is attracted to men, but as far as my
+information reaches, there is no record of a longterm relationship. In his free time,
+he creates graffiti, cultivates and smokes weed, and indulges himself in eccentric clothing.
+
+Eccentricity is his own in more aspects than just clothing, as we may later find out,
+or, as is evident from previous records of his history.
+
+Valentine is also a good cook, an excellent food critic, and Neiro's confidant, which
+is why she chose him as a food taster, or, in other words, as a victim.
+
+### Loki
+
+<div class="char-row">
+	<div class="char-column">
+		<table>
+			<tr>
+				<th>
+					Age
+				</th>
+				<td>
+					20+
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Sex
+				</th>
+				<td>
+					M
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Eyes
+				</th>
+				<td>
+					Green
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Weight
+				</th>
+				<td>
+					65 Kg
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Height
+				</th>
+				<td>
+					170 cm
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Birthday
+				</th>
+				<td>
+					8th August
+				</td>
+			</tr>
+		</table>
+	</div>
+	<div class="char-column">
+		<table>
+			<tr>
+				<th>
+					Build
+				</th>
+				<td>
+					Skinny to normal
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Favorite food
+				</th>
+				<td>
+					Mushrooms, the more fun, the better
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Likes
+				</th>
+				<td>
+					Drugs, hot people,
+					technology, wandering around,
+					pressing buttons
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Dislikes
+				</th>
+				<td>
+					Stern people,
+					cold,
+					hangovers / withdrawals,
+					not knowing who he is
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Designation
+				</th>
+				<td>
+					<u>Love</u>
+				</td>
+			</tr>
+		</table>
+	</div>
+</div>
+
+Loki is a character that was introduced later. Just in the last episode,
+as you surely remember. He is a strange fellow, who undeniably has a problem
+with substances.
+
+We do not know at this point if he is actually called Loki, or if he was looking for
+a person called Loki.
+
+There were some hard drugs in his system and he could have died, if he were let out
+in the cold for much longer. He does not seem Modified or biologically unusual in any
+other way, but he has a strange hairstyle as I described earlier.
+
+At this point in the story, he only showed little personality, we only really hear him
+speak in his dream and neither that is evocative of what he is like, but we can
+deduce from the data I presented and from his condition, that he is not typically
+the type of person one would get acquainted with or want to keep around, if they
+go by the old adage of making friends with people who want good for you, do not
+destroy their surroundings, and promote growth.
+
+However, there is still a path to redemption from being a miserable and woefully
+blind crackhead, just like there is a path for others who reject reality.
+
+Right now, he is stuck with Horus and Neiro, and, although he may prove to be
+a pain the hind parts, they can't just rid of him. Who knows, maybe he will eventually
+prove himself useful.
+
+.
+
+.
+
+.
+
+.
+
+Alright, there you have four data-sheets for four characters. I think it would be
+too boring if I were just to spill all of them at once, so I will just trickle them slowly
+to you. There is no visual yet, I'm still thinking about it.
+
+Nevertheless, there is one "visual" thing I want to show, for future reference. It will come
+in handy. Here is where I really start to shine.
+
+Here, for your inspection, a map of the city Yiandh (pronounced 'yand', for the linguistically disabled).
+
+![Yiandh](/media/yiandh.png)
+
+It is a rather small city located on an island. The island is not too hot, not too cold. Climatically,
+I would pin it in the neighborhood of a summer day in Ireland. Definitely not a tropical destination.
+
+This city is one of four settlements that are on this Island and it serves as its center-piece,
+with the other three villages being located by the sea shore, each connected with a single road to Yiandh.
+
+Yiandh is a rather nice city, it has several small districts, each with its distinctive atmosphere.
+The streets and the buildings are very clean and in a good shape, despite the fact that it is not a
+metropolis like, say, Rome was.
+
+Technologically, this city and the world in which it is located is not very advanced and could be more
+likened to a medieval or a fantasy settings. Nevertheless, Yiandh is home to many wise scholars and quality
+education, a favorable social system and a generally peaceful and relaxed disposition.
+
+Religion reigns supreme in the city of Yiandh. The people worship one of the many world deities,
+Xexanoth, but we will hear about this god more, when we get there. Yiandh's inhabitants are close with
+the deity and attribute the good state of the city to a special kind of rain which Xexanoth supposedly
+blesses the city with every once in a while. This rain is said to cleanse things, fix what is broken
+and restore an object's novelty.
+
+Several years ago, Xexanoth spoke to some of his followers through a dream and announced the advent
+of a special woman of nontraditional looks, who would be an emissary to Yiandh, to anticipate her arrival
+and ensure her a safe and pleasant stay.
+
+Yiandh is governed by a council of representatives who are selected through democratic vote. Despite
+the fact that anyone can elect to run for the office, most of the time the council is comprised of
+scholars and high-ranking priests, in a roughly balanced ratio. Many years ago, a future precaution
+has been taken and placed into the constitution of Yiandh - a ban of all political parties,
+which mandates that individuals run for themselves, as themselves. There has, however, been no
+need for this yet, as despite a steady slow growth, Yiandh is still too small.
+
+So this was the map of Yiandh. I have another, but this one will be without such a long explanation,
+as I have spoken about it before.
+
+![Dead Whale Port](/media/dead_whale_port.png)
+
+This is Dead Whale Port, a sheltered coast city where Fira Angelica and her crew stopped by on their
+quest for immortality. It is located in a cove, which makes sure that the open sea in front of it is not,
+in fact, that open.
+
+Towards the inland, there are tall mountains, which protect Dead Whale Port from other sides, making
+it a well-defended pirate sanctuary. Given its long history and natural protection, local government
+has given up on trying to conquer the city, on the condition that Dead Whale Port will not be attacking
+the inland. The pirates agreed.
+
+As you can see on the map, there are only two egress roads from Dead Whale Port. Calling them roads
+might a bit of an overstatement - a trail for experienced hikers might be more appropriate.
+
+I have taken the liberty of marking a few important points referenced in the memory.
+
+.
+
+.
+
+.
+
+Alright, that might be it for now. But I think I'm going to take a break for a few minutes.
+Brew myself a cup of coffee. I don't really need it to function, but it makes me feel nice.
+Also, my eyes hurt a bit from staring into sheets for such a long time at once and jumping around
+with my eyes so fast. Huh, could put on my glasses, then.
+
+Let me quickly find them.
+
+.
+
+.
+
+Hmm, where did I put them? No luck there ...
+
+.
+
+Oh, maybe these drawers? Not here... Not here either... Not there too.
+
+.
+
+Hmm...
+
+.
+
+Did I leave them on the...? No, I didn't.
+
+.
+
+.
+
+Oh wait, they are on my head. Huh, haha. I'm not very smart sometimes, take note of that,
+dear listener.
+
+Anyways, I'm off for a cup of coffee.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+<div data-aos="fade-right" style="margin-right: 80rem; margin-left: -47rem; width: 45rem; text-align: right"><b>STARRING</b></div>
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+<div data-aos="fade-right" style="margin-right: 80rem; margin-left: -47rem; width: 45rem; text-align: right"><b>A COFFEE CUP</b></div>
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+<div data-aos="fade-right" style="margin-right: 80rem; margin-left: -47rem; width: 45rem; text-align: right"><b>A SPOON</b> FOR COFFEE RETRIEVING AND STIRRING</div>
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+<div data-aos="fade-right" style="margin-right: 80rem; margin-left: -47rem; width: 45rem; text-align: right"><b>A COFFEE MACHINE</b></div>
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+<div data-aos="fade-right" style="margin-right: 80rem; margin-left: -47rem; width: 45rem; text-align: right"><b>SOME SUGAR</b></div>
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+<div data-aos="fade-right" style="margin-right: 80rem; margin-left: -47rem; width: 45rem; text-align: right"><b>MILK</b></div>
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+<div data-aos="fade-right" style="margin-right: 80rem; margin-left: -47rem; width: 45rem; text-align: right"><b>THE COFFEE MACHINE</b> AS MY FAVORITE MACHINE IN THE GYM</div>
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+<div data-aos="fade-right" style="margin-right: 80rem; margin-left: -47rem; width: 45rem; text-align: right"><b>WATER</b> AS H2O</div>
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+<div data-aos="fade-right" style="margin-right: 80rem; margin-left: -47rem; width: 45rem; text-align: right"><b>THE CARTOGRAPHER</b> AS A DASHING COFFEE LOVER</div>
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+<div data-aos="fade-right" style="margin-right: 80rem; margin-left: -47rem; width: 45rem; text-align: right">AND</div>
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+<div data-aos="fade-right" style="margin-right: 80rem; margin-left: -47rem; width: 45rem; text-align: right"><b>THE COFFEE</b></div>
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+Alright, I'm back. I feel recharged. Yee-haw!
+
+So, in a moment, we shall get back to the storytelling business. I was gone for a little longer than I expected, as is wont to happen
+when you float off into your imagination in the kitchen, but I will probably cut the recording to make the pause not so long.
+
+Now, you may be wondering how I managed to fit pictures into a sound recording. Well, it's magic and that makes it a magician's secret.
+Thanks for asking.
+
+However, I hope you appreciate my maps, I am really proud of them, they took a long time to make. I feel like cartography is a
+neglected vocation, as these days, everyone just takes the availability of a good map for granted.
+
+Anyways, I digress.
+
+Let's get back to the storytelling.

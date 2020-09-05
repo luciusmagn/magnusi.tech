@@ -24,6 +24,25 @@ title = "HU: OH"
 		font-style: italic;
 		font-family: "Fanwood Italic", serif;
 	}
+	.char-row {
+	  display: flex;
+	  flex-direction: row;
+	  flex-wrap: wrap;
+	  width: 100%;
+	}
+
+	.char-column {
+	  display: flex;
+	  flex-direction: column;
+	  flex-basis: 100%;
+	  flex: 1;
+	}
+	th {
+		text-align: left;
+	}
+	img {
+		filter: invert(1);
+	}
 </style>
 
 # > Chapter 1
@@ -1487,7 +1506,7 @@ to reveal clear blue eyes.
 
 # INTERLUDE: MEMORY DATASTORE 15B9B298SY79298N0NS76 > ZmlyYSBhbmQgbWFn
 
-Elsewhere, about a 100 years ago.
+Elsewhere, about a hundred years ago.
 
 Fira Angelica was a pirate.
 
@@ -1500,7 +1519,7 @@ world.
 Right now, she, her brother Azwater and the rest of the crew were escaping their pursuers,
 with only two days between their ship and the ships of those, who were after them.
 
-Azwater, Fira and the crew were running low on supplies and Geoffrey Brimes
+Azwater, Fira, and the crew were running low on supplies and, Geoffrey Brimes
 was injured, they urgently needed to make a stop.
 
 It took them three days of sailing to reach Dead Whale Port, the closest pirate
@@ -1517,11 +1536,11 @@ Dead Whale Port was home to the finest pubs in the area and most members of the
 crew knew that. Since it turned out that not all of them were needed to restock the ship,
 Shizo Ran invited Fira for a drink.
 
-They went into the closest pub to their ship. It was a open building, so they had
-a beatiful view of the sea. Older, more experienced pirates seemed to like this pub
-because of this, because for a true sea rover, the ocean was the only true love.
+They went into the closest pub to their ship. It was an open building, so they had
+a beautiful view of the sea. Older, more experienced pirates seemed to like this pub
+because of this since, for a true sea rover, the ocean was the only true love.
 
-Shizo ran signalled over to the waitress: "A beer for me and for the lady!"
+Shizo ran signaled over to the waitress: "A beer for me and the lady!"
 
 "Ah, thank you," Fira responded, blushing slightly.
 
@@ -1534,9 +1553,9 @@ A short while later, they both had a pint in front of them.
 "You know, if we succeed in this quest, I'd like to come here again. I like this place,"
 said Fira suddenly with dreamy eyes.
 
-"Yeah, I like it here too," responded Shizo with smile.
+"Yeah, I like it here too," responded Shizo with a smile.
 
-Shizo diverted his attention to Fira's jug: "Hey, don't over do it, you kiddo! If you
+Shizo diverted his attention to Fira's jug: "Hey, don't overdo it, you kiddo! If you
 drink this fast, you will end up under the table! You know you are a lightweight, even for beer,"
 he said with a smirk.
 
@@ -1547,7 +1566,7 @@ he said with a smirk.
 having a very good time at the moment.
 
 Fira let out a growl. She had soon almost finished the beer. She and Shizo chit-chatted about
-their journey and discussed the future plans their crew had, but suddenly, they were interrupted
+their journey and discussed the plans their crew had, but suddenly, they were interrupted
 by Benji, who joined them at the table.
 
 "Hey, what are you two doing here? Are you babysitting, Shizo?" Benji started.
@@ -1567,17 +1586,17 @@ to hear all about it for the next month or so."
 Shizo laughed: "A month? That's optimistic. I mean, I like to tell stories, but I'm no match for a cranky
 vindictive Brimes. Until the end of our journey, I say! Not a minute earlier."
 
-Fira was enjoying the smalltalk with her friends, but she noticed something that put her on her edge.
-There was someone watching her.
+Fira was enjoying the small-talk with her friends, but she noticed something that put her on her edge.
+Someone was watching her.
 
 A man donning a black dress with a black coat over it, and a black hat with a large white feather. Most of his
 face was obscured by the hat, but she could tell that he was watching her from the other end of the pub.
 She only briefly saw a flash of his eyes and they looked... red? She thought she must be mistaken.
 
 Anyways, it was probably just her imagination playing tricks on her. Her recent life has been a
-rollercoaster, it was most likely making her be not herself her a bit. Or so she thought.
+roller coaster, it was most likely making her be not herself her a bit. Or so she thought.
 A more pressing question was on her mind, now that she learned who she really was. "What am I
-really like?"
+actually like?"
 
 She was absorbed in her thought for a bit, but she was disturbed by Benji and Shizo reacting to someone
 coming over to them.
@@ -1601,14 +1620,14 @@ Very pale.
 She said: "Excuse me for a moment, boys, I will be right back." and went to an open walk-in tent
 with the man.
 
-The man began: "Like I said, you are artificial."
+The man began: "As I said, you are artificial."
 
 "How do you know that?"
 
 "I am not really a human. Call me mag or magnusi, by the way, nice to meet you. My eyes are special and they can see
-that your inner structure is very symmetrical and perfectly laid out. Your bones, some organs and so on.
+that your inner structure is very symmetrical and perfectly laid out. Your bones, some organs, and so on.
 As if it was by design. Furthermore, there is a hole in your neck, which only got covered by your skin,
-but doesn't seem to make any attempt to fill itself with tissue. As if it was a slot for something."
+but doesn't seem to make any attempt to fill itself with any tissue. As if it was a slot for something."
 
 "Alright, you are right, I'm artificial, I was made by someone. I'm just some complex code, it seems. What do you want from me?"
 
@@ -1617,25 +1636,25 @@ Now then, I'm interested in who made you."
 
 "He is called Echo, and he is a god."
 
-"A 'god' you say? Oh...," continued mag with a sly smile, "well I know about few of them. Some people count me
+"A 'god' you say? Oh...," continued mag with a sly smile, "well I know about a few of them. Some people count me
 in that category, too. You see, I got some strange powers and a very large number of years under my belt, haha. Tell me more."
 
-Fira then continued explaining her condition, about who she is, who Echo is and how he treats her, who Ciara is
-and how Fira's whole ordeal works, and why she is on her quest for immortality..
+Fira then continued explaining her condition, about who she is, who Echo is, and how he treats her, who Ciara is
+and how Fira's whole ordeal works, and why she is on her quest for immortality.
 Without really knowing why, she tried as best as she could to piece together the information she had available in this world.
 
 "Interesting, I have never heard about anything like this. It seems that me and my boys operate slightly differently
 than this Echo god. Curious."
 
-mag continued: "Well, I cannot bestow immortality upon you or your brother unfortunately, but I can give you
+mag continued: "Well, I cannot bestow immortality upon you or your brother, unfortunately, but I can give you
 a little something to maybe help you on your way."
 
-magnusi pulled out a vial and slit his wrist, using his abilities to softly and silently guide the blood into the the vial.
+magnusi pulled out a vial and slit his wrist, using his abilities to softly and silently guide the blood into the vial.
 
 Then he pulled out a cork and sealed it.
 
 "Look, this is my blood. It will help heal any wound better than most medicines there are. But beware, you have to be subtle.
-My blood is toxic in a way, in that it spreads my essence into others as a sort of a poison, so don't use too much of it on one
+My blood is toxic in a way, in that it spreads my essence into others as a sort of poison, so don't use too much of it on one
 person, or else they might suffer some unwelcome side-effects including developing insanity and some of my powers for a short while."
 
 "Thank you, very much. It's a great help," Fira responded, but she was a little worried about the warnings magnusi gave her.
@@ -1643,13 +1662,13 @@ person, or else they might suffer some unwelcome side-effects including developi
 "There is one more thing. Come closer."
 Fira did.
 
-magnusi took her head and put it against his, so that the two of them were touching on their foreheads.
+magnusi took her head and put it against his so that the two of them were touching on their foreheads.
 
 "Now, look into my eyes." magnusi's eyes were spinning and jerking a little, like if you try to focus a camera, until
 they reached a synchronized position with one of the triangles' points pointing up.
 
 "Recall everything you can about this god of yours and whatever else you consider important."
-Fira didn't know what she would consider important on such a short notice, so her thoughts were really all
+Fira didn't know what she would consider important on such short notice, so her thoughts were really all
 over the place.
 
 "Alright," continued magnusi.
@@ -1667,7 +1686,7 @@ He then pulled out his golden parachronal stopwatch.
 my side right now. And neither on yours, as you said. You better hurry back to your ship. I'm hoping that we will meet again in the
 future."
 
-"Thank you for your help. Good-bye." responded Fira, walking away, now slightly more optimistic and waving. She thought that
+"Thank you for your help. Good-bye," responded Fira, walking away, now slightly more optimistic and waving. She thought that
 if it came to worst and they didn't have the immortality for Azwater and herself, then maybe she could at least heal her brother.
 
 magnusi, however, had to leave the world and would end up barred from ever returning to it.
@@ -1676,7 +1695,6 @@ Fira choose to keep the vial a secret for now, maybe forever, given the warnings
 about the meeting, saying that he was trying to convince her to join her crew by saying he knows about immortality,
 but that in reality, he didn't seem to know anything they hadn't already learned during their adventure.
 
-<div id="alma"></div>
 
 # EPISODE 1: LOKI
 > If there are things that upset you, chaotic, terrible, serpentine monstrous
@@ -1685,17 +1703,17 @@ get your speech organized, and go out and confront the thing, and make the world
 out of it.
 
 Endell sat up in his bed. He was an albino with blond hair, a fairly muscular build,
-blue eyes and a characteristic mole on his face. His hair, which was slightly longer than was
+blue eyes, and a characteristic mole on his face. His hair, which was slightly longer than was
 common, but not long enough to warrant a ponytail or anything of that sort, was usually swept back.
 Not now, since he was still rolling around in bed.
 
-He had a lazy day today. All he planted to do was some cleaning up,
+He had a lazy day today. All he planned to do was some cleaning up,
 reading and maybe doing some repairs.
 
 This wasn't exactly morning and Endell, as a Modified, didn't need to sleep as much as regular
 humans, but everybody needs to be lazy sometimes.
 
-His girlfriend, Neiro, has left their home hours ago, she had some errands to run, and wanted
+His girlfriend, Neiro, has left their home hours ago, she had some errands to run and wanted
 to visit Valentine. Since she and Endell got together, they realized that neither of them is a
 good enough cook in the longterm. So Neiro, inspired by her friend, tried to better herself
 in that department.
@@ -1703,9 +1721,9 @@ in that department.
 That was the reason for her visit - to let Val taste her latest attempt at cooking. Now, cooking
 requires attention and skill, both of which were hit and miss at times, in Neiro's case. This
 meant that some of her earlier attempts bordered on food poisoning or chemical contamination,
-nevertheless, there was a smooth upwards trends in the quality of her cooking.
+nevertheless, there was a smooth upwards trend in the quality of her cooking.
 
-The first designated taster was always Endell, since he could eat anything without suffer
+The first designated taster was always Endell since he could eat anything without suffering
 major repercussions. If he didn't immediately reject the food, then it was good for a critique
 by Valentine. Now, Valentine was as sweet a guy as there can be, but there were some skills
 he took pride in.
@@ -1718,7 +1736,7 @@ sheets, thinking he can do it later no problem. He didn't put on a T-shirt eithe
 later. Besides, grease can sometimes fly out of the pan and he didn't want to have a dirty
 shirt.
 
-And so he got up, readied the pan, turned on the stove, took out the butter and cracked some eggs.
+And so he got up, readied the pan, turned on the stove, took out the butter, and cracked some eggs.
 He preemptively put a plate on the table and took out a knife and a fork. There was also a book on the table.
 It was about Roman law, which is one of the first legal topics law students examined during
 their studies.
@@ -1731,11 +1749,11 @@ That didn't happen, instead what came out was something else and Endell quickly 
 "Hell", he thought, "she swapped out the cassettes again without telling me."
 
 Now, after being with Neiro for some time, he learned how to live with Neiro music, but
-what she had in the cassette player didn't fit the occassion, suffice to say.
+what she had in the cassette player didn't fit the occasion, suffice to say.
 
 However, there were also things happening outside his home.
 
-A blue butterfly, with wings that had a black edge was fluttering around in clear view of
+A blue butterfly, with wings that had a black edge, was fluttering around in clear view of
 Endell and Neiro's place of stay. It was a church, not very used, but since two years ago, it
 looked at least a bit better. The inside was decorated with things that didn't traditionally
 belong in a church, but I will leave you, dear listener, to figure out the person responsible-
@@ -1750,8 +1768,8 @@ However, in a moment, he heard a knock on the door of their flat. So he went to 
 
 "Hello?" as he was about to go to the peephole to look at who it is.
 
-Just as he spoke though, there was a shotgun blast and many pellets made it through the door,
-several of which hit Endell in the chest. This wasn't enough to really harm Endell, but it
+Just as he spoke, though, there was a shotgun blast, and many pellets made it through the door,
+several of which hit Endell in the chest. This wasn't enough to harm Endell, but it
 staggered him for a moment.
 
 <small>Dan Terminus: Heavy Artillery</small><br>
@@ -1771,7 +1789,7 @@ their fumes.
 Smoke starts filling the flat as Endell rolls back into the kitchen and grabs the first makeshift
 weapon he could find, the egg pan.
 
-He throws the eggs at one of the assaillaints and slams another over the head with it. All of them
+He throws the eggs at one of the assailants and slams another over the head with it. All of them
 were geared up, but he managed to hit the first one in exposed skin on the neck, so he screamed and stumbled.
 
 Bang, Endell hit him too.
@@ -1809,7 +1827,7 @@ A man in a red raincoat-material hood comes in. It's Voss. He takes out an engra
 Endell into the chest and then fires several times.
 
 Endell is a little dazed, but he recovers and kicks Voss out. Voss stumbles back and Endell catches him
-off-guard by pluging a knife that fell out of one of the attackers between neck and collarbone.
+off-guard by plunging a knife that fell out of one of the attackers between neck and collarbone.
 
 Another man rolls in and goes after Endell, pinning him down for a few seconds. He tries to choke Endell,
 but Endell manages to punch him into his gas mask, shattering his left eye glass and thus sending several glass
@@ -1835,7 +1853,7 @@ He didn't notice that Voss is holding a primed grenade in his hand and can barel
 at him, while turning on his heel and picking up a ceramic bowl, which Neiro left on the nightstand
 after snacking last night.
 
-It's a fleshbang, Endell is blinded by the light and defeaned by it going off. He is staggered.
+It's a flashbang, Endell is blinded by the light and deafened by it going off. He is staggered.
 
 Voss doesn't slow down and slams Endell over the head with the bowl, which shatters it and leaves
 several cuts on Endell's face.
@@ -1898,14 +1916,14 @@ too far, in the direction that was closer to the truck despite neither of them h
 
 Earlier today, Neiro left the train at the station next to Val's so she could take a walk.
 
-Horus and Neiro then walked over to the walkstation. On their way, Horus could see more of how the city
+Horus and Neiro then walked over to the train station. On their way, Horus could see more of how the city
 looks like. There was a lot of establishments one might consider unsavory, and, despite this being the wealthier
 part of the city, its look didn't necessarily inspire security.
 
 Suddenly, Horus stop and asked: "You see that guy over there on the bench? He looks to be in a pretty bad
 shape. You think he's alright?"
 
-Neiro responed: "Probably." It was not uncommon to see drug addicts in the city. Since the pill market
+Neiro responded: "Probably." It was not uncommon to see drug addicts in the city. Since the pill market
 was still a little shaken, with recipes of Modified medication being only in the hands of few, it was most likely
 he was a Modified who didn't get his pills in time or even lacked the money to get them.
 
@@ -1919,7 +1937,7 @@ She sighed, but followed him over to the sleeping, unconscious, or possibly dead
 Horus grabbed him by the shoulders and started shaking him. "Hey, you alright? Can you hear me? Wake up, man."
 
 This didn't help. Horus pulled out a small, but bright flashlight. He opened one of the man's eyes and shone into
-it. Neiro noticed he wasn't Modified, his eyes were brown. That surprised her.
+it. Neiro could feel that he isn't Modified. That surprised her.
 
 The man's pupil reacted to the light, luckily, so he wasn't in that of a dire condition. Both Horus and Neiro
 could see that his pupils were already very dilated, he probably had some strong stuff in his system.
@@ -1946,7 +1964,7 @@ Horus reacts to the whole situation: "Alright, it doesn't look like this Loki is
 don't think it would be fair to leave him out like that. It's cold, and well, he isn't freezing to death,
 but his lips are a little blue. I will take him to the truck and let him rest. Would you like to come with?"
 
-He lifted this "Loki" and put him over his shoulder. Horus was a pretty big and appeared to be mascular
+He lifted this "Loki" and put him over his shoulder. Horus was a pretty big and appeared to be muscular
 (despite his beige trench coat obscuring most of his physique to Neiro and any possible nearby observer),
 and Loki was more on the scrawny side and shorter than Horus.
 
@@ -2005,7 +2023,7 @@ He then closed the container, noting: "Alright then, this guy isn't waking up fo
 so he won't mind."
 
 Horus then went to the cabin of the truck and retrieved another cigar, to have ready just in case.
-He was not really a smoker, but it has proven today to be a valueable bargaining chip in relation to his
+He was not really a smoker, but it has proven today to be a valuable bargaining chip in relation to his
 strange guide.
 
 He stretched his arms and massaged his shoulder and then he went to take a walk around the block.
@@ -2124,16 +2142,16 @@ Horus was trying to ask, if she doesn't know who could have done it, but Minerva
 figuring it out.
 
 Then it suddenly hit her. She put two and two together and became horrified and overcome with guilt.
-It was that strange man. It was her fault, she led him to her. Tears started streaming down her cheecks too,
+It was that strange man. It was her fault, she led him to her. Her eyes teared up a little,
 messing up her eyeliner. It was too much for her, first Rat, now Endell. She felt horrible.
 
-She tried to explain to Neiro, but it was hard on her too. She didn't question who Horus was, given the
-circumstances, but said to come to her, that they need to figure something out.
+She tried to explain to Neiro, but it was hard. She didn't question who Horus was, given the
+circumstances, but she told them to come to her, that they need to figure something out.
 
 She also said that the man left a calling card and that there is an address on it, that it might
 be the place where they are keeping Endell.
 
-Since it was they would need to switch to a different train and the intervals are slow now that it's evening,
+Since they would need to switch to a different train and the intervals are slow now that it is evening,
 Horus proposed they depart the train at the station near which is the truck lot and take the truck to Minerva's place.
 This would definitely be to the chagrin of other participants of the traffic, given the truck's proportions.
 
@@ -2142,7 +2160,7 @@ quickly distracted by the sounds of gunfire, coming from nearly everywhere.
 
 People were screaming from all around. Perhaps, it was the whole city. The sky started to darken.
 
-Strange soldiers in black gear started flooding the city, coming from near the powerplant. There were probably
+Strange soldiers in black gear started flooding the city, coming from near the power plant. There were probably
 thousands of them in the city.
 
 Gunfire all around.
@@ -2150,10 +2168,10 @@ Gunfire all around.
 Horus decided: "What the hell, this is bad. We need to run, quickly! To the truck!"
 
 They started running through the chaos on the streets. The armored men were only about a hundred meters behind them,
-they were firing occassionally at or near people.
+they were firing occasionally at or near people.
 A few shots flew right by him and Neiro.
 
-Horus spotted that they are non-letal shots, rubber balls. Made to make a bruise but not to kill.
+Horus spotted that they are non-lethal shots, rubber balls. Made to make a bruise but not to kill.
 Neiro looked behind, she could see the soldiers advancing forward and pushing people back into the houses.
 
 They were taking some people, ones that looked particularly horrible. Horus saw one of these people seemingly
@@ -2163,7 +2181,7 @@ One soldier walked out from an alley that Horus and Neiro were about to run past
 revolver, shot him, cocked the hammer again and shot him for a second time.
 
 The soldier seemed to be knocked back and staggered, since the SAA does pack a punch as a weapon, but otherwise
-seemed unaffacted. Neiro felt something strange about the soldier.
+seemed unaffected. Neiro felt something strange about the soldier.
 
 However, these two shots were able to give them a window to escape, they turned a corner and they were
 finally close to the parking lot.
@@ -2208,7 +2226,7 @@ industrial zone, they seemed to go after people, and there weren't people there 
 Horus quickly said.
 
 "Yea, it's abandoned," said Neiro. Then she realized their predicament and blurted out: "Oh my god...".
-She held her hea din their hands, then she started cracking her knuckles again and again. She was really on
+She held her head din their hands, then she started cracking her knuckles again and again. She was really on
 edge, but this wasn't the time to smoke.
 
 "I saw one large abandoned warehouse there, it looked pretty good, I think we can hide near it, then
@@ -2242,7 +2260,7 @@ Horus looked up to the sky. It was somewhat dark. Very little stars could be see
 Elsewhere, some time earlier.
 
 A man on a horse rides into the Morpho encampment from the side of the walls. Behind him, hundreds, if
-not thousands of black soldiers follow on foot. Their march is perfectly in unison, it sounds almost artifical.
+not thousands of black soldiers follow on foot. Their march is perfectly in unison, it sounds almost artificial.
 Just like a perfectly prepared army parade.
 
 The man on the horse stops on in front of one of the Morpho officers. The man was wearing a black coat,
@@ -2257,7 +2275,7 @@ The officer greeted him: "Greetings boss, glad you could make it."
 Andrew the officer explained the situation.
 
 "I see, that is unfortunate. The helicopter was supposed to carry my personal effects, too,
-not to mention important machinary. Anyways, we brought a lot machinery and materials as well.
+not to mention important machinery. Anyways, we brought a lot machinery and materials as well.
 What's the condition of the pilots, Jake and William?"
 
 "Jake is here, in the infirmary. He was shot in the thigh during his descent and lost a fair bit
@@ -2266,14 +2284,1210 @@ somewhere in the city, due to a damaged parachute. We sent out a few people to f
 
 "Ah, I'm sorry, I exposed my men to a greater danger than I expected it would be. I appreciate their
 work. Hopefully, they will both be fine. I will do my best to make it up to them.
-Nevertheless, we need to procede with the operation."
+Nevertheless, we need to proceed with the operation."
 
 "Understood, Boss."
 
 The Boss turned on his horse and yelled out: "Venerable Sentinels, your time has come. Rise and seize
-the city. Bring in those we need. Put everything on lockdown!"
+the city. Bring in those we need. Put everything on lock-down!"
 
 He then pulled out a flare gun and fired a flare into the sky. This alerted even the Sentinels who were
 farther away and had no chance of hearing him.
 
 They started to flood into the city.
+
+<div id="alma"></div>
+
+# INTERMEZZO: CARTOGRAPHER
+
+Well, that was climactic. And longer than I expected. I am getting really invested into the story,
+haha.
+
+These last bits have been quite extensive, and many characters were introduced. It might be
+confusing for a listener who doesn't pay attention, but you surely do.
+
+Anyways, I thought that it might be nice to reward you with some information, or call it trivia,
+about some of our new acquaintances.
+
+Behold, although partially obscured and intentionally incomplete, my glorious datasheets:
+
+### Neiro
+
+<div class="char-row">
+	<div class="char-column">
+		<table>
+			<tr>
+				<th>
+					Age
+				</th>
+				<td>
+					20+
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Sex
+				</th>
+				<td>
+					F
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Eyes
+				</th>
+				<td>
+					Blue
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Weight
+				</th>
+				<td>
+					58 kg
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Height
+				</th>
+				<td>
+					155 cm
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Birthday
+				</th>
+				<td>
+					1st December
+				</td>
+			</tr>
+		</table>
+	</div>
+	<div class="char-column">
+		<table>
+			<tr>
+				<th>
+					Build
+				</th>
+				<td>
+					Slightly chubby
+					but not fat
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Favorite food
+				</th>
+				<td>
+					pancakes
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Likes
+				</th>
+				<td>
+					Coffee,
+					funky music,
+					dancing,
+					her friends,
+					Endell
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Dislikes
+				</th>
+				<td>
+					Waking up,
+					hot weather,
+					bell peppers,
+					being wrong,
+					weed cookies
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Designation
+				</th>
+				<td>
+					<u>Resistance</u>
+				</td>
+			</tr>
+		</table>
+	</div>
+</div>
+
+So this is Neiro. She is one of the characters we meet first.
+I am particularly partial to her, I think she has depth as a person
+and I like her antics.
+
+Her earlier life wasn't particularly easy, she came to The City after being hit
+by a truck, which by coincidence was similar to Horus's - it could not have been his,
+since he was still in Europe at the time - and a few years ago
+became tangled up in a plot that was so outlandish she couldn't have made it up
+if she wanted to! Not even in a dream.
+
+Neiro eventually found out that she is not a regular human, similar to her friend
+Valentine, but a type of Modified, one that they call Winged Ones... I think. Sheesh,
+hearing this always makes me think of chicken wings, shame I am getting none of those
+here in my realm. Could go for a breather though, it's been a few years since I last
+left this place.
+
+Being "Winged" gave her several perks and abilities, but ones unlike those of, say, Endell,
+a different type of Modified, one that is colloquialy just referred to as "Modified". If you
+have been privy to her previous history, you know all about it, but here, dear listener,
+I would like to preserve the suspense a little longer.
+
+As a person, some describe Neiro as a angry goofball, which is no doubt amplified by her
+short stature, but there is depth to her personality, and she is anything but one-directional,
+so to speak. Talent lies within her, partially realized, largely dormant.
+
+### Horus
+
+<div class="char-row">
+	<div class="char-column">
+		<table>
+			<tr>
+				<th>
+					Age
+				</th>
+				<td>
+					35-40
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Sex
+				</th>
+				<td>
+					M
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Eyes
+				</th>
+				<td>
+					Blue
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Weight
+				</th>
+				<td>
+					87 Kg
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Height
+				</th>
+				<td>
+					182 cm
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Birthday
+				</th>
+				<td>
+					???
+				</td>
+			</tr>
+		</table>
+	</div>
+	<div class="char-column">
+		<table>
+			<tr>
+				<th>
+					Build
+				</th>
+				<td>
+					Muscular but not massive
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Favorite food
+				</th>
+				<td>
+					Anything meat
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Likes
+				</th>
+				<td>
+					Crabs,
+					trench coats,
+					trinkets and oddities,
+					guns,
+					less known music
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Dislikes
+				</th>
+				<td>
+					Pop music,
+					hip-hop,
+					dancing (likes to watch but not to participate),
+					dishonesty and inobservance
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Designation
+				</th>
+				<td>
+					<u>Dreamchaser</u>
+				</td>
+			</tr>
+		</table>
+	</div>
+</div>
+
+Horus is another of first introduced characters, just like Neiro. In
+that sense, he is just like her a protagonist in the original meaning of the word -
+"one who plays the first part". However, it is hard to say who is actually the center-piece
+of a large branching story like this.
+
+Horus is a strange man. He was born in a war-torn country and was an orphan since before
+he could remember, being adopted by a separatist groups. He spent his younger years
+as a child soldier, an experience, which, while definitely not easy and leaving permanent
+evidence of his existence on him as a human, provided him in later years with level-headedness,
+which is complimented by a form of idealism, uncommon in most people.
+
+That is not to say he is without vices. His approaches to solving some things are peculiar to
+say at least, and there is an air of vanity about his collection of trinkets and oddities. It
+is irresponsible to drive a truck when one of your eyes does not work well - although he does
+an admirable job despite that - and taking a weapon for protection which is attractive,
+but impractical in comparison to modern day handguns.
+
+After years of combat, Horus was finally able to retire from the battlefield and enter a new vocation.
+Building a large business selling light bulbs. He was always fond of the light, more of the light produced
+by tiny sources such as light bulbs, or the stars. Sun interested him none. However, it is not all
+nice and legal - he supplies some criminals with light bulbs too.
+
+### Valentine
+
+<div class="char-row">
+	<div class="char-column">
+		<table>
+			<tr>
+				<th>
+					Age
+				</th>
+				<td>
+					21+
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Sex
+				</th>
+				<td>
+					M
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Eyes
+				</th>
+				<td>
+					Blue (black with contacts)
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Weight
+				</th>
+				<td>
+					72 Kg
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Height
+				</th>
+				<td>
+					180 cm
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Birthday
+				</th>
+				<td>
+					7th June
+				</td>
+			</tr>
+		</table>
+	</div>
+	<div class="char-column">
+		<table>
+			<tr>
+				<th>
+					Build
+				</th>
+				<td>
+					Normal to athletic
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Favorite food
+				</th>
+				<td>
+					Weed brownies
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Likes
+				</th>
+				<td>
+					Dancing,
+					marijuana,
+					flamboyant clothes,
+					good-looking men,
+					friends,
+					graffiti
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Dislikes
+				</th>
+				<td>
+					Dangerous people,
+					the underworld,
+					being stared at,
+					bad trips,
+					no weed
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Designation
+				</th>
+				<td>
+					<u>Flame</u>
+				</td>
+			</tr>
+		</table>
+	</div>
+</div>
+
+We first meet Valentine when Neiro goes to visit him, taking Horus with her during
+her shoddy attempt to be a guide to the city. We can see that he is a good-natured
+and caring guy and that he is worried about Neiro's safety.
+
+Valentine, is just like Neiro, a second-generation Winged One. He lived for many years
+in hiding with his father to avoid being caught by the elusive former ruler of The City.
+Val ended up losing his father a few year ago, in an event that had a deep impact on him.
+
+He owns a gay bar in the city, and he himself is attracted to men, but as far as my
+information reaches, there is no record of a longterm relationship. In his free time,
+he creates graffiti, cultivates and smokes weed, and indulges himself in eccentric clothing.
+
+Eccentricity is his own in more aspects than just clothing, as we may later find out,
+or, as is evident from previous records of his history.
+
+Valentine is also a good cook, an excelent food critic, and Neiro's confidant, which
+is why she chose him as a food taster, or, in other words, as a victim.
+
+### Loki
+
+<div class="char-row">
+	<div class="char-column">
+		<table>
+			<tr>
+				<th>
+					Age
+				</th>
+				<td>
+					20+
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Sex
+				</th>
+				<td>
+					M
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Eyes
+				</th>
+				<td>
+					Green
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Weight
+				</th>
+				<td>
+					65 Kg
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Height
+				</th>
+				<td>
+					170 cm
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Birthday
+				</th>
+				<td>
+					8th August
+				</td>
+			</tr>
+		</table>
+	</div>
+	<div class="char-column">
+		<table>
+			<tr>
+				<th>
+					Build
+				</th>
+				<td>
+					Skinny to normal
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Favorite food
+				</th>
+				<td>
+					Mushrooms, the more fun, the better
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Likes
+				</th>
+				<td>
+					Drugs, hot people,
+					technology, wandering around,
+					pressing buttons
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Dislikes
+				</th>
+				<td>
+					Stern people,
+					cold,
+					hangovers / withdrawals,
+					not knowing who he is
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Designation
+				</th>
+				<td>
+					<u>Love</u>
+				</td>
+			</tr>
+		</table>
+	</div>
+</div>
+
+Loki is a character that was introduced later. Just in the last episode,
+as you surely remember. He is a strange fellow, who undeniably has a problem
+with substances.
+
+We do not know at this point if he is actually called Loki, or if he was looking for
+a person called Loki.
+
+There were some hard drugs in his system and he could have died, if he were let out
+in the cold for much longer. He does not seem Modified or biologically unusual in any
+other way, but he has a strange hairstyle as I described earlier.
+
+At this point in the story, he only showed little personality, we only really hear him
+speak in his dream and neither that is evocative of what he is like, but we can
+deduce from the data I presented and from his condition, that he is not typically
+the type of person one would get acquaintanced with or want to keep around, if they
+go by the old adage of making friends with people who want good for you, do not
+destroy their surroundings, and promote growth.
+
+However, there is still a path to redemption from being a miserable and woefully
+blind crackhead, just like there is a path for others who reject reality.
+
+Right now, he is stuck with Horus and Neiro, and, although he may prove to be
+a pain the hind parts, they can't just rid of him. Who knows, maybe he will eventually
+prove himself useful.
+
+.
+
+.
+
+.
+
+.
+
+Alright, there you have four datasheets for four characters. I think it would be
+too boring if I were just to spill all of them at once, so I will just trickle them slowly
+to you. There is no visual yet, I'm still thinking about it.
+
+Nevertheless, there is one "visual" thing I want to show, for future reference. It will come
+in handy. Here is where I really start to shine.
+
+Here, for your inspection, a map of the city Yiandh (pronounced 'yand', for the linguistically disabled).
+
+![Yiandh](/media/yiandh.png)
+
+It is a rather small city located on an island. The island is not too hot, not too cold. Climatically,
+I would pin it in the neighborhood of a summer day in Ireland. Definitely not a tropical destination.
+
+This city is one of four settlements that are on this Island and it serves as its center-piece,
+with the other three villages being located by the sea shore, each connected with a single road to Yiandh.
+
+Yiandh is a rather nice city, it has several small districts, each with its distinctive atmosphere.
+The streets and the buildings are very clean and in a good shape, despite the fact that it is not a
+metropolis like, say, Rome was.
+
+Technologically, this city and the world in which it is located is not very advanced and could be more
+likened to a medieval or a fantasy settings. Nevertheless, Yiandh is home to many wise scholars and quality
+education, a favorable social system and a generally peaceful and relaxed disposition.
+
+Religion reigns supreme in the city of Yiandh. The people worship one of the many world deities,
+Xexanoth, but we will hear about this god more, when we get there. Yiandh's inhabitants are close with
+the deity and attribute the good state of the city to a special kind of rain which Xexanoth supposedly
+blesses the city with every once in a while. This rain is said to cleanse things, fix what is broken
+and restore an object's novelty.
+
+Several years ago, Xexanoth spoke to some of his followers through a dream and announced the advent
+of a special woman of untraditional looks, who would be an emissary to Yiandh, to anticipate her arrival
+and ensure her a safe and pleasant stay.
+
+Yiandh is governed by a council of representatives who are selected through democratic vote. Despite
+the fact that anyone can elect to run for the office, most of the time the council is comprised of
+scholars and high-ranking priests, in a roughly balanced ratio. Many years ago, a future precaution
+has been taken and placed into the constitution of Yiandh - a ban of all political parties,
+which mandates that individuals run for themselves, as themselves. There has, however, been no
+need for this yet, as despite a steady slow growth, Yiandh is still too small.
+
+So this was the map of Yiandh. I have another, but this one will be without such a long explanation,
+as I have spoken about it before.
+
+![Dead Whale Port](/media/dead_whale_port.png)
+
+This is Dead Whale Port, a sheltered coast city where Fira Angelica and her crew stopped by on their
+quest for immortality. It is located in a cove, which makes sure that the open sea in front of it is not,
+in fact, that open.
+
+Towards the inland, there are tall mountains, which protect Dead Whale Port from other sides, making
+it a well-defended pirate sanctuary. Given its long history and natural protection, local government
+has given up on trying to conquer the city, on the condition that Dead Whale Port will not be attacking
+the inland. The pirates agreed.
+
+As you can see on the map, there are only two egress roads from Dead Whale Port. Calling them roads
+might a bit of an overstatement - a trail for experienced hikers might be more appropriate.
+
+I have taken the liberty of marking a few important points referenced in the memory.
+
+.
+
+.
+
+.
+
+Alright, that might be it for now. But I think I'm going to take a break for a few minutes.
+Brew myself a cup of coffee. I don't really need it to function, but it makes me feel nice.
+Also, my eyes hurt a bit from staring into sheets for such a long time at once and jumping around
+with my eyes so fast. Huh, could put on my glasses, then.
+
+Let me quickly find them.
+
+.
+
+.
+
+Hmm, where did I put them? No luck there ...
+
+.
+
+Oh, maybe these drawers? Not here... Not here either... Not there too.
+
+.
+
+Hmm...
+
+.
+
+Did I leave them on the...? No, I didn't.
+
+.
+
+.
+
+Oh wait, they are on my head. Huh, haha. I'm not very smart sometimes, take note of that,
+dear listener.
+
+Anyways, I'm off for a cup of coffee.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+<div data-aos="fade-right" style="margin-right: 80rem; margin-left: -47rem; width: 45rem; text-align: right"><b>STARRING</b></div>
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+<div data-aos="fade-right" style="margin-right: 80rem; margin-left: -47rem; width: 45rem; text-align: right"><b>A COFFEE CUP</b></div>
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+<div data-aos="fade-right" style="margin-right: 80rem; margin-left: -47rem; width: 45rem; text-align: right"><b>A SPOON</b> FOR COFFEE RETRIEVING AND STIRRING</div>
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+<div data-aos="fade-right" style="margin-right: 80rem; margin-left: -47rem; width: 45rem; text-align: right"><b>A COFFEE MACHINE</b></div>
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+<div data-aos="fade-right" style="margin-right: 80rem; margin-left: -47rem; width: 45rem; text-align: right"><b>SOME SUGAR</b></div>
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+<div data-aos="fade-right" style="margin-right: 80rem; margin-left: -47rem; width: 45rem; text-align: right"><b>MILK</b></div>
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+<div data-aos="fade-right" style="margin-right: 80rem; margin-left: -47rem; width: 45rem; text-align: right"><b>THE COFFEE MACHINE</b> AS MY FAVORITE MACHINE IN THE GYM</div>
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+<div data-aos="fade-right" style="margin-right: 80rem; margin-left: -47rem; width: 45rem; text-align: right"><b>WATER</b> AS H2O</div>
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+<div data-aos="fade-right" style="margin-right: 80rem; margin-left: -47rem; width: 45rem; text-align: right"><b>THE CARTOGRAPHER</b> AS A DASHING COFFEE LOVER</div>
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+<div data-aos="fade-right" style="margin-right: 80rem; margin-left: -47rem; width: 45rem; text-align: right">AND</div>
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+<div data-aos="fade-right" style="margin-right: 80rem; margin-left: -47rem; width: 45rem; text-align: right"><b>THE COFFEE</b></div>
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+Alright, I'm back. I feel recharged. Yee-haw!
+
+So, in a moment, we shall get back to the storytelling business. I was gone for a little longer than I expected, as is wont to happen
+when you float off into your imagination in the kitchen, but I will probably cut the recording to make the pause not so long.
+
+Now, you may be wondering how I managed to fit pictures into a sound recording. Well, it's magic and that makes it a magician's secret.
+Thanks for asking.
+
+However, I hope you appreciate my maps, I am really proud of them, they took a long time to make. I feel like cartography is a
+neglected vocation, as these days, everyone just takes the availability of a good map for granted.
+
+Anyways, I digress.
+
+Let's get back to the storytelling.
