@@ -2560,9 +2560,9 @@ that sense, he is just like her a protagonist in the original meaning of the wor
 of a large branching story like this.
 
 Horus is a strange man. He was born in a war-torn country and was an orphan since before
-he could remember, being adopted by a separatist groups. He spent his younger years
+he could remember, being adopted by a separatist group. He spent his younger years
 as a child soldier, an experience, which, while definitely not easy and leaving permanent
-evidence of his existence on him as a human, provided him in later years with level-headedness,
+evidence of its existence on him as a human, provided him in later years with level-headedness,
 which is complimented by a form of idealism, uncommon in most people.
 
 That is not to say he is without vices. His approaches to solving some things are peculiar to
