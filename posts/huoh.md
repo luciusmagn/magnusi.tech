@@ -3862,8 +3862,8 @@ She went inside the container and Horus threw a bag of chips at her: "Eat, you a
 you should eat something, who knows what is going to happen, you should have some energy. I would make
 better food, but it would take time."
 
-Neiro opened the bag and started munching loudly, angrily. She didn't even care that Horus mentioned her height
-right now.
+Neiro threw an angry look at Horus and snapped: "I'm not short!". She then opened the bag and started munching
+loudly, angrily staring into the wall.
 
 Horus took of his coat, underneath it, he had a white shirt and a red tie. Even through the shirt,
 Neiro could spot a large bruise on his shoulder. That was because the shirt was stuck to this shoulder,
@@ -3886,3 +3886,5 @@ and elbow. The hand was fine.
 But in his mind, he started to recall the events. Maybe it was time for him to tell a story as well.
 
 # MEMORY 2: HORUS
+
+Many years ago.
