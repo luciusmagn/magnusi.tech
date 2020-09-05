@@ -2296,8 +2296,6 @@ farther away and had no chance of hearing him.
 
 They started to flood into the city.
 
-<div id="alma"></div>
-
 # INTERMEZZO: CARTOGRAPHER
 
 Well, that was climactic. And longer than I expected. I am getting really invested into the story,
@@ -3447,3 +3445,444 @@ neglected vocation, as these days, everyone just takes the availability of a goo
 Anyways, I digress.
 
 Let's get back to the storytelling.
+
+<div id="alma"></div>
+
+# EPISODE 2: ZORA
+
+> Do you not know that there comes a midnight hour when every one has to throw
+off his mask? Do you believe that life will always let itself be mocked?
+Do you think you can slip away a little before midnight in order to avoid this?
+Or are you not terrified by it? I have seen men in real life who so long deceived
+others that at last their true nature could not reveal itself;... In every man
+there is something which to a certain degree prevents him from becoming perfectly
+transparent to himself; and this may be the case in so high a degree, he may be
+so inexplicably woven into relationships of life which extend far beyond himself
+that he almost cannot reveal himself. But he who cannot reveal himself cannot love,
+and he who cannot love is the most unhappy man of all.
+
+In the city, a while ago.
+
+Black soldiers are flooding through the streets. Nella is running as fast as she can.
+She is an athletic-looking woman of rather slender build with short, dark-green hair.
+Right now, Nella had her hair a little longer than usual, but she had plans to cut it once again.
+Her eyes are gray, and there is evidence of a nose ring, but she isn't wearing it now.
+
+She is currently in the western side of the city, but so far, she has no idea where to run.
+The soldiers are firing and, in Nella's direction, there are live rounds flying as well, not just
+non-lethal rubber balls.
+
+Nella has bionic legs, installed after an accident which deprived her of her original ones. They allow
+her to run faster and longer, jump higher and move with greater finesse than humans usually can.
+She too is Modified.
+
+Gunfire.
+
+Nella turns a corner and curses herself for returning to The City. She received a letter that
+there is a package waiting for her here, but after she got off the train a few minutes ago,
+the city was in disarray and armored men are everywhere, firing at everyone and forcing them
+back into the houses.
+
+Nella didn't have a house here, she moved a few years ago when it seemed The City received a shock
+it might never recover from. She was a dance teacher, a ballet dancer to be precise. Among others,
+she taught Allie, the daughter of Katarina, who owned a bistro nearby to her current location.
+
+It's also where Neiro used to work. The two had a... complex relationship, so to speak.
+
+Nella's legs were strong enough to do away with pretty much anything, so she figured that
+maybe she can break in and hide in there.
+
+Alright, that means she needs to go left, then two blocks forward and take a right, eventually, she
+will run past another train station and then to street 47, where the bistro is.
+
+Run.
+
+Run.
+
+Run.
+
+Good, she can see the bistro. There are scorch marks all over it, but it looks like someone did some
+basic repairs to it at least.
+
+Nella runs towards it. On her way, she goes past a blue butterfly, one with wings that have a dark edge.
+
+She can see someone about to walk right past it. Walk is a strong word. She has crutches and her leg
+is in a cast.
+
+"What the hell is that woman doing there, why is she outside?" Nella thinks to herself.
+
+Finally at the distro.
+
+"What the hell are you doing, can't you see what's happening?" Nella yells over the gunfira.
+
+The other woman is startled and trips, falling to the ground.
+
+Nella makes a fast decision, she kicks in the door and grabs the woman, pulling her inside.
+
+Then she quickly closes the door. The door won't stay closed since Nella kicked it. Damn.
+She grabs a chair and props it up. It was one of the few chairs that looked to be in a good shape.
+Then she flipped over a table and put it against the door too.
+
+Meanwhile, the woman is on the floor holding her broken leg. It got hit by the door as Nella pulled
+her in and hurts now.
+
+Nella then, without saying anything, grabs the woman and drags her to a room in the back. It seems
+liked it served as a kitchen or a food storage room.
+
+They both sat on the ground facing each other. Nella was leaning on a counter, the woman was against
+the wall.
+
+"What were you doing, why aren't you home? You have a broken leg for fuck's sake."
+
+"I know, I am sorry, thanks for helping me. I don't have a home here, I traveled here with a fake
+resident card," the woman explains.
+
+"Why the hell would you do that?"
+
+"You see, I have been ill for some time and a while ago, I had a surgery. They told me my leg
+would work after it heals, that's why I got the cast. It's not actually broken. For a long time,
+I dreamed of dancing, but there were no dancing schools back in Gan Adfeilion, and a friend told
+me that there good dancers here. So I traveled here and tried to find someone, but I found almost
+no one, and those I did find rejected me." the woman explained, rather sadly.
+
+"Bad friend," Nella responded. Usually at moments like these, she would like a cigarette, but
+she has been trying to stay off them for a while now. It wasn't easy.
+
+Yea, she is lighting a cigarette. A pull in and puff out the smoke. The other girl starts to caugh.
+There is a kind of innocence beaming from her face in Nella's eyes.
+
+"You ever smoked?" she asks her.
+
+"No, I haven't..."
+
+"Drugs, drinking?"
+
+"No..."
+
+"Irresponsible sex?"
+
+"No..."
+
+"Murder, crime, deviancy?"
+
+"I couldn't even if I wanted to, I was ill..."
+
+"You are not cut out for The City, you shouldn't have come here," Nella finishes her questioning,
+"this is not a nice place."
+
+"Yea, I kinda figured, people weren't as nice to me as I expect it. When the gunfire started, it
+was clear... is this normal?"
+
+"There was a lot of dark stuff, but no, I haven't seen this before," Nella was becoming calm.
+
+Then she continued: "I think we need to lay low for a while, hopefully, this will be over soon."
+
+"Okay, it's not like I can escape anyway. My crutches are still outside," the woman responded.
+
+"Fuck," Nella thought.
+
+"Yea, I know what it's like when your legs don't work like they used to," Nella said, pulling up one
+leg of her jeans to reveal that it is a mechanical prosthesis. She knocked on it to produce a loud
+sound indicating hard materials in the shin.
+
+"What happened?" the woman asked.
+
+"Long story. What's your name?"
+
+"Zora. I'm Zora. And you?"
+
+"Nella."
+
+Nella then got up and ran through the cup boards and cabinets. Some of them weren't burned as badly
+as others. A few objects even looked new.
+
+She found a bottle of scotch in one of them. She opened it, took a swig and then extended it to Zora.
+
+Zora took a bigger swig than is generally a good idea for first time drinking, swallowed it, and then
+let out a very strange sound.
+
+Nella was bewildered.
+
+Zora quickly became red in the face.
+
+Nella sighed and took another swig. At least she didn't finish the cigarette.
+
+"Do you know who those soldiers were?" Zora asked.
+
+"No. No idea. I had a FINE life elsewhere and every time I dip my nose in here,
+EVERYTHING GOES TO SHIT"
+
+"Oh, sorry... why were you here?
+
+"...someone left me a package, they wouldn't deliver it because there 'dangerous substances' in it,
+so they left it here. I don't know what it was," Nella responded more calmly. She didn't want to yell
+at the girl.
+
+Only now, she was finally able to get a good look at her. She looked somewhere between twenty to twenty-five,
+her eyes and hair were brown and she had a really good figure, reminiscent of the old greek and roman ideals of beauty.
+She had a very attractive face, it looked serene and innocent. It was not the kind of beauty one would
+want to get into bed, but a different kind, more holy, one that would inspire poets to write about love
+and beauty, and lament the transience of youth.
+
+After a moment, Nella spoke again: "Well, we need to figure out what to do next."
+
+"Fight back?" Zora asked with a spark in her eyes.
+
+Nella rolled her eyes in surprise.
+
+"No, we wouldn't stand a chance."
+
+She pulled out her cell phone, opened the address book and scrolled down to Neiro. Neiro didn't have
+her number. Nella acquired it through Allie, who in turn acquired it from Katarina, who got it from Neiro
+herself through a letter. She wanted to call for a long time, but she just couldn't get herself to do it.
+She kept postponing it over and over again, until she got here, now.
+
+Right now, Neiro was the only person in the city she knew. She didnt have a number for anyone else. She
+was the only person she could call.
+
+So she took a deep breath and pressed dial.
+
+...
+
+No reception. She sighed and said: "We got no reception, we can't call anyone."
+
+Zora asked: "Is that bad?"
+
+"Very."
+
+Nella then went to explore the bistro. She had no idea what she was looking for, but she was hoping
+it would be something that could help her.
+
+She spotted a box of old electronics upstairs. Some of them were a little melted. An idea started to form
+itself.
+
+Nella then ran over to the breaker box, and then checked if there ever was a television, by checking for an
+antenna socket. There was.
+
+There was a scientific element to Nella. She was partial mostly to chemistry, but she had some knowledge of
+physics and biology as well. In this moment, it was time for this side to shine.
+
+Maybe she could fashion a... Hmm... yes, indeed.
+
+.
+
+.
+
+.
+
+Elsewhere, Jake was starting to wake up. He felt horrible, all of his limbs were weak and his head hurt.
+
+He opened his eyes, everything was still blurry, but it was slowly starting to sharpen.
+
+There was someone sitting next to his bed.
+
+It was the Boss. His hand was still bleeding. He was reading an old copy of The Whale by Herman Melville.
+This was a very old edition, from year 1851, when the book was first published in London as three volumes.
+These were these three volumes joined together. Later the book's title was changed to a more obviously eponymous
+one. Under the new name, this was perhaps the most famous piece of american literature - despite the fact
+that initial reception was better anywhere outside the US - and one of the most famous stories in the world.
+
+It was of course, smudged with the same dirty blood.
+
+"Hello, Jake, glad to see you awake. I was worried about you. I'm not sure if you remember, but the helicopter
+was shot down and you got hit on your way down. Lost a lot of blood," the boss said.
+
+"Boss, hello..." responded Jake. He was still a little confused, and he didn't remember getting shot.
+
+Then he suddenly realized: "What about the other guy, is he fine?"
+
+"William? He landed in the city, he got hurt as well and he was a little banged up from the landing, too.
+Morpho found and brought him back only a few minutes ago. He is unconscious right now, he is in another room.
+They told me you might wake up soon, so I came here."
+
+"Where are we...?" Jake was still a little dazed.
+
+"Oh, I had you moved while you were out. I brought more manforce, work is going much faster. We were able
+to construct several buildings already."
+
+Jake noticed he was in a metallic building made out of plates and steel beams. The insides of the walls were padded
+with some insulation material.
+
+"You have surely noticed them. They are the strange armored clad-in-black folk. Oh, before anything else...
+I'm really sorry about what happened to you, I did not expect that there would be someone in The City,
+who could take down a helicopter that high. I would like to make it up to you if I can. I brought you
+some stuff."
+
+He puts a bag on the night stand. He pulls out a small gold bar. "First this, it's a bonus for your
+trouble. It's 200 grams, should help with finances."
+
+Then he pulls out a strange pendant. It is somewhat large and it is comprised of five parts. A plate,
+possibly silver or another metal, and two metallic bars on each side.
+
+"This is a very special necklace, it will graant you protection when you will need it."
+
+And finally, he pulls out a two bananas.
+
+"Calcium," the boss exclaims with a smile.
+
+"Thanks boss, I appreciate the care, but this really shook me, man. I don't think I can do anything
+as dangerous like that anymore."
+
+"I understand, nothing like that anymore, I promise," the boss said, doing a thumbs up gesture, "I need to get
+going now, so take care, cheers!" The boss then got up and went to leave the room, waving a hand at Jake.
+
+Jake decided to get up and go for a walk through the building. Walking was a little hard for him.
+
+He went into the hallway. There were several rooms, most of them were labeled by its function. He decided
+to go into the canteen room, he wanted to drink some tea.
+
+He opened the door and went in. No one here, or so he thought. He went to the wall to grub a cup, filled it
+with tea.
+
+Took a sip. "I had better than this, but I suppose it is drinkable," he thought. He took another sip.
+
+Then he turned around.
+
+There was a naked woman standing near one of the tables. She was taking a look at her dress. It was
+like a ball, ornate black dress, with several gemstone brooches of different colors. She had red eyes
+with triangular pupils and a black choker.
+
+As soon as Jake realized what he is looking at, he covered his eyes and shouted: "Oh my god, I'm so
+sorry, I had no idea!"
+
+The woman turns around looking perplexed: "Hi, sorry about what?"
+
+"Well, you are naked and I had no idea you are here, and... Jeez, I'm so sorry."
+
+"Is that something to be sorry about? Which part? Isn't it normal to be naked?"
+
+"Uh... I mean I guess. It's just, people don't like to normally be seen naked unless by people they like, I guess?"
+
+"Aha, I see. Are you a people I like?"
+
+"I don't know, I don't think so, I've never met you."
+
+"I see. Take off your hands, I want to take a look at you. You can look."
+
+Jake did as she asked. The woman was about 170cms tall, had black hair in what appeared like a french bob,
+but what would have been her bangs were combed back. She had a slim but well-balanced build, with athletic
+looking legs, in which one could see hints of muscles. Jake was doing his best not to stare at her chest,
+which, although not that big, had a very fine shape.
+
+"You are blond," the woman exclaimed.
+
+"Yes, but couldn't you have seen that even when I was covering my eyes?" Jake was able to get back to his
+usual self a little.
+
+"Your eyes are blue."
+
+"Yes, and yours are red, which is very strange."
+
+"I have always had these eyes"
+
+"Okay... what's your name, anyway?"
+
+"Don't have one, what's yours?"
+
+"I'm Jake, what do you mean you don't have a name?"
+
+"Hello, Jake... Never had one. What name do I look like to you?"
+
+"What do you name 'what name you look like to me'?"
+
+"If you just saw me, and had to think of a name, what would it be?"
+
+"I don't know, are you sure you don't have one?"
+
+"Yes, I never had one. I'm as I am, I am my own, only for a short while."
+
+"Were you a slave or anything?" At this point, nothing would surprise Jake.
+
+"No, it was more like I was, developing. And serving a purpose. When I developed to
+a certain point, it was time for me to leave my birthplace. A new one shall take my place eventually."
+
+"Alright, that is for sure confusing."
+
+"So, what name do I looked like to you?" The woman went over to Jake and stared him into the eyes.
+
+"Uh.. I don't know?" Jake was perplexed.
+
+"Come on. There has to be a name," the woman said. She was staring intently and curiously at Jake.
+He was a little disturbed by this, but also started getting used to the oddity of the situation.
+
+"Hmm, I don't know, Alice? I really feel like I'm in Wonderland," Jake said jokingly.
+
+"Alice sounds like a nice name. Thank you," said the woman, then she added, "Hello Jake, I'm Alice"
+
+"Hi?" there was something about this strange woman for Jake.
+
+"I hear people generally shake hends when they meet," Alice said, extending her hand.
+
+"They usually do, but it's the other hand, not left," Jake then extended his right hand, Alice switched,
+and shaked his hand, grabbing it pretty hard in the process.
+
+"Wow, this lady has a lot more force than she looks like," Jake thought.
+
+"Can you help me with my dress? I have never worn anything before, I am not sure how to get
+back into it."
+
+"Don't you put on underwear first?"
+
+"No."
+
+"Okay then, sure. Why do you wear this strange dress here, don't you have like overalls or anything?"
+
+"No, I wear it because I have to. I took it from the river."
+
+"The river?" Jake was once again bewildered.
+
+"Yes, the stones too."
+
+"Okay," Jake said, "this woman must be a little crazy," he thought.
+
+Alice then said: "Thank you... Jake."
+
+.
+
+.
+
+.
+
+Elsewhere, Neiro was very angry. She had overcome the initial shock of what happened in last hours,
+and the grief and shock turned to anger, per usual.
+
+She slammed the imitation leather above the glove compartment several times. Sometimes, she let out
+an angry tear.
+
+Horus was in the back checking on Loki. Loki was still unconscious, but it looked like the fever was
+better, his pupils were also a little less dilated.
+
+"Neiro, come over here, to the container," Horus yelled out. The soldiers were shuffling around far enough
+not to hear them here in the industrial zone.
+
+Neiro was pissed, but she decided to listen. If eyes could throw lightning, then one Neiro right now would
+be good enough to solve the world's energy problems.
+
+She went inside the container and Horus threw a bag of chips at her: "Eat, you are short and light,
+you should eat something, who knows what is going to happen, you should have some energy. I would make
+better food, but it would take time."
+
+Neiro opened the bag and started munching loudly, angrily. She didn't even care that Horus mentioned her height
+right now.
+
+Horus took of his coat, underneath it, he had a white shirt and a red tie. Even through the shirt,
+Neiro could spot a large bruise on his shoulder. That was because the shirt was stuck to this shoulder,
+the armpits, and a small part of the back, by sweat. The shoulder was the one he carried Loki on, which is probably
+when it became sweaty.
+
+He could spot Neiro looking staring at his shoulder: "Oh this, it will be fine, I just need to massage it
+a little. Don't worry. I got hit on our way to the truck."
+
+Horus took off the tie and laid it on one of the shelves in the container, then he started unbuttoning his shirt.
+
+When he took it off, Neiro was shocked. She could see what seemed like dozens of bullet hole scars and several
+large scars from bladed weapons. His left arm had bad burn scars all the way from the wrist to halfway between shoulder
+and elbow. The hand was fine.
+
+"What... happened?" Neiro asked, completely staggered by what she was saying.
+
+"It's a long story. Especially the arm. I was a little close to the light, one might say," Horus answered.
+
+But in his mind, he started to recall the events. Maybe it was time for him to tell a story as well.
+
+# MEMORY 2: HORUS
