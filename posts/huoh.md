@@ -3446,7 +3446,6 @@ Anyways, I digress.
 
 Let's get back to the storytelling.
 
-<div id="alma"></div>
 
 # EPISODE 2: ZORA
 
@@ -3884,6 +3883,8 @@ and elbow. The hand was fine.
 "It's a long story. Especially the arm. I was a little close to the light, one might say," Horus answered.
 
 But in his mind, he started to recall the events. Maybe it was time for him to tell a story as well.
+
+<div id="alma"></div>
 
 # MEMORY 2: HORUS
 
