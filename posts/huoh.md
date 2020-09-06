@@ -3887,4 +3887,334 @@ But in his mind, he started to recall the events. Maybe it was time for him to t
 
 # MEMORY 2: HORUS
 
-Many years ago.
+Many years ago. Inside a forest of a more tropical variety, but not a rain forest. There is a shack nearby.
+It is night.
+
+The forest is on fire.
+
+A noticeably younger Horus is standing in a heavily damaged uniform stained with blood stains. Ten meters
+in front of him stands a man in a similar state. He looks about fifteen years older and there is a patch
+with a strange animal on his uniform. It looks a bit like a donkey, a bit like an aardvark, a bit like a
+jackal and maybe as a fennec fox too.
+
+Around them, there lie dozens of bodies, about half of them in a uniform same as Horus's, the other
+half matches the other man.
+
+The only weapons Horus and the man have left are knifes. The fire rages.
+
+"Stop, there is no point in this! You've lost, there is more of us coming," yells Horus.
+
+"You know I can't stop. I am not giving back what is rightfully mine."
+
+"Yours? You are nothing but a usurper."
+
+"Me a usurper? I am the liberator, I stopped that old fool for the people. You should
+know that it couldn't have continued like this."
+
+"You killed him. He trusted you. He had his faults, but he was a good man. You are
+a tyrant."
+
+"I am no tyrant. But the people were blind, they need someone to set them on the right path."
+
+"Not like this."
+
+Horus and the man start getting closer and circling each other, each with a knife in their hand.
+
+"There was no other way."
+
+"You are a fool."
+
+"It is you who is the fool, Horus. You are living in a dream, an illusion of ideals. You too are
+blind, everyone is. Their eyes are yet to open."
+
+"No, there are better ways to conduct yourself."
+
+"I would say that this will be your undoing someday, but the day is today."
+
+"Stop, you don't have to do this. You've lost, can't you see the corpses? They are all dead,
+the forest is on fire. You are the destroyer of worlds!"
+
+"If your leader and you guys hadn't come to oppose me, none of this would have happened."
+
+The fire surges, internal and external temperature rising. Sweat mixes with the blood of the fallen,
+and their own.
+
+"If we hadn't come, the future would lead to ruin."
+
+"That's what you think, but you are blind. You lot waltzed in here and shat on everything I built.
+Who is the bad guy here?"
+
+"You usurper claim to have built something worthwhile? Bold of you to say that."
+
+"Yes, it is only rational, you blind fool. That is it, your idealism falls short in the face of
+rationality. If only you were rational, you would have seen the meaning of my words."
+
+"Only tyrants shield themselves with axiomatic rationality."
+
+"But boundless idealism leaves a trail of blood. Have you seen the history!? Which was it,
+endless idealism or rigid rationality which produced more corpses. And yet idealistic ideologs
+are not shunned unlike the rationalists."
+
+"That is true, they are both bloody when unchecked. But that is why you need both, to balance
+each other out. That is why you need a third a value atop of these two. He figured it out.
+That you need to pay attention, and to be vigilant. Wary of things. You are the blind one"
+
+"Perhaps he wasn't as vigilant, if he let me get to him. But do you really think I'm the blind one?"
+
+The men are a few steps closer. The fire rages, each of them is grasping his knife with
+anticipation. Sweat glistens with a shade of red. A combination of the light from the
+fire, dirt, blood and sweat makes it seem as if the men were much more tanned than they are.
+A lighter line underneath their hairline betrays just how much dirt each one has on them.
+
+"Yes, no one more than you. You destroyed the land, you injured the people. You set
+everyone years back."
+
+"That is foolish and shortsighted."
+
+"And irredeemable acts are what?"
+
+"They were for the greater good."
+
+"And what good was that? A very nice road to hell? Well congrats, your good intentions
+make for a great pavement."
+
+"I hate you"
+
+"The world has turned, and many have burned. But you are to blame!"
+
+"A blame? There is no blame! It's either all of us or no one. Do you think that a single
+man can do this all by himself? If you really think I'm evil... and if you are looking for
+someone to blame... then you only need to look into a mirror, just like everybody else."
+
+"There will never be an understanding between us."
+
+"And that is why we must fight. Can you feel the heat? The temperature's rising! I'll make you bleed"
+
+"I hate you."
+
+"That's the spirit! Come at me, Horus! Let's see who is right! It's the most noble tradition.
+Two men with blades settling their arguments with blood! The oldest form of argument on Earth!
+FIGHT ME, HORUS!"
+
+The man lunged at Horus with his knife, Horus parried the hit and struck back with left fist,
+narrowly missing the face but striking the man in the shoulder.
+
+The other one stumbled back two steps, regained his posture and stabbed at Horus again.
+
+The fire rages, trees crackle, the shed caught on fire as well. It is an inferno.
+
+Horus blocked the hit by stopping the hand under his wrist and kicked the man in the stomach.
+The man receded from Horus and Horus lunged with his knife forward.
+
+The man deflected his hit, catching his arm with his free hand, and stabbed back. Horus
+caught the stabbing hand as well.
+
+The two man were now locked, each trying to overpower the other one. They were pretty well
+balanced. It was perhaps why they were the last ones standing.
+
+There only difference between them was in age and rank. The man was the usurper, the tyrant leader. Horus
+was just a warrior who came here with his revolutionary leader, who was now lying lifeless on the ground
+with many holes all over his body.
+
+The reverse tug-of-war ended when the man tripped Horus and both of them fell to the ground,
+rolling over.
+
+They ended up lying next to each other. The man tried to stab Horus in the chest, but he missed
+and ended up producing a large gash in Horus's side. Horus barely felt it with the adrenalin
+and the heat.
+
+The shack was very well on fire at this point. The forest now looked nothing like it used to,
+and perhaps even Inferno itself would find the scorching heat too much.
+
+Horus rolled back, to be back on his feet, but crouched. He went after the man and managed to punch him
+in the head, breaking his nose, which led to more blood streaming down his face.
+
+The man grabbed some dirt from the ground and threw it in Horus's face. Horus was temporarily blinded.
+The man lunged after Horus, stabbing him two times in his left leg, in the thigh and in the foot. There
+was also a cut across his shin from a failed stab attempt.
+
+Both of the men had already other wounds from the previous combat. They were a boiling bloody mess.
+
+Horus kicked the man back and got up. The other man also started getting up, but Horus jumped at him, plunging
+his knife in the man's back all the way to the hilt.
+
+The usurper started swinging at Horus and then managed to embed his knife in Horus's other thigh.
+
+_Mano-a-mano_. Now the fists were the only weapon left.
+
+They both started swinging at each other.
+
+Left hook to Horus's face.
+
+Right hook to Horus's stomach.
+
+Left hook to the usurper's solar plexus.
+
+Right hook to the usurper's jaw.
+
+Headbutt to Horus's forehead.
+
+Kick to the usurper's shin.
+
+Shove. Both fell to the ground and roll over. Horus tries to strangle the usurper. The usurper punches him to the
+head and gains upper head.
+
+A punch to Horus's right eye.
+
+A punch to Horus's right eye.
+
+A punch to Horus's right eye.
+
+Roll over.
+
+The shack has collapsed under the fire. It's now just a flaming pile.
+
+Horus gains the upper hand.
+
+Left hook.
+
+Right hook.
+
+Left hook.
+
+Right hook.
+
+Left hook.
+
+Right hook.
+
+Horus's gloves are bloodied, but the other man still isn't down. He manages to hit Horus back, creating
+an opening he uses to throw him back, to put some distance between themselves.
+
+The men get back up to their feet, with great difficulty. They are both panting, injured and exhausted.
+
+For the last time, they lock into each other and try to get the other one down.
+
+"DIE, HORUS!"
+
+Horus doesn't responded, he just snarls at the usurper.
+
+They are close to the blazing remnants of the shack.
+
+Each of them pushes as strong as they can to get the upper hand.
+
+Horus is stronger.
+
+He grunts loudly and shoves the usurper into the fire, using his left arm to hold him there.
+
+The man contorts and screams and tries to fight back.
+
+Horus won't let go.
+
+The skin on Horus's arm starts to crack, boil, and burn away.
+
+There is wrath in both of the mens' eyes.
+
+A smell of burnt flesh starts to fill the air.
+
+A few seconds later, the screams stop and the usurpers hands fall back into the fire as well.
+
+
+<small>Evangelist: Whirlwind of Rubbish</small><br>
+<audio
+        controls
+        src="/media/whirlwind-of-rubbish.opus">
+            Your browser does not support the
+            <code>audio</code> element.
+</audio>
+
+Horus stumbles back a few steps and falls to the ground. It is done.
+
+The man is done.
+
+Horus is done.
+
+He is never coming back to this, he can't.
+
+Horus is done. This was the end.
+
+He lies on the ground, arms and legs stretched out. There is not a hint
+of strength in any limb.
+
+He looks at the sky. It is clear, the stars are visible. Observing,
+maybe judging, looking down on Horus. He used to look at them a lot
+back then. They were fascinating.
+
+Everything would change in his early life. Places would change, enemies
+would change, people would change, times would change, even. But not the
+stars.
+
+Everytime he would look at the sky, he would see the same stars, and the same
+moon. It was one of the few constants he had. They had such soft light.
+
+They shimmer and glimmer and they look so tiny. And the moon, like a shepherd
+to his herd of stars would keep closing and opening his one big eye.
+
+"It is funny," he thought, "that some things look much clearer in the dark."
+
+He didn't hear the fire right now. He didn't see it either. There were only
+the stars and their tiny little dance across the night sky.
+
+It reminded him of old times, and he started to tear up a little.
+
+A warrior since he could remember, a child soldier.
+
+He knew the man he just killed. And in his way, he loved the man.
+
+He was like a father, or perhaps more accurately, an uncle to him.
+
+He would make sure Horus was fed as a child, he would share his bread, and
+his water.
+
+He would tell him stories and speak about the world. He would look at the
+sky and point out the constellations.
+
+When they were hiding from the regime in mountains, he would play cards with
+Horus and teach him games.
+
+He would give him advice and help him become stronger.
+
+He would teach him how to fight, how to hold a weapon, and how to stand for
+what he believes in.
+
+He was an uncle, and a mentor, and a friend. One of the few who came back
+from every incursion.
+
+Horus wonders why it had to be this way. Why there came such a divide.
+
+He hoped that hatred might some day replace the pain, but it never goes away.
+It makes a man hideous, inside and out. It feels like the old humanity won't return.
+And all that stays is the demon.
+
+Yet, staring across this wasted scorching land, it feels like a new life will be born,
+beneath the bloodstained sand.
+
+It may seem like there is no tomorrow, but there is still hope for the future. In
+the struggle to survive the present, man pushes the future farther away. But there
+is no time to waste.
+
+Someday, the world will no longer need them: no need for the gun, or the hand to pull
+the trigger. He has to drag out the demon inside him; build a better future. That's
+what he- what _we_ leave as our legacy.
+
+And yet, Horus would rather have his friend back. Is it foolish?
+
+The tears evaporate quickly, and as gas, they fly up to the sky.
+
+Horus has won, but in a sense he also died.
+
+He can't do this anymore. He is done, he quits.
+
+No more usurper... and no more resistance fighter.
+
+He lies looking at the moon. It is sharp and blurry at the same time.
+Obscured and clear. It's the images of his left eye and his right eye merged
+together. The healthy, and the sick.
+
+Bloodied Horus closes his eyes and starts to fall asleep, maybe unconscious.
+
+Far away, man rushing towards the fire can be heard.
+
+The others have come.
+
+# EPISODE 2: ZORA
