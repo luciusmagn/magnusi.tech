@@ -4518,7 +4518,7 @@ In the room, there are two basic wooden chairs. There is man sitting on one of i
 
 "Hello? Where am I?"
 
-"Howdy Jake, I'm mag. I'm afraid you are in hell."
+"Howdy Jay, I'm mag. I'm afraid you are in hell."
 
 "Hell? What? This must be some kind of trick, right? Do you work with Antonio?"
 
