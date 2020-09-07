@@ -3510,9 +3510,9 @@ is in a cast.
 
 "What the hell is that woman doing there, why is she outside?" Nella thinks to herself.
 
-Finally at the distro.
+Finally at the bistro.
 
-"What the hell are you doing, can't you see what's happening?" Nella yells over the gunfira.
+"What the hell are you doing, can't you see what's happening?" Nella yells over the gunfire.
 
 The other woman is startled and trips, falling to the ground.
 
@@ -3547,7 +3547,7 @@ no one, and those I did find rejected me." the woman explained, rather sadly.
 "Bad friend," Nella responded. Usually at moments like these, she would like a cigarette, but
 she has been trying to stay off them for a while now. It wasn't easy.
 
-Yea, she is lighting a cigarette. A pull in and puff out the smoke. The other girl starts to caugh.
+Yea, she is lighting a cigarette. A pull in and puff out the smoke. The other girl starts to cough.
 There is a kind of innocence beaming from her face in Nella's eyes.
 
 "You ever smoked?" she asks her.
@@ -3618,7 +3618,7 @@ so they left it here. I don't know what it was," Nella responded more calmly. Sh
 at the girl.
 
 Only now, she was finally able to get a good look at her. She looked somewhere between twenty to twenty-five,
-her eyes and hair were brown and she had a really good figure, reminiscent of the old greek and roman ideals of beauty.
+her eyes and hair were brown and she had a really good figure, reminiscent of the old Greek and roman ideals of beauty.
 She had a very attractive face, it looked serene and innocent. It was not the kind of beauty one would
 want to get into bed, but a different kind, more holy, one that would inspire poets to write about love
 and beauty, and lament the transience of youth.
@@ -3636,7 +3636,7 @@ her number. Nella acquired it through Allie, who in turn acquired it from Katari
 herself through a letter. She wanted to call for a long time, but she just couldn't get herself to do it.
 She kept postponing it over and over again, until she got here, now.
 
-Right now, Neiro was the only person in the city she knew. She didnt have a number for anyone else. She
+Right now, Neiro was the only person in the city she knew. She didn't have a number for anyone else. She
 was the only person she could call.
 
 So she took a deep breath and pressed dial.
@@ -3678,7 +3678,7 @@ There was someone sitting next to his bed.
 It was the Boss. His hand was still bleeding. He was reading an old copy of The Whale by Herman Melville.
 This was a very old edition, from year 1851, when the book was first published in London as three volumes.
 These were these three volumes joined together. Later the book's title was changed to a more obviously eponymous
-one. Under the new name, this was perhaps the most famous piece of american literature - despite the fact
+one. Under the new name, this was perhaps the most famous piece of American literature - despite the fact
 that initial reception was better anywhere outside the US - and one of the most famous stories in the world.
 
 It was of course, smudged with the same dirty blood.
@@ -3696,7 +3696,7 @@ They told me you might wake up soon, so I came here."
 
 "Where are we...?" Jake was still a little dazed.
 
-"Oh, I had you moved while you were out. I brought more manforce, work is going much faster. We were able
+"Oh, I had you moved while you were out. I brought more manpower, work is going much faster. We were able
 to construct several buildings already."
 
 Jake noticed he was in a metallic building made out of plates and steel beams. The insides of the walls were padded
@@ -3713,7 +3713,7 @@ trouble. It's 200 grams, should help with finances."
 Then he pulls out a strange pendant. It is somewhat large and it is comprised of five parts. A plate,
 possibly silver or another metal, and two metallic bars on each side.
 
-"This is a very special necklace, it will graant you protection when you will need it."
+"This is a very special necklace, it will grant you protection when you will need it."
 
 And finally, he pulls out a two bananas.
 
@@ -3810,7 +3810,7 @@ He was a little disturbed by this, but also started getting used to the oddity o
 
 "Hi?" there was something about this strange woman for Jake.
 
-"I hear people generally shake hends when they meet," Alice said, extending her hand.
+"I hear people generally shake hands when they meet," Alice said, extending her hand.
 
 "They usually do, but it's the other hand, not left," Jake then extended his right hand, Alice switched,
 and shaked his hand, grabbing it pretty hard in the process.
@@ -3884,7 +3884,6 @@ and elbow. The hand was fine.
 
 But in his mind, he started to recall the events. Maybe it was time for him to tell a story as well.
 
-<div id="alma"></div>
 
 # MEMORY 2: HORUS
 
@@ -4145,7 +4144,7 @@ Everything would change in his early life. Places would change, enemies
 would change, people would change, times would change, even. But not the
 stars.
 
-Everytime he would look at the sky, he would see the same stars, and the same
+Every time he would look at the sky, he would see the same stars, and the same
 moon. It was one of the few constants he had. They had such soft light.
 
 They shimmer and glimmer and they look so tiny. And the moon, like a shepherd
@@ -4214,8 +4213,478 @@ together. The healthy, and the sick.
 
 Bloodied Horus closes his eyes and starts to fall asleep, maybe unconscious.
 
-Far away, man rushing towards the fire can be heard.
+Far away, men rushing towards the fire can be heard.
 
 The others have come.
+
+<div id="alma"></div>
+
+# MIST
+
+A man steps inside the room. A wooden chair.
+
+He sits in it.
+
+.
+
+Jay wakes up in the bistro feeling kinda odd. He is a man dealing information for a living.
+His job is to dig up dirt, spy on people, then sell it to the highest bidder.
+
+He is twenty-something, about 193 centimeters tall, green-eyed, a redhead
+and he reeks of cigarettes.
+
+Which is how he shall start his day.
+
+Open lighter. Spark. Ignite. Partake.
+
+He can do a lot of these for a day. These are obviously not good for his lungs,
+or the lungs of anyone in his vicinity.
+
+Today is a pretty uneventful day. It is quite warm today, so he does not really have to
+dress up that much. A basic pair of pants, a T-shirt, a sweatshirt are good enough. And a beanie,
+it wouldn't be a proper Jay outfit without it.
+
+He leaves the bistro mouthing a "hi" to Katarina on the way.
+
+It's a few minutes to the train station. He boards the train and leaves it in a station close
+to the river. Jay has some errands to run there.
+
+He is meeting a "client" on the waterfront. It is a pretty safe place because most don't dare
+to cross you in a public place like this. And there is a lot of people on the waterfront today.
+
+Jay steps in to a puddle. Huh, he wasn't paying attention, he thinks. His left shoe apparently
+had a hole in it. Who knows, if he knew about it before, but now he does.
+
+Suddenly, something caught his eye. It's the girl from yesterday. She is sleeping on a bench.
+Not a good place to stay in The City.
+
+Jay goes over to her and starts shaking her, trying to get her to wake up.
+
+"Hey!" he yells.
+
+"Hey!"
+
+She finally starts to respond and answers, a bit dazed: "What is going on?"
+She immediately starts looking a bit panicky and patting herself all over.
+
+"Why are you looking so frightened? Somebody robbed you?" Jay says with a snarky smile.
+
+"Yea, I don't have my phone and money," she says with a frown, "What do you want from me?"
+
+Jay sighs.
+
+"You can't sleep on a bench like this. You were lucky, next time, someone could come kill you."
+
+Frowning again, the girl answered: "And what am I supposed to do? I have nowhere to go... And it's not
+your problem, mind your business."
+
+"Chill out," Jay rolls his eyes. "Exactly, I want to offer you a job and a shelter. But I'm in a hurry to
+my own work. Take it or leave it."
+
+"What job and what shelter?" the girl asks with a tone of suspicion in her voice.
+
+"The work is in a bistro, all sorts of stuff, it used to be a guesthouse too, so there is a plenty of
+rooms free. I live there and sometimes help out with stuff."
+
+Jay throws away a cigarette butt, steps on it and leaves it there. He immediately takes out
+another one and lights it.
+
+"Well... I guess okay, it's just that, I'm not adult yet."
+
+"Doesn't matter, I went there at sixteen," Jay answers, "Hey, I really gotta go. But you go there,
+it's on the corner of street 47, you go this way, over there, then right, then you go on and on,
+until you see a bistro with a red sign. Ask for a Katarina and tell her I sent you. It should be okay."
+
+The girl was a little confused but answered "O-ok, alright."
+
+Jay then leaves her.
+
+Suddenly a large truck appears in one of the side alleys going at full speed.
+
+It hits Jay, he and the truck both fly into the river.
+
+.
+
+Jay wakes up in the bistro feeling very strange.
+
+Open lighter. Spark. Ignite. Partake.
+
+He can do a lot of cigarettes in a day.
+
+Today is a pretty uneventful day. It is quite warm today, so he does not really have to
+dress up that much. A basic pair of pants, a T-shirt, a sweatshirt are good enough. And a beanie,
+it wouldn't be a proper Jay outfit without it.
+
+He leaves the bistro mouthing a "hi" to Katarina .
+
+It's a while to the train station. He boards a train and leaves it in a station by the river.
+Jay has some errands to run there.
+
+He is meeting a "client" on the waterfront. It is a pretty safe place because most don't dare
+to cross you in a public place like this. And there is a lot of people on the waterfront today.
+
+Jay steps in to a puddle. Huh, he wasn't paying attention, he thinks. His left shoe apparently
+had a hole in it. Who knows, if he knew about it before, but now he does.
+
+Suddenly, something caught his eye. It's the girl from yesterday. She is sleeping on a bench.
+Not a good place to stay in The City.
+
+Jay goes over to her and starts shaking her, trying to get her to wake up.
+
+"Hey!" he yells.
+
+"Hey! Are you on a bench again?"
+
+She finally starts to respond and answers, a bit dazed: "Again? What is going on?"
+She immediately starts looking a bit panicky and patting herself all over.
+
+Jay is a bit confused. It feels like a deja vu.
+
+"Why are you looking so frightened? Somebody robbed you?" Jay says with a snarky smile.
+His smile quickly freezes though, something nags his mind.
+
+"Yea, I don't have my phone and money," she responds with a frown, "What do you want from me?"
+
+Jay sighs, but feels strange.
+
+"You can't sleep on a bench like this. You were lucky, next time, someone could come kill you."
+
+Frowning again, the girl answered: "And what am I supposed to do? I have nowhere to go... And it's not
+your problem, mind your business."
+
+"Chill out," Jay rolls his eyes but freezes for a second. "Exactly, I want to offer you a job and a shelter.
+But I'm in a hurry to my own work. Take it or leave it."
+
+"What job and what shelter?" the girl asks with a tone of suspicion in her voice.
+
+"The work is in a bistro, all sorts of stuff, it used to be a guesthouse too, so there is a plenty of
+rooms free. I live there and sometimes help out with stuff."
+
+Jay throws away a cigarette butt, steps on it and leaves it there. He immediately takes out
+another one and lights it.
+
+"Well... I guess okay, it's just that, I'm not adult yet."
+
+"Doesn't matter, I went there at sixteen," Jay answers, "Hey, I really gotta go. But you go there,
+it's on the corner of street 47, you go this way, over there, then right, then you go on and on,
+until you see a bistro with a red sign. Ask for a Katarina and tell her I sent you. It should be okay."
+
+The girl was a little confused but answered "O-ok, alright."
+
+Jay then leaves her.
+
+Suddenly a large truck appears in one of the side alleys going at full speed.
+
+Jay tries to dodge it, but he can't. Both he and the truck fly into the river.
+
+.
+
+Jay wakes up in the bistro and feels very disturbed.
+
+Open lighter. Spark. Ignite. Partake.
+
+He can do a lot of cigarettes in a day.
+
+Wait, hasn't he done this before, he thinks. Like exactly the same way?
+
+He starts remembering. He puts on his clothes quickly and runs to the station.
+
+Jay leaves the train in a station near the river and runs out of it quickly.
+
+Jay steps in to a puddle. Huh, he wasn't paying attention, he thinks. His left shoe apparently
+had a hole in it. Who knows, if he knew about it before, but now he does.
+
+Wait, he already knows about the hole, he thinks. This is weird.
+
+He runs over to the girl and shakes.
+
+"Hey! HEY! I SAID HEY! WAKE UP!" he yells out of his lungs.
+
+The girl is scared and confused.
+
+"NEIRO, WAKE UP!" Jay remembered the name.
+
+Neiro looks like she has no idea what's going on.
+
+"What the hell is going on Neiro? Why are we here again?!"
+
+"What do you want from, me, I don't know anything. How do you know my name?!" Neiro responds
+in an angry tone.
+
+"I'm Jay, don't you recognize me?"
+
+"Well, you are the guy from yesterday?"
+
+"No, I. Am. Jay. We've been together. Smoking cigarettes and stuff? You remember, no?" Jay is starting
+to plead with Neiro.
+
+"I'm sorry."
+
+"What the hell?" Jay yells and throws his hands.
+
+Suddenly a large truck appears in one of the side alleys going at full speed.
+
+Jay tries to dodge it, but he can't. Both he and the truck fly into the river.
+
+.
+
+Jay wakes up in the bistro and runs out, without even putting on clothes.
+
+He runs to the river as fast as he can. Fuck trains. He just runs as fast as he can.
+
+It takes a while, but he doesn't care and just pushes his body to the limit. If he hadn't
+been smoking, he would have been a better runner.
+
+Jay turns a sharp corner.
+
+A moment later, he steps in to a puddle. He has no shoes on.
+
+He runs over to the Neiro and starts shaking her and yelling.
+
+"NEIRO! YOU BITCH! DID YOU DO THIS TO ME? WHAT THE HELL IS THIS?!"
+
+Neiro quickly wakes up and is very scared.
+
+"No, what is going on? No, what? What? I have no idea what..."
+
+"DON'T LIE, THERE HAS TO BE A REASON!"
+
+Neiro escapes his tight grip and runs a way. Jay runs after her.
+
+Suddenly a large truck appears in one of the side alleys going at full speed.
+
+Jay tries to dodge it, but he can't. Both he and the truck fly into the river.
+
+.
+
+Jay steps in to a puddle. He has no shoes on. He feels like he is crazy.
+
+He runs over to the Neiro and starts shaking her.
+
+"Neiro! Please, let me out, I beg you. Please"
+
+Neiro quickly wakes up and is very confused.
+
+"What is going on? The hell? What? I have no idea what you..."
+
+"Please, just please, I have no idea what is going on," Jay tries to plead with her.
+
+Neiro jerks away from Jay.
+
+"I'm sorry, I have no idea what you are talking about," Neiro says in a weirded out tone.
+
+Suddenly a large truck appears in one of the side alleys going at full speed.
+
+Jay tries to run away from it, but no luck. Both he and the truck fly into the river.
+
+.
+
+Jay wakes up in the bistro and runs over to the river.
+
+On his way, he steps in to a puddle. He has no shoes on.
+
+"Neiro? Please, what do I have to do for this to end?"
+
+Neiro is just slowly starting to wake up.
+
+"What? I'm sorry, who are you? How do you know my name?"
+
+Jay feels defeated, steps away from Neiro and throws his hands.
+
+Suddenly a large truck appears in one of the side alleys going at full speed.
+
+Jay doesn't even try running away from it. Both he and the truck fly into the river.
+
+.
+
+Jay wakes up in the bistro and runs over to the river.
+
+On his way, he steps in to a puddle. He falls into it, sinks in and it looks to him as if he was sinking
+in the sea.
+
+"Jay?" he hears a man's voice.
+
+"Jaaaay?"
+
+.
+
+Suddenly, the sea is starting to fade and he starts to come to his senses in a corner of a dimly lit room.
+
+He only has basic clothes on him.
+
+In the room, there are two basic wooden chairs. There is man sitting on one of it.
+
+"Rise and shine, moonshine," the man says.
+
+"Hello? Where am I?"
+
+"Howdy Jake, I'm mag. I'm afraid you are in hell."
+
+"Hell? What? This must be some kind of trick, right? Do you work with Antonio?"
+
+"I'm afraid not, and I don't know your Antonio, probably."
+
+"I don't believe you."
+
+"That's fine. Now, Jay, do you know why you are here? Just like others, it is by thine hand.
+However, you are special. You do not belong to this Hell. Although... I feel like 'Hell' is a criminally
+dramatic term for an after-life rehabilitation center."
+
+"What?"
+
+"Good answer. Now, you are here because there has been a trade. My counterpart from your world sent you
+over to me because I'm interested in The City. He said that you trade information and according to the visions
+you were having right now, it seems like it indeed."
+
+"What? Why are you interested in The City? Visions?"
+
+"Yes, visions were what you were having right now. It's the effect of the air here, and the mist. It makes
+you reflect on what you have done in your life that led you here."
+
+"I don't understand... I don't believe you."
+
+"Like I said, that's fine. It's not like it changes anything. However, I am interested in The City. And
+to quote a certain wise man: 'What champion demands service without recompense? Clearly, you are not that sort of
+man', and I am neither a champion, nor that sort of man. So I'm willing to give you a deal, if you give me some
+information."
+
+"Please anything, anything so I don't have go back. Do you want to know about Neiro, Valentine? I'll tell you everything
+just please."
+
+"Who the hell is Neiro? Or Valentine? These are not the people I want to meet. Now, start spilling the beans. Tell me
+everything you know, everything you gathered during your time in The City."
+
+And so Jay did, he started spilling his guts out. Telling everything he knew about everyone and everything up until
+the moment he ended his life. Oh... he ended his life. Maybe this man isn't lying, he thought.
+
+Jay saw that this man looked very strange. He had red eyes with a triangular pupil, he was clad in black, wore a hat
+and his face was obscured by the head and an impenetrable shadow that it produced. The only thing that went through it
+was the shine of his red eyes.
+
+Jay explained everything and went into as much detail as he could. Sadly, there wasn't enough information about that
+person. Jay only met them briefly. But he spilled everything he knew about Neiro, Valentine and others.
+
+"Odd," mag thought. "If I was with this Antonio guy, this would constitute a pretty hard betrayal."
+
+It felt like hours. And probably it was. Jay didn't want to go back, so he kept going on and on for as long as he
+could.
+
+But eventually, the end finally came. Jay had nothing else to say.
+
+"Hey wait, there is definitely more I can say. Just let me think for a moment."
+
+"You've said that many times. I'm afraid the river's run dry. Speaking of which... interesting river
+you got there. Curious."
+
+mag put his hand up, and quickly shook it. Seemingly out of his sleeve flew a cigarette. Jay wanted it.
+He tried to reach for it and said: "Can I?"
+
+mag pulled away and said with a sly smile: "Nope. These are bad. These kill you, you know? It's one thing to
+keep in mind for your future life... whatever that means. I think you had enough of these in life."
+
+"No, no, no... Okay, okay. Now, I've told you everything, will you let me out of here?"
+
+"Oh, I'm not keeping you here. See, there door is not locked," mag said, pointing at the wooden door to this
+concrete cube.
+
+"But you are not escaping from here, I'd say."
+
+Jay yelled "No" and ran through to the door. On his way, he tried to punch mag, and even though his it went straight
+to mag's face, he didn't hit anything. It just felt like he stirred up mist or vapor when he went through mag.
+
+And when he looked at him, he saw that it was just like that. mag's head was split in two, but looked like mist.
+
+Jay didn't care and just ran through the door.
+
+Outside, the skies were gray and the atmosphere was misty. As far as eye could see were the same small concrete
+houses. Basically cubes.
+
+They were partially covered with vines whose roots ran everywhere on the ground.
+
+Jay was on something that looked like a main road, so he thought that if he just keeps running on it, that he
+will eventually reach an exit, border or something.
+
+And so he ran, and ran, and ran.
+
+After some time running, he couldn't anymore and so he stopped to catch breath.
+
+"Nice running form," he could suddenly here from this sight. \*Clap, clap, clap\*
+
+mag was sitting on the roof of one of the cubes next to Jay.
+
+"How the hell?" Jay exclaimed, panting.
+
+"Oh, Hell has nothing to do with this, Jay. This is my handy work."
+
+"I want out of here."
+
+"Like I said, I'm not keeping you here. You are," mag said pointing at Jay's chest.
+
+"Look that way. I give it a few seconds, tops. This is the only way to leave this place."
+
+Mag pointed to some far of place. Jay looked in that direction as well.
+
+Nothing happened for a few seconds.
+
+Then a flash and a pillar of golden light appeared and briefly disappeared again.
+
+"See, this is the only way. It's in your mind. You have to repent. Now, me just telling you this
+is a major help on my part."
+
+"But you promised... You lied to me"
+
+"I didn't promise I would let you out of here. And I didn't lie to you. I cannot lie, it's the curse of
+the Hell's administrator. _He who rules over liars cannot be a liar himself._ The only thing I can do is obscure
+wording and obscure action. Maybe a ploy in a joke. That's it. Physically impossible."
+
+"One day you will rot in Hell, too..." Jay felt betrayed.
+
+"Oh, I won't. You ever hear of after-life for the so-called gods? No? Well, that's because there isn't any.
+You die, your essence is dispersed into the air. That's it, bye-bye. No Hell, and... __There is no Heaven out there for me...__"
+mag ended looking a little melancholic.
+
+"So what can you give me then?"
+
+"I will honor my promise. I am a devil of my word, so to speak, haha."
+
+"How?" Jay was done with mag's antics.
+
+"A little brazen now, are we? I can't let you out, so I will promise you the opposite. I will keep you in here.
+That is, you here instead of the Hell back in your world. Now, trust me, I'm much more lenient and non-torturing
+than my counterpart. So you can do your penance here, in relative peace and through my methods, which are more...
+rehabilitative than punishing... and then you will be free. Same rule as for everybody."
+
+"What's the catch?"
+
+"Smart man. The catch is that this is a different world than your original. All the people you spoke about...
+you won't meet them here in the after-life, or anywhere else. Then again, if you go back, it might take
+many years before you get to meet them again, if ever. And they might not be happy to see your, or they might
+be very different to what you remember... So, which is it?"
+
+Jay stayed silent for a few seconds.
+
+"I'm staying here."
+
+"Very well, then. Pleasure doing business with you. I'll be going, then. And remember... repent, sinner, repent..."
+
+...
+
+"Oh, before I go. I thought that I could have something more 'materialistic' for you."
+
+mag reaches into a dark corner of the room and pulls out a guitar, seemingly out of the wall.
+
+"Something to pass the time while you think."
+
+mag then left.
+
+And Jay took the guitar and played.
+
+<small>stalker guitar</small><br>
+<audio
+        controls
+        src="/media/guitar.opus">
+            Your browser does not support the
+            <code>audio</code> element.
+</audio>
 
 # EPISODE 2: ZORA
