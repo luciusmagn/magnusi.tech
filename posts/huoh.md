@@ -4558,7 +4558,7 @@ And so Jay did, he started spilling his guts out. Telling everything he knew abo
 the moment he ended his life. Oh... he ended his life. Maybe this man isn't lying, he thought.
 
 Jay saw that this man looked very strange. He had red eyes with a triangular pupil, he was clad in black, wore a hat
-and his face was obscured by the head and an impenetrable shadow that it produced. The only thing that went through it
+and his face was obscured by the hat and an impenetrable shadow that it produced. The only thing that went through it
 was the shine of his red eyes.
 
 Jay explained everything and went into as much detail as he could. Sadly, there wasn't enough information about that
