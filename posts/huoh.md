@@ -4217,7 +4217,6 @@ Far away, men rushing towards the fire can be heard.
 
 The others have come.
 
-<div id="alma"></div>
 
 # MIST
 
@@ -4686,6 +4685,8 @@ And Jay took the guitar and played.
             Your browser does not support the
             <code>audio</code> element.
 </audio>
+
+<div id="alma"></div>
 
 # EPISODE 2: ZORA
 
