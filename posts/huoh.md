@@ -3782,7 +3782,7 @@ usual self a little.
 
 "Hello, Jake... Never had one. What name do I look like to you?"
 
-"What do you name 'what name you look like to me'?"
+"What do you mean 'what name you look like to me'?"
 
 "If you just saw me, and had to think of a name, what would it be?"
 
@@ -4688,3 +4688,597 @@ And Jay took the guitar and played.
 </audio>
 
 # EPISODE 2: ZORA
+
+Elsewhere, some time before evening.
+
+Endell is starting to come to, he can vaguely hear voices and movement. His ears are ringing and his head hurts,
+but it starts to subside quickly.
+
+He can feel someone slapping lightly him from side to side.
+
+Someone speaks: "Hey, Endell, hello. Mr. Gildner? Earth calls..." It's Voss.
+
+Endell finally opens his eyes and notices he is bound to the wall and gagged.
+
+"Hello, finally..."
+
+Endell starts to voice his disapproval and possibly threaten the man, but he can't say much through the gag.
+
+"I don't believe we have been properly acquainted... yet. My name is Voss."
+
+Voss turns on his heel.
+
+"For a long time... I have been a fan of what you've done with the city. Years ago. You truly show the
+potential a Modified man has in the world... Such a shame that you have turned away from the light later on..."
+
+Voss turns on his heel.
+
+"Nevertheless... Antonio, your brother, has been a great inspiration to me. He truly pushed humanity as a species...
+My other inspiration has been Simon Mann... Thanks to him, we know how to run a private military group... Unfortunately,
+I don't think he would have approved of our methods..."
+
+Endell does his best to communicate his hatred for Voss at least through eyes.
+
+"I know, I know... you are gagged. But... you have to understand. Quite a handful you were."
+
+Endell started to look around the room. He could see that he was in an old abandoned building, there was a window, so it
+wasn't underground. By the noise and the view, it was probably a second floor or thereabouts. Other than that, the room
+was somewhat rudimentary. Only basic appliances present, along with a small stash of weaponry.
+
+Next he looked at the man. Voss had a cape reminiscent of a raincoat, but the plastic was a little bit thicker and it
+really was just a cape with a hood. On his side, he had a blood bag attacked. There was some writing on it,
+Endell could make out the text "18WK" on it.
+
+"Well, the thing is... I want to return the world some of its former glory... To that end, I need some special help, I would
+call it..."
+
+He then turns on his heel again.
+
+"A help from a special kind of Modified. You know them right? You are close to two of them..."
+
+Turn on heel again.
+
+"I was hoping to get the girl, too... Sadly, only you were home... And I know you know the black kid too."
+
+Endell angrily snarls at Voss.
+
+"I know... what you must be saying. It's 'My friends will find me, and rescue me. I will be let loose and I will shove up
+that gas mask up your ass'. Or something like that. Right?"
+
+Voss comes over to Endell and runs his hand through his hair, squishing his cheeks.
+
+"I am looking forward to that... It's why I left a calling card at Minerva's. So that your friends know precisely where
+we are. Now you may be wondering-"
+
+One of the grunts comes in and interrupts Voss mid-sentence: "Sir, there is some child on our compound going through our
+garbage. What do we do about that?"
+
+Voss: "Ah... unfortunate. I will handle it. We will pick up in a bit, Endell."
+
+Voss then leaves the room, taking out his engraved M9A1, turning off safety.
+
+...
+
+The doors open and Voss comes out of it, going straight to the garbage containers. There was a little girl,
+about ten years old, rummaging through one of them.
+
+She immediately jerked away and crawled up to the wall when she saw Voss.
+
+He then pointed his handgun at her.
+
+"Hello little one... seems like natural selection is not in your favor today."
+
+Voss then extends his hand forward and puts his finger on the trigger.
+
+The little girl is frozen in fear.
+
+Voss doesn't move for a few seconds. He then turns on the safety and holsters his gun.
+
+He then reaches into his pocket and grabs a fistful of coins, throwing them in front of the little girl.
+
+"Go buy yourself a dinner or something... And never return here."
+
+The girl starts quickly grabbing the coins from the ground and shoving them to her pockets. She then starts
+backing away from Voss, towards the exit gate.
+
+Voss then takes out his handgun and fires into the air. The girl starts running.
+
+He then returns inside.
+
+...
+
+On the inside, Voss shouts some orders at the soldiers. He then asks one grunt how is the blood bag supply.
+The man replies they are barely meeting the needed amount.
+
+Voss then goes into the room Endell is in.
+
+"I am sorry for the delay... Mr. Gildner. Now where were we. So, Like I said your brother... was an inspiration.
+Unfortunately, I am no scientist. So I had to do some less savory experiments."
+
+Endell watches him in contempt, secretly trying to put as much power on the binding on his arm to see if he can
+break it. Voss pats his blood bag.
+
+"Eventually,  we found out that blood really is the most miraculous liquid."
+
+Voss turns around.
+
+"You just need a transfusion... from a good source."
+
+Endell feels like his arm restraint has loosened a bit. Maybe he can break free.
+
+Another grunt runs into the room.
+
+"Sir, something's happening. There are some black guys all over the place. A lot of gunfire sir. They seem to be
+forcing everyone in and they are going after heavily Modified."
+
+"Interesting... news."
+
+.
+
+.
+
+.
+
+Elsewhere, several hours later.
+
+Nella and Zora are still at the bistro. It took some work, but Nella managed to put together a radio,
+using the bistro's antenna. She then recorded a message on er saying where they are and if anyone can hear them,
+connected her phone's headphone jack to the radio and started broadcasting the message on repeat.
+If she doesn't do anything else with it, she has some three days of broadcast.
+
+Meanwhile, Zora a bit drunk. She has consumed much more than Nella.
+
+Nella only took a small swig and then gave up on it - she doesn't drink and this was just a crutch
+for not smoking.
+
+"You know, I think you've had enough," Nella says, snatching the bottle from Zora.
+
+"But..." Zora tries to disagree. Nella gives a very stern look that makes Zora rethink her defiance.
+
+Nella throws out the bottle and the pack of cigarettes with it. This was a tough decision.
+
+Zora then said in a very soft voice: "Ummm, I need to pee..."
+
+"And what about it?"
+
+"I kinda need your help getting to the toilet."
+
+Nella sighed, but she knew she couldn't really say no. After all, she forgot Zora's crutches outside.
+Right now, she could still hear some commotion so she didn't feel like trying to get the crutches back.
+
+Nella went over to Zora and said: "Alright, come, hold on, put your hand over my shoulder... and up we go!"
+
+The two of them were now on their three working feet. Nella managed to help Zora with getting through the
+bathroom. At first, it was some stumbling around before the two women found a way to walk together.
+
+They reached a toilet and Nella helped Zora plop down onto it. She then stepped outside while Zora did
+the deed. Nella felt like she was a mom potty training a toddler. She was a bit on edge.
+
+"Hey, can you help me back up?"
+
+"Sure."
+
+And so the two ladies stumbled back to where they were.
+
+There was silence for a while, until Zora spoke.
+
+"Thanks a lot, I really appreciate it."
+
+"It's fine."
+
+...
+
+"You know, I really wanted to dance. But it's like so... I am not very smart sometimes. And I couldn't
+for the longest time. And so I went here and because of me, you are in trouble too. I'm really sorry.
+I am just so.. I don't know... I couldn't do anything or go anywhere for so long. And I feel like
+inexperienced, clueless, if you get me? Bedridden most of my life, just watching things go by. And now,
+everyone I talk to calls me an innocent ill girl and tries to protect me from everything... But I want to
+live, to experience stuff..."
+
+"Well, for dangerous stuff, you have come to the right place, Zora," Nella says with a sarcastic tone,
+but the sarcasm starts to turn into melancholy, as she looks on the ground and memories start flooding
+her mind.
+
+"I get it. I used to have a similar problem. Couldn't walk, not before I got these legs. And I am a dance
+teacher. When my legs weren't working, I couldn't dance either. It is worth it."
+
+"Oh... how did it happen, were you born with bad legs like I was?"
+
+"No, no. It was an... accident. For the longest time, I couldn't admit that it was. And I kept blaming
+everyone, doing all sorts of irresponsible and bad things... There was this girl involved in the accident.
+For a long time, I kept blaming her because I needed someone to blame... someone to be a target of my misery.
+But now, I feel ashamed..."
+
+"Ah, I'm sorry..."
+
+"It's fine..."
+
+...
+
+"When this is over, can you teach me how to dance?"
+
+"Sure." Zora was older than her students, but she felt some sympathy for her.
+
+Nella then continued: "Alright, wait for a moment."
+
+She then went upstairs and started going through the rooms where Neiro, Jay and others used to stay
+back then.
+
+Sadly, they couldn't stay upstairs for the night. There are some holes so the upstairs is much colder.
+
+Most things were burned or at least a bit charred. She managed to find two blankets that were in a good
+enough shape.
+
+In another room, there was a carpet rolled up. It is no sleeping mat, but it will do in a pinch.
+Downstairs, in the laundry room, there were two pillows, probably unwashed. Nella hoped that whatever
+bodily dirt was on them has withered away with time.
+
+One of the pillows smelled reasonably fine, the other had a mild cigarette stench to it.
+
+She returned back to Zora and unrolled the carpet.
+
+"Crawl onto it. I don't think there is anything we can do now. Hopefully in the morning."
+
+She then threw Zora a blanket and the cleaner pillow and kept the one that had a cigarette scent.
+
+"Okay, thanks...," Zora said and burped.
+
+"Don't you dare throwing up in the night. It's your fault you are stupid and drink like that"
+
+"Sorry."
+
+"Also, this carpet isn't big, so we need to stay close together. No other way, sorry."
+
+The got ready to go to sleep.
+
+"Good night," uttered Zora.
+
+"Night."
+
+"Also your hair is pretty nice. I think you should let it grow like an inch or two longer."
+
+"Uh... thanks?"
+
+.
+
+.
+
+.
+
+Meanwhile over in the industrial zone.
+
+Horus: "So pretty much all of my scars are from the military. Some of the cuts are from when I was a child,
+they now look much bigger because I was tiny back then, it's not so bad, haha. As for the arm, there was a guy,
+we fought, I won, got my hand burned. That's when I quit."
+
+"Oh, I see," Neiro responded, "... must have been tough..."
+
+"You get used to it... some things stay with you forever. You just have to come to terms with them
+integrate them, so to speak. Light bulbs are much more fun than combat, haha."
+
+Horus was done with his shoulder adjustment and Neiro was done with the bag of chips. She had a slight
+feeling like she might get sick in the morning, but hopefully, it will be fine.
+
+"What do we do next?" she asked.
+
+"Next we sleep, it's better to wait for the morning so we know what's what."
+
+He then takes out his Colt SAA, cocks the hammer halfway and opens the gate. He then reaches into
+his pocket and pulls out a few rounds and starts to insert them into the cylinder one by one, turning
+it each time until the cylinder is fully loaded.
+
+Loading six shots into a single-action revolver is generally considered bad optics if you are in a lot of
+action, since if something hits the hammer from the back, then the gun might discharge, and if you have it
+holstered on your belt, the discharge will likely be into your own leg. Horus however figured
+that it is better to have more rounds in, since they only stagger the black soldiers anyway.
+
+"There is a more pressing question," Horus looked up from his revolver, "what the hell did you do
+to these two? What was up with you and their eyes?"
+
+"Well... I have a kind of power. They call us Winged Ones. It's a type of Modified humans."
+
+"Modified humans?"
+
+"Yea, they are people with some abilities, which make them physically stronger and make them heal faster."
+
+"You look like a short girl, not some muscular marvel."
+
+"I. AM. NOT. SHORT."
+
+"Oh, alright, suuure."
+
+Neiro frowned at Horus, but then continued explain: "Winged ones don't have those abilities. But they can synchronize
+and control other Modified."
+
+"So that's what you did? Were the soldiers Modified?"
+
+"It felt like it, but it was weird. I wanted to control them, but as soon as I attempted it, they just
+did that thing and walked away. It felt off. After each of them, I felt tired."
+
+"Ooh, I see. That's strange, never heard of anything like that. So maybe you can disable them, hmmm."
+
+"I don't know."
+
+"Well, only one way to find out, come."
+
+Horus left the truck and Neiro reluctantly followed him. Once out of the truck, Horus picked up a stone from
+the ground.
+
+He put the stone in his pocket, took out his SAA, crouched, beckoned Neiro to crouch as well and
+grabbed her by the elbow.
+
+Slowly and carefully, they made their way towards the edge of the industrial zone.
+
+There was one soldier standing nearby, a perfect target. The two of them hid behind the corner.
+
+Horus threw the stone and got his gun ready, just in case.
+
+The soldier went over to investigate. He kept getting closer and closer to them.
+
+Twenty meters. Ten meters. Five meters. "Neiro now!"
+
+The soldier turned over to them and started to ready his weapon, but Neiro used her power and tried to control him.
+Once again, the soldier dropped his weapon and started walking away. A very faint blue glow could be from
+beneath his mask. Neiro spotted it.
+
+"Alright, that confirms it. How do you feel?" Horus said as they made their way back to the truck.
+
+"It makes me tired. I could only do a few more..."
+
+"Okay, so there is a limit, hmm."
+
+They reached the truck, and went inside.
+
+Neiro yawned.
+
+"I think it is about time we go to sleep. Now, I stay here in the container, you take the travel bed
+in the cabin. It is kinda cramped, but if I can fit there, you can fit there definitely. I stay here,
+I should have a sleeping back in here somewhere. And this Loki guy... I think he is good where he is."
+
+Loki now looked slightly less pale and sweaty.
+
+And so everyone went to sleep.
+
+...
+
+Morning.
+
+Horus wakes up, sticks his head out of the container and sees that it's dark. Very strange.
+He goes back to check the first clock he can find in the truck, since it wasn't unusual for him
+to wake up in the middle of the night. He didn't sleep particularly well, sometimes he had nightmares
+about his previous life, but they were getting better the last few years.
+
+Not this time, though. And waking up felt kind of difficult actually. During their talk on the train,
+Neiro mentioned that people have trouble sleeping in The City, this was the opposite.
+
+He checked one watch from a shelf and it said "10:07 AM". This is strange, maybe it's not set properly.
+It didn't look like the sun was about to rise at all.
+
+He went on to check two more clocks and his phone. All of them said the same.
+
+"Something's off," he thought.
+
+It was time to wake up Neiro. Loki looked much better, but apparently, he had a happy little accident
+into the bucket during the night. Horus kindly went to empty it to a sewer nearby.
+
+.
+
+Neiro was sleeping peacefully in the truck's cabin. The bed in the cabin was high up, not even a meter
+under the ceiling.
+
+She can hear someone saying "Hey, wake up. Wake up, something's off."
+Neiro was confused and dazed and just had a good time sleeping, so she didn't make any effort to wake up
+and just rolled over.
+
+"Hey, wake up. Neiro." No response.
+
+A hand slams the steering wheel of the truck. It honks loudly. Neiro is shocked and quickly springs up,
+hitting her head on the ceiling and plummeting back down to the bed.
+
+"Wake up, I said."
+
+"Alright, what's going on? It's still night, can't you see?!" Neiro said in a very cranky, angry and hurt tone.
+
+"Well, that's the issue. It's not. Look at my watch. It's half past ten," Horus said showing Neiro a pocket watch.
+It was a little close for her eye, so she backed of a few inches before she could read it.
+
+"Oh, what the hell?"
+
+"No idea. It's as if time stood still. However, it has gotten a few degrees warmer. Let's go check out the warehouse.
+Also, I got a few light bulbs to mount," Horus says, revealing a few packaged light bulbs.
+
+"These have a timer in them and shift color according to the time of the day. So during the day, they have
+a higher color temperature, so they are more white or blue. During the evening and the night, they shift over
+to lower color temperatures and become yellow to orange. One needs to protect their circadian rhythm, right?"
+
+After Neiro got ready, they broke into the warehouse. It was a golden mine. It was apparently a supply
+warehouse for some sort of a convenience store. There were some cans, basic appliances and tools,
+and also things one might find in a hardware store. There was some other food in it as well, but most of it
+was definitely spoiled. The warehouse hasn't been touched in years.
+
+Horus took some stuff from the hardware section and set it aside, then dragged over some furniture boxes.
+This was no quality furniture, only basic stuff that is seasonally sold in supermarkets, but it will
+do in a time of need.
+
+With Neiro's help, they made some space.
+
+"I think we will be camping here for some time now, until we figure out what's going on," he said.
+
+Neiro looked over at him and nodded, but didn't know what to say.
+
+"I am worried about Endell," she spontaneously blurted out a while later.
+
+"I get it, but in the current situation... I think everyone's plans are on hold. Even the terrorists.
+But yes, we will go for him as soon as possible. I am devising a sort of a plan as we speak."
+
+Neiro wanted to ask, what that plan was, when a third voice suddenly interrupted them.
+
+"Hello?"
+
+Both Neiro and Horus turned around. It was Loki, he woke up and went into the warehouse.
+
+"Howdy, how are you feeling?" Horus asked. Neiro was still a bit surprised to see the guy walking around.
+
+"Like shit maaan. I don't remember... shit. Ye, like nada, bro."
+
+"Hard message to decipher. You want anything to eat?"
+
+"Maybe later maan. You got a smoke?" Loki asked.
+
+"No," said Horus.
+
+"Yea," said Neiro, taking a pack of cigarettes out of her pocket and opening it, so Loki can take one.
+
+Loki went over to Neiro and snatched the whole pack. "Thanks, sis. You single btw?"
+
+Neiro frowned and took a deep breath: "NO."
+
+"Alright, chill, no disrespect, sis, ye?"
+
+"Do you remember anything at all?" Horus asked him.
+
+"No, nada. Blank slate bro."
+
+"What about Loki?" Neiro asked.
+
+"Oooh, yeaaa, I remember that. It may be my name? I think."
+
+"Well we are calling you Loki from now on. The City went to shit while you were out. We are hiding from
+an army of strange immortal soldiers."
+
+"Cool man, that's intense, broo. So you are saying going for a walk would be a bad idea?"
+
+"Yea, don't do anything stupid."
+
+"Got it, chief. Maybe a little one, got it."
+
+Neiro was amazed at seeing someone who was more annoying that what certain annoyed people told her about herself.
+
+"By the way, big guy, why do you want to build an antenna, man?" Loki said, pointing at the pile Horus set aside.
+
+"My name is Horus, with a -U-S. How did you know?"
+
+"I don't know, I kinda did, maan. Also heyy Horus, you look like a cool guy, do you mind if I call you the big man boss
+chief."
+
+"Mildly."
+
+"Sis, what's your name. And what happened to your eye? Whyyy are you that short, jeez," Loki exclaimed laughing a little.
+Perhaps not everything was out of his system.
+
+Neiro's internal temperature was rising.
+
+"I'm Neiro. I AM NOT SHORT, AND THE EYE IS NONE OF YOUR BUSINESS. Also, you are the one short," Neiro said, letting off
+steam through her nose. Admittedly, Loki had only about 170cm and was a bit scrawny guy in build as well.
+
+"Okayyy, chill, sis. No disrespect," at this point, he already had a cigarette in his mouth. He had a lighter in his pocket.
+This was seemingly his only possession.
+
+He bent his back backwards in an effort to stretch it and was about to say something, but as he did, gravity worked against him,
+the cigarette fell in his mouth and Loki started choking and coughing.
+
+Two seconds later, he spat a very slimy cigarette on the ground and said: "Ouch, hot, the hell."
+
+"These things suck, and they kill you. It's not even that good," Horus reacted.
+
+"Well, cool thing old man, but what bout that? I do what I do, broo"
+
+"I have something better."
+
+"Jeez, man, you got weed? Should have said straight, now we're talkin maan."
+
+"No, I don't. I have cigars."
+
+"Keep em, chief," Loki half-mouthed as he lit another cigarette, "unless there is weed in them."
+
+Neiro however demandingly extended her hand to Horus. Horus rolled his eyes, took out a fresh cigar, lit it, pulled in, breathed out
+and handed it over to her.
+
+"Hell, is everyone in The City a junkie?"
+
+"Yea," Neiro said with a toothy smile. Between her teeth was a cigar, a scene reminiscent from mafia bosses of old,
+except now in significantly cuter and shorter package.
+
+She smoked it silently for a few moments, then asked: "So what do we do now?"
+
+"Well, we have some basic amenities set up here in the warehouse. Looks like there is toilet and a bathroom as well. Dirty, but working,
+we can clean them later. Loki will do it, right?" Horus said with a smug smile, "First, we need to establish communications, there might
+be people willing to help us in these dire conditions. And if cell phones are down, the next medium will be radio. So I will need you
+to sneak to the very very edge of the industrial zone and plant an antenna on top of one of the buildings there. We saw it yesterday."
+
+"I don't want to do anything like that, why can't you?"
+
+"I will accompany you most of the way, but you have the ability to sneak past those guys, you can 'turn them off', and you are the most
+'compact' of us. Best for sneaking around. Now, the soldiers seem kinda dumb from what I have witnessed, so it will be fine if you
+just lay down the antenna cable as you go."
+
+Horus then took Loki aside and together, they modified a climbing harness Horus had and prepared an antenna, splitting it
+into three pieces that could be screwed in by hand.
+
+Afterwards, Horus went into the truck and retrieved a pair of walkie-talkies.
+
+"These are a novelty, they have a pretty big range, should cover all the way to the river... maybe.
+Here, put on this harness. We have modified it so you can take stuff with you."
+
+Neiro reluctantly put the thing on. The way it was modified allowed for attacking things to the back, like a backpack,
+and also for attaching something to the hips. She didn't pay much attention, she was thinking about Val. He must be out there,
+alone. She was worried about him too.
+
+"Alright, I've made it so that things can be attached to your hips. No disrespect, really, but you do not have the upper body
+strength for attaching cargo to the side of your shoulders, but you ran pretty good! So hips are a much better options. To the right,
+we'll put this spool of wire. You will just let it unroll itself. It's a good idea to keep it very lose, so that a moving
+cable doesn't arouse suspicions. On your back we will put the three antenna rods."
+
+"Okay, but that sounds scary. Is there really no one else who can do it?" Neiro still wasn't really onboard with the plan.
+
+"Well maybe this yes, but you are the only one who can disable those guys. You may be the only hope for venturing further into
+the city. Unless there is more of you Winged Ones."
+
+"Valentine is a Winged One! We should go rescue him," Neiro lit up.
+
+"Great idea, but first, we need to be able to communicate."
+
+Neiro now understood that this is only a hurdle on her way to save Endell and Valentine and she was determined to do something.
+
+"Loki, get your dirty feet of the sofa, we just assembled it with Neiro."
+
+"A'ight, sorry chief, jeez."
+
+Horus then threw Neiro a walkie-talkie.
+
+"You press this button and you talk to me, got it? Attach it to the clip on your chest."
+
+He then took out a plushie toy which had a clip as well. It was some black cubical character with purple eyes
+and no other facial features.
+
+"Hey, this tiny guy is a good luck charm. Take it with you for protection. Attach it to the other clip on your chest."
+
+Neiro didn't believe it was a good luck charm, but she thought the plushie was cute, so she took him anyway.
+
+Ready to go then. Meanwhile, Loki disappeared from the warehouse and ventured off somewhere into the industrial zone.
+
+.
+
+.
+
+.
+
+A black soldier notices movement. They mostly paid attention only to what was in the same level as them, not noticing things up.
+
+It was like a corner of the eye action. Since he was a standard Sentinel, he went over there to investigate.
+
+Huh, there is nothing there.
+
+He turns around and suddenly an arrow penetrates his head and throws him to the ground. He starts to get up, when something
+jumps down and stomps on him, pinning him to the ground.
+
+The something is a man in classic samurai gear, although the armor looks more fancy and more durable than what is commonly shown.
+
+He rips the arrow out of the squirming soldier's head and proclaims: "悪魔です".
+
+Meanwhile, Valentine is in his flat alone and worried. He clutches his dagger. He made several attempts to call someone, but they
+all failed - no reception.
+
+Whereas Minerva took a very different approach. She kept throwing explosives at the soldiers for a while, but when she realized
+that it doesn't help or kill them, she just went inside and opened a bottle of wine. She tried calling as well, but again,
+to no avail. She was a bit concerned and her feelings about what's happening and happened were still all over the place.
