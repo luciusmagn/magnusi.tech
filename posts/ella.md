@@ -342,3 +342,144 @@ you have anything."
 Tiny Ella starts to tear up. "I sure do Neiro." She then pulls out the chocolate bar and gives it to her.
 
 It all starts coming together. But the way will be long and arduous.
+
+<div class="alma"></div>
+
+# Reverberating sky
+
+Ella has managed to successfully establish herself a new workshop in this world of past. Turns out that a lot
+of people don't notice you doing shady stuff if you are in the body of a child. It allows you to slip under the
+radar pretty effectively.
+
+Her new base of operations was in an abandoned warehouse. There was a smaller room inside of it which she dedicated
+to be her workshop. The previous owner, whether it was the city or someone else forgot to cut off the utilities, so
+she had running water, electricity and gas supply. What more can a girl dream of?
+
+However, her experience with magnusi and Xexanoth revealed to her existence of beings whose threat levels are
+beyond those of regular humans. She has therefore decided to fortify her base and put into place several security
+measures which should allow her to reasonably defend herself against powered threats. She even prepared a special
+weapon for getting rid of those who are impervious to regular armaments.
+
+Today, these measures will prove to be useful and not at all uncalled for.
+
+Ella is sitting at the table in her workshop working on a device which she plans to use in another episode
+of her proverbial story of redemption.
+
+Suddenly, someone crashes through the door, kicking it with such a force that the doors fly out of the hinges.
+It is a very tall dark-haired man, skinny, strange-looking and wearing a strange coat.
+
+"I am Echo, the god of this realm! I require you reveal the secret of time travel to me, mortal worm!"
+
+Ella turns her head at him and replies: "Space men, fuck off" and then appears to look back at her work.
+
+"Do you dare to oppose me? Tell me or I will kill you, I am the god of this place!" Echo threatens her.
+
+Ella responds: "Okay", and rips off the revolver that was taped under the table. It is a double-action revolver,
+the Colt Python 6-inch version, which means that one can immediately pull the trigger and the gun fires a big bullet
+that still has manageable recoil. And Ella does exactly that.
+
+Bang. Bang. Bang. Bang. Bang. Bang.
+
+She empties the entire cylinder into Echo, throws the empty gun at him, and runs out of the workshop into a small corridor
+to the side. This is first of the traps.
+
+Echo lets out an angry growl and promises violence to Ella. He then starts looking creepier, more sickly and menacing. Somehow,
+he seems even taller.
+
+He starts giving chase to Ella occasionally throwing stones at high speeds in Ella's directions. These stone bullets can kill
+a person very easily if they hit a right place.
+
+However, Ella counted on that. On his way out of the corridor, Echo triggers a tripwire which causes an explosion which incapacitates him temporarily,
+dropping chunks of concrete onto him, while he is down, Ella has already reached her emergency weapon stash, she picks up a grenade and throws it
+at Echo. As she does that, she picks up a loaded M16A2 automatic rifle and starts firing at Echo.
+
+Echo, however, manages to get up and starts running towards Ella's vantage point and firing stone bullets at her. When he reaches a specific spot
+in the warehouse, Ella acquires a new target, she starts shooting at a container that is above Echo right now. It quickly breaks and douses Echo and
+his immediate vicinity in corrosive chemicals. Echo touches his face and lets out growls of pain and yells:
+
+"YOU BITCH! I WILL KILL YOU."
+
+"Hmm."
+
+Ella has meanwhile started to fire at the concrete beneath Echo's feet. Soon enough a bullet creates a spark which sets the chemicals on fire.
+
+Blazing inferno.
+
+Ella throws a decoy grenade (one which imitates sounds of gunfire) and when the magazine of her M16A2 runs out, she throws it away and starts
+running back to her workshop while Echo is still on fire.
+
+Inside, she grabs an incendiary grenade, which she throws at Echo to slightly prolong the fire.
+
+She then runs over to one of the shelves in the workshop and grabs an armed drone. Ella turns the drone on and sets it after Echo, the
+drone starts firing at Echo. Meanwhile, she takes a special device and connects it to the power grid. It will need a while to charge it.
+
+Ella also picks up a remote detonator, which blows off the hinges of a cage in the warehouse. Just as she hoped, the cage is somewhat near Echo.
+
+The cage holds a terrible horror not even nightmares are capable of producing. It is a living breathing sentient mass of malevolence, with
+eyes, tentacles and sharp teeth sticking out of it. Sometimes, patches of what appears to be different kinds of hair, including pubic, come
+to surface within the writhing mass. The body composition of the monster roughly resembles a half-baked brownie.
+
+Echo has meanwhile managed to dispel the fires through his ability, threw off the remnants of his coat and is starting to pull big chunks of
+of concrete out of the ground and lobbing them in the direction of the workshop. This puts several dents in the walls and destroys windows.
+
+The sentient brownie monster jumps at Echo attempting to absorb him. Echo is buried under the sticky goo.
+
+Ella puts on a bulletproof vest and a plastic face shield, as she had no better face protection available, puts a grenade into her pocket and
+takes a fully loaded Remington 870 shotgun. She walks into the warehouse and starts firing into the mess of Echo and the brownie monster.
+
+Bang.
+
+Bang.
+
+Bang.
+
+Bang.
+
+Bang.
+
+Bang.
+
+Bang.
+
+Reload. Reload. Reload. Reload. Oh no, Echo killed the sentient brownie, he tore it apart from the inside and remnants of it ended up
+all over the walls.
+
+Echo speaks: "This is over you little piece of shit! I will fucking kill you! I WILL DESTROY YOU!"
+
+Bang.
+
+Bang.
+
+Oh no. Echo used his powers to snatch the shotgun from Ella's child hands. He then crushed the barrel of the weapon. His hair is turning gray
+and dark veins are starting to appear across his body. He seems even taller. He runs.
+
+Echo pins Ella to the ground and tells: "Alright, you little worm. Last chance to tell me how to time travel. I am killing you anyway."
+
+"Look down," Ella responds turning her head to the side and closing her eyes.
+
+On her chest, right in the center of her bulletproof vest is a live flashbang. It goes off and temporarily blinds Echo. The heat from
+the flashbang also burned his chest and set him on fire again. Both Ella and Echo are temporarily deafened. The pressure broke one or two
+of Ella's ribs. Breathing is harder, but she pushes through it.
+
+Ella takes the chance and runs back to the workshop. The device is now fully charged, she disconnects it, turns it on an throws
+it towards Echo.
+
+Suddenly, the room is plunged into darkness as the electricity in the building goes out. A blue rift in spacetime suddenly appears,
+enveloping the room with blue light. Both Echo and the device are sucked into the vortex. This one was future-directional, which means
+that Echo will wash up some time in the future. The time fabric rift closes within a few seconds and the power comes back on.
+
+Ella goes back into the workshop. She takes off everything but her panties to inspect her wounds. She has a large bruise going from
+between her breast all the way to her left side, where it is the largest. The two ribs down there on the left side are definitely broken.
+She touches it and it hurts even to the touch.
+
+Then she notices that there is a cut to the right, above the pelvis. Echo must have hit her with one of the stones and she did not
+notice due to the Adrenalin flooding her system. Ella opened up a med-kit and took out the stapler. Without any anesthetic, she started
+stapling the wound right after she poured some rubbing alcohol over it.
+
+Clack. Clack. Clack. Clack. Clack. Her face contorts a little with each staple and she grinds her teeth. Finally, the wound is closed.
+
+The throws the stapler to the side and goes over to the sink and washes her hands off the blood.
+
+Ella then slumps down into one of the chairs in the workshop and thinks: "I need to increase security measures."
+
+Next time, she will have a better plan against gods.
