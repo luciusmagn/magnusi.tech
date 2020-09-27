@@ -5282,8 +5282,6 @@ Whereas Minerva took a very different approach. She kept throwing explosives at 
 that it doesn't help or kill them, she just went inside and opened a bottle of wine. She tried calling as well, but again,
 to no avail. She was a bit concerned and her feelings about what's happening and happened were still all over the place.
 
-<div id="alma"></div>
-
 # > Chapter 3
 # EPISODE 1: FIRA
 
@@ -5722,3 +5720,803 @@ below his shoulders. He was fair skinned and fairly muscular, but more on the at
 and he looks under thirty.
 
 Meanwhile, he has already retrieved his arrows. He climbs the nearest building and lies in wait.
+
+<div id="alma"></div>
+
+# THE SEVENTH SERMON TO THE DEAD
+
+At night the dead came back again and amidst complaining said: “One more thing we must know, because we had
+forgotten to discuss it: teach us concerning man!”
+
+—Man is a portal through which one enters from the outer world of the gods, demons and souls, into the inner world,
+from the greater world into the smaller world. Small and insignificant is man; one leaves him soon behind, and thus
+one enters once more into infinite space, into the microcosm, into the inner eternity.
+
+In immeasurable distance there glimmers a solitary star on the highest point of heaven. This is the only god of this lonely one.
+This is his world, his Pleroma, his divinity.
+
+In this world, man is Abraxas, who gives birth to and devours his own world.
+
+The star is man’s God and goal.
+
+It is his guiding divinity; in it man finds repose.
+
+To it goes the long journey of the soul after death; in it shine all things which otherwise might keep man from the
+greater world with the brilliance of a great light.
+
+To this One, man ought to pray.
+
+Such a prayer increases the light of the star.
+
+Such a prayer builds a bridge over death.
+
+It increases the light of the microcosm; when the outer world grows cold, this star still shines.
+
+There is nothing that can separate man from his own God, if man can only turn his gaze away from the fiery spectacle of Abraxas.
+
+Man here, God there.<br>
+Weakness and insignificance here, eternal creative power there.<br>
+Here is but darkness and damp cold.<br>
+There all is sunshine.<br>
+
+Upon hearing this the dead fell silent, and they rose up like smoke rises over the fire of the shepherd,
+who guards his flock by night.
+
+# THE EIGHTH SERMON, TO THE LIVING
+
+In the morning, the living came frightened and asked: "Tell us about the dead, who came from Jerusalem"
+
+—The dead came seeking answers of the world, of God, of Abraxas, of devils, of church, of sexuality and of man.
+They came back from Jerusalem, where they found not what they sought. They are the voices of the unanswered,
+unresolved and unredeemed.
+
+The outer world is one without questions, as small and as insignificant as the small, inner one is, it provides
+questions and perhaps answers. And the answers man can only find in the smaller world.
+
+Those who only peer outside ask more than they can answer. Those who seek to blindly are overrun with that which they
+neglected to answer, and neither God nor the Devil of All Earth may help them.
+
+Then, they came here, seeking answers from the living, and chose me, Basilides of Alexandria, the city where
+the East and West meet.
+
+Foolish were they, thinking death would grant them rest.
+
+There is no heavenly power, or hellish spell, that can break the power of Man's curiosity.
+
+You say: I know what is what and there are no great questions that nag me, how come I shall be one of the accursed dead as
+well?
+
+Conceit is the lord of man who thinks they are the master of their own house. A man does not decide what questions emanate from
+the world and whether he has to answer them or not.
+
+If you lie to yourself that you do, then behold, once there will be a witching hour upon you where your pretense shall come off
+and your incongruence will reveal itself in its entire paradoxicality. And when this witching hour is upon you, what will you do?
+Will you be one of the dead walking the world of the living?
+
+Orient your eyes both towards the world and to yourself, who looks outside - dreams, who looks inside - awakes, and yet
+one must be mindful of what takes place on the outside as well.
+
+Look up to the divinity of the star, the Pleroma where Abraxas resides.
+
+Upon hearing this the living murmured and dispersed through the city like a swarm of ants after fulfilling their task
+
+# THE NINTH SERMON, TO THE INBETWEENERS
+
+At noon, Alexandria fell silent and moon obscured the sun, leaving only a golden ring and dark skies. A mist rose up, and from the
+mist, uneven shadows rose and gathered around home and thus spake: "Thou who claim to be so wise in the ways of the world, witness
+us, the inbetweeners who walk between light and dark, life and death, and speak"
+
+—Inbetweeners, who exist at dusk and dawn of all that there is to being, transitory creatures, like phases to the moon.
+
+Your fallacy is that you are bland, residing at both sides and being the most infernally empyrean fencesitters.
+
+You say: What harm does it do not to discriminate? Then we reach beyond the limits of our own being; we extend ourselves
+beyond the created world, and we fall into the undifferentiated state which is another quality of the Pleroma.
+We submerge into the Pleroma itself, and we cease to be created beings. This we become subject to dissolution and nothingness.
+
+Such is the very death of the created being. We die to the extent that we fail to discriminate. For this reason the natural
+impulse of the created being is directed toward differentiation and toward the struggle against the ancient, pernicious state of sameness.
+The natural tendency is called Principium Individuationis (Principle of Individuation).
+
+This principle is indeed the essence of every
+created being. From these things you may readily recognize why the undifferentiated principle and lack of discrimination are all a
+great danger to created beings. For this reason we must be able to distinguish the qualities of the Pleroma. Its qualities are the
+PAIRS OF OPPOSITES, such as:
+
+the effective and the ineffective<br>
+fullness and emptiness<br>
+the living and the dead<br>
+light and dark<br>
+hot and cold<br>
+energy and matter<br>
+time and space<br>
+good and evil<br>
+the beautiful and the ugly<br>
+the one and the many<br>
+and so forth.<br>
+
+The pairs of opposites are the qualities of the Pleroma: they are also in reality non-existent because they cancel each other out.
+
+You inbetweeners who walk the lines can witness everything and discover the answers to questions that plague the Man. Do your duty
+and man the boundaries.
+
+Upon hearing this the inbetweeners looked down and dispersed like the mist when the sun finally comes up and shines on the meadow.
+And I have returned to my studies.
+
+# EPISODE 1: FIRA
+
+Jake did get some sleep during the night. Surprisingly, when he woke up, it was still night. The others assured him that that is to
+be expected and is nothing to worry about.
+
+He took a walk through the building he was in - yet again it was larger and more complex, many Morpho employees must have been
+working during the night, too. It was still quite a rush hour.
+
+Eventually, someone who looked like does some organization told Jake that he needs to do some job sorting equipment that the black
+soldiers brought back during the night. It was still just a portion of what was lost, but it was still many items to deal with.
+
+And so Jake did just that. Most of the items were devices, machines smaller and larger, but there were also books and many cassette
+types with music. Surprisingly, the tapes usually only held one song and they had handwritten labels on them. Jake picked one at
+random and put it aside for a few moments.
+
+> There are certain queer times and occasions in this strange mixed affair we call life when a man takes this whole
+> universe for a vast practical joke, though the wit thereof he but dimly discerns, and more than suspects that the
+> joke is at nobody's expense but his own.
+
+Finally, he finds a cassette player amidst the mess and plays the song to distract him while he works.
+
+<small>Midge Ure: The man who sold the world</small><br>
+<audio
+        controls
+        src="/media/the-man-who.opus">
+            Your browser does not support the
+            <code>audio</code> element.
+</audio>
+
+It is a strange and vintage song, but he does not care, and just does his work. One thing he did not notice before is that
+there were many letters, some of them labeled, others not. Sometimes it seemed like the letters were very old, or maybe they
+have been left out in the rain for some time.
+
+After the great war, most systems were paralyzed or destroyed, and the postal office was one of them. This is also one of the
+services that one might take for granted, but once they stop working, only then do you notice how large impact it is. It took
+many years for a basic postal network to be established between the cities, and still, it is not very reliable.
+
+If you need to be absolutely sure that your package gets delivered, your best luck is hiring a professional porter, but those are
+few and far between. And very costly, since they have to account for the risk of being ambushed and a security detail is very
+expensive to maintain.
+
+Jake sorted through the mail rather absentmindedly. Same goes for the song, he could tell vaguely what the lyrics are, but it was
+mostly just background noise for him. He was thinking about his last experiences. On one hand, within the span of a few days,
+his life was more in peril and stranger than in the last decade combined at least, but on the other hand, he was still endlessly
+curious about everything, pretty much.
+
+Alice, the woman from before, was quite a strange encounter. Jake remembered he did not see her yet today, maybe she is off to
+do something. Probably is. He was still very puzzled about her, it is not often that you get to see someone naked before even
+learning their name.
+
+One thing could be said for sure, this Alice certainly piqued his interest and Jake is curious about meeting her again.
+It is a wonderland out there.
+
+When was Jake little, Alice in Wonderland was his favorite book. It was given to him by his grandparents from his
+mother's side. Surprisingly, Jake's family was rather complete and managed to make it through the Great War rather
+unscathed. There were losses and sacrifices, of course, but most other families did not manage to keep their integrity
+to such a degree. Many families did not survive the Great War at all. A lot of them went by without graves. Not
+everybody can bury their dead during wartime.
+
+Both of Jake's maternal grandparents were of an intellectual disposition, but they were also highly practical people.
+Much to the chagrin of everyone else in the family, the grandpa would take small Jake on hikes to nature teaching him
+how to orient himself in the wilderness. He also taught him to fish, although there were very few safe fishing sites.
+However, in recent year, it seems that nature has been able to shake off some of the pollution - the cities are still
+very polluted, make no mistake, but the surrounding wilderness is cleaning up.
+
+The book was a present from his grandmother, and Jake instantly took liking to it. The underlying of the meaning
+was not something that would reveal himself to kid Jake, but he really liked the bizarre and vivid things, in particular,
+he liked Cheshire Cat.
+
+He could suddenly hear the door click.
+
+"What a way to summon me, Jake. Feeling alright?"
+
+"Yea, Boss. Sorry I played your music, it was just an impulse to pass time better."
+
+The Boss was holding the copy of The Whale from before in one hand was still bleeding from the other one.
+
+"No worries, you can keep this one, if you want. I can miss a song or two, not to worry. This one is a really
+interesting song by the way, do you know it? This one is a cover, so it is not the real one, but it is still very nice."
+
+"No, first time I'm hearing. What's up with your hand, is it okay?"
+
+"Oh well, do not worry about it. There are many types of wounds, and they all take a different time to heal. There
+are wounds that close up quickly, there are others that take a long time. After getting some of them, you might feel
+like you will never be the same. Sometimes, people get wounds a part of them do not want to heal. These wounds of the
+soul, usually. This one? This is just a flesh wound, it bleeds, but it only hurts a little. By morning it will be all
+but gone."
+
+"I see, but don't you think you should put a bandage on it or something? It seems like you are just filtering blood
+through your glove and that isn't very sanitary."
+
+"Ah, no, this wound requires air. Eventually, it will just stop bleeding and it will be fine. Blood is also a good
+fertilizer, and it seems like this city has seen agriculture maybe in a fairy tale."
+
+"But... you are just dripping blood on the metal plates this building's made off...?"
+
+"Yes, but in due time, everything that flows will find its way into the ground."
+
+"Okay, but it is still messy. You think you can make not the entirety of our base look like a crime scene?" Jake said
+with a grin.
+
+"Yes, sure, but who is The Boss?" The Boss retorted in a playful tone as well.
+
+"I wonder who... and don't you have a less shitty name than 'The Boss'?"
+
+"Well, The Boss is not a shitty name at all. It is an homage to a woman who was active during the Cold War.
+She was an American secret agent and combat operative. She gave her life, her reputation and everything she built
+to protect her country and the people she loved. In the final stage of her life, she, in order to prevent an all out
+warfare, pretended to defect to the Soviets and claimed responsibility for the detonation of one Nuke. Her final
+mission was for her to let herself to be killed by another operative, who ended up being none other but her protege,
+but secretly hand over access to a very large amount of money she gained access to in the USSR. That was the actual
+objective of her mission. I believe that this kind of stories is the most tragic, where two people who fundamentally
+do not want to fight each other, a mentor and her student no less, have to have a confrontation because things larger
+than them are afoot... And we all know what good her sacrifice was eventually, the Great War speaks for itself...
+The Boss was a woman of skill, wit, honor and undying loyalty to her country and the people she loved, although
+her country sadly betrayed her. I think that if anything, I struggle to hold a candle to her and the honor her
+old title comes with."
+
+"What happened to her protege?"
+
+"He died that day as well, but in a different meaning of the word. No one has heard from him since, I heard he and
+a group of his friends are doing some wet work off the coast of Africa, near Seychelles. Follow me to my office for
+a sec," The Boss asked of Jake.
+
+"Okay, sure," Jake responded.
+
+He followed him through a series of corridors, all the way to the other side of the buildings. In the final hallway
+there was more and more blood on the ground. Eventually, there was enough of it to form a coherent body of liquid.
+
+When the Boss opened the door, the level of the blood reached all the way to the heel of Jake's shoes, so it was about
+three to four centimeters. This would classify as a flooding in a regular household.
+
+"Ah, there we are. Sorry, things are still a bit messy. I also need to have a drain installed, haha."
+
+"You sure do... Why are we here?"
+
+"Look at this, Jake," the Boss points to the wall.
+
+On the wall, an old primitive spear is mounted.
+
+"This is a spear of the Polynesian people, I traded for it with the locals some years ago. Just like many other
+native peoples, they were not affected by the war as hard as the western civilization. I like to think that this
+spear is similar to what Queequeg used in Moby-Dick."
+
+"It looks just like any other spear to me. My grandfather made a similar one once."
+
+"Your grandfather sounds like a cool guy. It is just a regular spear, yes, but it is a part of my collection of
+Moby-Dick related items. You see, I am very fond of the book.
+
+"I certainly noticed, haha."
+
+"Many say that Moby-Dick is the story of how the zeal and obsession of man will bring about their destruction. But to
+me it is also the evidence and testament of the tremendous power that exists within human capability. There has been
+just so many things that could have destroyed us, or bested us, whether it was natural catastrophes, diseases, famine,
+wars, destructive ideas or weapons of mass destruction. And yet, we have survived everything that came our way. Sure,
+there were sacrifices along the way, and often times it took a pile of corpses to realize our conceit in some matters,
+but in the end, we persevered through it all. Don't you think that's a little poetic? Of course, if you aim yourself
+towards an unattainable short-sighted goal, you will die and end up like Ahab, but still."
+
+The boss and Jake then discussed Moby-Dick for a while longer before Jake went back to finish up sorting through
+the items that were left.
+
+The song was long over, so he put the music player aside. There were some bags to sort through now.
+
+Jake reached over and picked the first one. When he opened it a blue butterfly with a black edge around its wings
+flew out straight into Jake's face, harassing him for a few seconds before flying away.
+
+It was quite surprising.
+
+.
+
+.
+
+.
+
+Nella woke up and was very happy to see that Zora is still asleep. On one hand, she felt some pity and could relate
+to her, on the other, Zora's personality was not that easy to digest.
+
+She briefly threw a glance through the window and saw that everything is still dark. She must have woken up too early,
+or so she thought.
+
+However, when she went to check the time on her phone, it was well past 10 AM. That was unexpected, but at least Nella
+could make use of the darkness to make Zora less dependent.
+
+They had barricaded the main entrance to the bistro, but there was a side window that was big enough for Nella to swiftly
+jump in and out of. The mission was to retrieve the crutches.
+
+Nella went over to the window and made some clearance. If she is going to go out, she needs to make sure that climbing out
+and climbing in do not take a long time, everything needs to be as quick as possible.
+
+She then looked through the window to see what is on the other side. There were some cars she could use to take cover
+parked outside. But most importantly, there was some gravel on the ground. This meant that she would have to tread
+carefully, but she can also use this to her advantage.
+
+Zora's crutches were lying on the sidewalk, that was the objective.
+
+Nella very carefully opened the window as to not make any loud sound. She then quickly climbed out of the window and
+crouch walked to the nearest car, then she leaned against it. She peeked over the car and saw that there was only a
+handful of soldiers patrolling the street.
+
+This was good. She grabbed the biggest stone she could find and tossed it as hard as she could towards the other side
+of the street. The stone broke a glass pane in one of the windows on the other side of the street, which made a loud
+noise and alerted all of the soldiers.
+
+While the soldiers began to converge on the other side of the street, Nella sneaked towards the front of the door.
+
+Craack. She stepped on a piece of gravel that slid along the sidewalk and made a cracking scratching sound. Nella
+got startled, so she hid behind another car, held her breath and listened carefully. Luckily, it didn't seem like
+anyone was coming over to her.
+
+She then quickly scooted over to the front door of the bistro, picked up the crutches and noticed that there is a package
+wrapped in paper in front of the door. Nella had no idea what it was, or if it could be dangerous, but she decided
+to pick it up as well.
+
+Then she ran back into the bistro and closed the window behind herself.
+
+She then went back into the kitchen. Zora was still sleeping. She laid the crutches on the ground and opened the
+package. There were some spoons in it and several packs of MREs.
+
+Nella had no idea who would just leave military food rations packaged in front of the bistro. If it was the soldiers
+then does that mean that they know they are still there? If it was them, what is their angle?
+
+If it was someone else, who are they that they can move freely with all of these soldiers running around?
+
+So many questions, so little answers. Nella opened one of the MREs, took out the bag that contained the actual food
+and also pulled out a flameless ration heater bag. After skimming through the instructions, she tore off the top of
+the heater bag, tossed in the MRE and poured in a bit of water so that it reached the mark on the bag. She then
+let it sit for about five minutes.
+
+Nella was really hungry, when she came into The City to pick up the package, she was not expecting to stay for long,
+and so she hadn't eaten anything since yesterday morning.
+
+After a while, the meal was heated up and so she took it out of the heater opened it. She first gave it a reluctant
+taste test, but it was surprisingly okay for a food picked up from the ground. It was a bit spicy, but she did not
+really care. There were times in her life where she could only hope for a food that was warm and reasonably nutritious,
+things like taste and quality were out of the question.
+
+Alright, this looks good enough. It was time to wake Zora, who was still sleeping soundly a few feet away from her.
+Nella took out another flameless heater and threw it on Zora's head. Zora made a growly sound and shuffled around,
+but did not seem to wake up.
+
+Nella sighed, took out an MRE and threw it in Zora's face. It made a slapping sound and Zora let out a confused "What?"
+
+"Food," Nella responded.
+
+Zora sat up and swept her messy hair out of her face and yawned loudly: "What? Thanks... isn't it like midnight?"
+
+"It's about eleven AM"
+
+"No way, it is way too dark."
+
+"I thought that too, but it is eleven AM. Something's wrong."
+
+Zora was processing for a few seconds, then she noticed the things Nella threw at her: "How do I eat this?"
+
+"There are instructions on the back, just read them. You will need this," Nella responded placing a glass of
+water in front of Zora.
+
+Zora then took to deciphering the steps required while Nella stared out of the kitchen window. She was wondering
+what is going on, and if Neiro is within the city, and if she is safe.
+
+"Oh, you brought my crutches back! Thanks a lot!"
+
+"Don't mention it."
+
+Although it required much longer for her, Zora eventually managed to get herself some warm MRE as well.
+
+"Ouch, spicy!"
+
+"There is nothing else to eat, you will have to manage. Just water it down if it becomes too much."
+
+"Okay."
+
+A sharp noise suddenly came out of the radio. It sounded as if someone was going through the frequencies but
+their radio wasn't set up properly, so they were just broadcasting a loud noise.
+
+Nella leapt over to the contraption and talked into it: "Hello, is anyone there? Can anyone hear me? Hello?... Hello?
+Anyone there?"
+
+She slowly turned the frequency dial while repeating "Hello?", but to no avail. Nella slumped down into the chair
+near the radio and sighed that no one could hear her. But it least seems that someone else is on the radio, so there
+is a chance.
+
+"What was that?" asked Zora.
+
+"It seemed like someone was on the radio, but they missed us."
+
+"What do we do?
+
+"I don't know, we are sitting ducks here"
+
+"How about we fight our way through?"
+
+"Zora no! Not with your crutches, and we don't know where to go yet."
+
+A tiny part of Nella regretted throwing out the cigarettes now. The kitchen was enough of a back room that she felt
+like they may afford to turn on the light without too much risk.
+
+She flipped the switch and the light bulb lit up for a few seconds then exploded. Luckily there was another light
+on top of the kitchen counter, and that one worked.
+
+There was another element that Nella needed to tackle. It was winter and the inside of the bistro was not very warm.
+In fact, it was quite cold. It was time to jury-rig another solution, since central heating did not seem to work and
+there were no electric heaters. Starting a fire inside a building in these conditions was probably bad optics.
+
+Luckily, the bistro still had electricity and Nella knew that. Otherwise, she would have had to connect another battery
+to her radio.
+
+The stove in the kitchen electric, but just turning it on did not seem like a good idea, especially since there is
+usually a thermostat which keeps turning the heating elements on and off all the time, and you want as much heat as you
+can get, and there is hardly any practical way to retain the heat produced by them.
+
+So Nella got an idea. This was all still somewhat outside of her field of study, but in a pinch, you gotta do,
+what you gotta do.
+
+She fetched some cables and a screwdriver. She then went upstairs into one of the guest rooms, and she picked the one
+that was most taken over by the elements.
+
+Nella then used the screwdriver to pry open the light switch and then she very carefully unscrewed it out of the wall.
+This is not a recommended practice, the risk that you will accidentally close a circuit and zap yourself badly is very
+high. For her, there was the added risk that an electrical surge might damage her legs. She managed to do it without any
+accidents, though.
+
+She then went back downstairs and took two trips to carry two large marble tiles into the kitchen. They were from one
+of the back rooms, where there was more construction material as well. This fit well into her theory that someone has
+been trying to make repairs in the bistro after it was badly damaged by the fire.
+
+Nella then used her raw strength and her trusty screwdriver to pry off two of the heating elements. Together, these
+should make two to three kilowatts, which should be more than enough.
+
+She then cut the wire into several pieces and screwed the switch into it. Then she connected the wires to the heating
+elements and put them between the two marble tiles.
+
+Then took a cutting board out of the cupboard and set it under the marble tile heating element sandwich. Then she flipped
+the switch and to her surprise, the heating elements slowly lit up and started heating up the thick marble tiles. The
+cutting board served as insulation and that ensured that the heat was radiated more into the room rather than
+transferring it into the ground.
+
+"Wow, that's really cool you made this!" Zora commented.
+
+"Thanks, at least now we won't get cold"
+
+.
+
+.
+
+.
+
+Minerva could not sleep through the night. After she got bored with lobbing grenades at the soldiers, she popped
+open a bottle of wine and then indulged herself in thoughts. When she was done with that bottle, a second one
+followed and then a third.
+
+She then went to turn on some music, but at that point, it was unintelligible. She tried to read a book but the
+letters kept shifting and getting blurry, so she gave up on that as well.
+
+Then she went over to the window and tried to inspect the situation outside, but she started getting tired and she
+did not want to sleep, so she moved around to regain her presence of mind. However, that ended up being not too
+good because when she then wanted to actually go to bed, she could not fall asleep.
+
+As a last resort to fill her time, she decided it was time to tidy up.
+
+Fira, commonly also known as Rat, was not a particularly tidy girlfriend. There were clothes all around the place,
+there was some evidence of her midnight snacking hidden all around the place, and there was a lot of other mess.
+
+That is not to say that Minerva did not produce some mess as well. Her ex-boyfriend, Endell, was a bit of a clean
+freak and he would not really tolerate mess anywhere. When Minerva had a "change of regime", so to speak, she let
+a bit more loose than before.
+
+But the cleaning was not an optimal activity as well, since nearly everything reminded her of Fira. She was still
+worried and upset that she could not fight her.
+
+When she got into the bathroom, she looked into the mirror and saw that she was a complete mess. Something in her
+reached a critical point and Minerva started quietly sobbing in the bathroom, although she did her best to keep
+herself in check.
+
+She took a few deep breaths and she collected herself again. Minerva then went to bed and tried to sleep again.
+The clock was well past 3AM when she went to bed but she did not fall asleep until at least 5:00AM.
+
+.
+
+It was no wonder then that she was still asleep at 10AM. She was asleep at noon as well. She finally woke up sometime
+after 1PM. She was sick and she had a bad headache.
+
+Minerva stumbled out of the bed and made her way to the medicine cabinet. She took out two Aspirin pills and
+swallowed them. She had to stop for a few moments by the kitchen sinks because she felt a sudden spell come
+over her, but luckily, she managed to stabilize herself and did not throw up.
+
+Minerva then stumbled back to bed. This time she had some strange dreams. In one of them, she was a child again
+and she was on the run from someone. In another, everything was on fire.
+
+There was a strange dream which recounted one night when she consumed to many unsavory things much to the chagrin
+of Endell, who had to deal with her to make sure she was safe until the stuff wears off.
+
+In another dream, she saw Neiro as a child. Or, at least, she saw what she imagined to be a tiny Neiro.
+
+She woke up again two or three hours later, drenched in sweat. She flipped her blanket over and fell asleep
+again. Unfortunately, she neglected to look at any clock during this whole time.
+
+.
+
+.
+
+.
+
+Elsewhere, in a different world.
+
+At an unspecified time, Fira woke up in the old woman's cottage.
+
+"Hello?" she asked.
+
+"Hello child, did you sleep well?" the old woman had a sort of a grandmother quality to her. It was strange
+and comforting, Fira never knew anything like this.
+
+"Ye, thank you." Fira was still a woman of few words in this world.
+
+The woman gave her a plain breakfast and something warm to drink - it was a local speciality, Fira had no idea
+what it is called, but it was really good and had just the right amount of sweetness for Fira.
+
+Fira wanted to leave since she was still close to Yiandh and she wanted to get away.
+
+She asked the woman if she had some piece of clothing she could use to stay covert. The old woman thought
+for a moment and then took out a dark grey shabby fur coat with a hood. It has been feasted on by moth for years,
+no doubt, but this only improved her cover.
+
+Fira then took some string and tied her hair back, so that it was mostly hidden by the hood. Now that she had this
+new look, one might even be inclined to call her a Rat more than before. Or a mouse, but really, any gray animal.
+
+The woman and Fira then said their goodbyes and Fira went on her way. Just as she was on the edge of the forest,
+she was caught by a sudden splitting headache.
+
+Some memories were coming back.
+
+She saw a vague image of a red-haired curvy woman and this image stirred up all sorts of feelings within her. Fira
+was dazed for a moment. She had to figure out who that is.
+
+Just as she left the forest, it started raining.
+
+"Perfect," Fira thought.
+
+.
+
+"Perfect," paladin Rhatholei thought.
+
+He had been scouring through the city and then through the immediate vicinity the entire night, calling out for the
+emissary. He had been waiting his whole life for an opportunity to be granted such an important quest, and he did
+not want to disappoint.
+
+Unfortunately, he was not around when Fira was at the temple and so he did not get a good look at her. All he knew
+was that she was not very tall, had green hair, big noticeable ears and she was supposed to be wearing designated
+temple attire.
+
+So first, he felt like he needed a better description of what she looked like. Rhatholei therefore decided that it
+might make sense for him to go interview the old couple that brought her in, Rodina and Richter. Since Fira did not
+know anyone on the island yet, it would also make sense that that would be the place where she might go first.
+
+So he turned his horse around and rode on the road towards the tiny village where they lived. A few minutes in, he
+bumped into someone on the road.
+
+It was a young girl in a dark grey fur coat, she was a little dirty and looked like a bit of a recluse.
+
+He stopped and ask: "Hey, you, haven't you seen the Emissary go this way? I've been dispatched to bring her back."
+
+A chill ran down Fira's spine, but she answered: "No, I haven't, I am sorry."
+
+"Ah, that's a shame, but if you see something, please report it to Yiandh. We are all worried about her."
+
+"Okay, sure. Where does this road lead?"
+
+"What a strange question, fair maiden. It leads to the sea shore, just like almost every other road on The Island.
+This one in particular leads to a fishing village."
+
+"Ah, I see, thank you."
+
+"What is your name if I may ask you?"
+
+Fira was sweating buckets at this point, she really wanted the man to leave since every minute meant a higher risk
+of getting discovered.
+
+"Uh... Fria?"
+
+"That's an interesting name, never heard one like it! Pleased to meet you, Fria, I am Rhatholei, paladin of Xexanoth!
+His blessings to you on your journey!"
+
+And as he said it, he rode off.
+
+Luckily, it did not seem like this guy was very smart, Fira thought. She wasn't smart with her fake name either.
+
+.
+
+Fira spent several hours on this one road. The rain from before somehow made her feel better and more refreshed.
+But the journey was much faster when they brought her to Yiandh in a carriage, she thought.
+
+Eventually, the road went through a rather dark forest.
+
+After a few minutes in the forest, Fira started feeling uneasy, as if she was being watched. She looked around, but
+she could not see why she felt uncomfortable like this.
+
+Fira did her best to focus on her hearing. She could hear all the common sounds of the forest.
+
+The wind howling, the birds chirping, the sticks cracking, leaves and other material being moved by the wind, all the
+usual culprits.
+
+But something was off. Sometimes, there was a crack which somehow felt out of place and immediately put her edge.
+
+A few minutes later, the forest was particularly dense.
+
+...
+
+A man suddenly jumped out of the shrubbery and cornered Fira.
+
+"Money or life! Your pick friend!"
+
+The man was slightly older, big and burly and looked very threatening. He was holding a rusty sword.
+
+"I don't have any money. Let me go," Fira responded.
+
+"Oh, since you are such a young beautiful lass, maybe you have something else to offer," the man said in a worrying
+tone then patted his crotch and grabbed his belt buckle.
+
+"No, please..."
+
+But the man quickly jumped at Fira. "Come here you little wench, we are gonna have some fun, alright! I will make
+a woman out of you."
+
+"NoooOO! LET Gooo!"
+
+Fira screamed and struggled, but then she saw a stone nearby and so she did her best to move a bit back.
+
+The man only held her partway as he was otherwise preoccupied with letting his undoubtedly savory member see the light
+of day.
+
+"C'mere you little bitch," the man kept advancing onto Fira and he managed to expose one of her breasts.
+
+But just as he did that, Fira managed to grab the stone and used all the strength that was within her to smack the
+man into the temple with it.
+
+The two hundred pounds of sheer sexual assault slumped down onto Fira lifelessly. She did not know if he was dead or
+just unconscious, but frankly she did not care.
+
+She pushed the body off herself, adjusted her garments and then stood up and spat on the body.
+
+"Serves you right, bitch," she remarked with an angry look. Call it karmic justice, I suppose.
+
+Fira then kicked the man over so he was lying on his back. She took the rusty sword and its scabbard and also a money
+pouch the man had. There was a lot of coins in there, a few gold ones, a plenty silver coins and also a handful of
+copper coins.
+
+Fira then went back on to the road, but she changed her mind, went back to kick the man once more and then returned to
+the road and went on her way.
+
+There was a small settlement on the road after the forest, and there was an inn in it. Fira figured it would be a good
+place to stay and get something to eat. She had money now, so she could afford something she hoped.
+
+Once she entered the inn, she could spot a familiar face. A wave of cold sweat went through Fira.
+
+.
+
+Elsewhere, but not too far away, some time earlier.
+
+Rhatholei reached the small fishing hamlet by the seashore somewhat quickly, his horse was fast as the wind, after all.
+He asked some passers-by on his way, but they were no help.
+
+When he reached the fishing hamlet, he asked the locals to direct him to Richter and Rodina, and they did just that.
+After all, what reason would you have to defy a designated paladin of Xexanoth?
+
+Rhatholei then talked with the couple for a short while and they were surprised to learn that Fira escaped. Rodina thought
+that maybe she did it because her thoughts were in disarray, after all, it seemed to her like Fira suffered some serious
+head injury.
+
+Richter was as oblivious as ever, but together with Rodina, they tried to describe Fira to Rhatholei in as good detail as
+they possibly could.
+
+After he was finished talking with them, Rhatholei gave them each a golden coin for their time and went back on his way.
+This was a lot of money for the couple, they were very happy to receive such a gift.
+
+Rhatholei was quite disappointed that Fira wasn't there, but then he realized that chances are that she is much closer to the
+center of the island. After all, she did not have a steed as fast as his, or probably any horse for that matter. The temple
+stable did not report any missing horses.
+
+He therefore decided that maybe the best course of action would be investigate closer to Yiandh, so he traveled back the
+way he came from.
+
+Some time later, he decided that he should take a break in an inn that was along the way, and so he did.
+
+To his surprise, a few minutes after he walked in, sat down and placed his order, the girl he met before went in. It seemed
+to him like she did not notice him because she was not looking his way at all.
+
+Rhatholei fixed it by calling over: "Hey! Fria... was it? Long time no see, come join me for a drink!"
+
+And the girl did.
+
+Fira was concerned that Rhatholei might discover who she, but she did not want to arouse any suspicion. So she sat with
+him at the table and said a very awkward "Hi.", one that made Rhatholei chuckle.
+
+The paladin then ordered a beer for himself and the lady, and Fira got an order for a chicken with potatoes. It was one of
+the finer foods in the inn, but she had coin.
+
+"So, how was your journey so far, Fria? You are looking a little scuffed."
+
+"It was... fine. I am just tired after walking for so long." Fira really did not know how to act not to arouse suspicion, so
+she tried to put on a slightly different personality than was her usual. This was not really necessary, since Rhatholei did not
+how her original personality in the first place.
+
+"Hahah, I see! Well you can rest here, this inn is very popular with travelers, they have the best food in a ten mile radius!"
+
+"Fifteen," yelled one of the staff with a prideful tone.
+
+"Fifteen!" yelled Rhatholei.
+
+He then continued: "I have been searching for the emissary, but no luck so far. I really want to make sure to bring her back
+safely, this is the first time I was given such a big task. What are you up to?"
+
+"I don't know, I just kind of want to travel and discover The Island."
+
+"Well, that is not a bad thing to do, you seem kind of inattentive to me, no offense."
+
+"Some taken."
+
+"Ahaha, I'm sorry. Anyways, I see that you got a sword, I don't think you had it when we met for the first time. How did you
+get it?"
+
+"I found it."
+
+"Hmm, it does look like a sword one might just find lying around. It is all gnarly and rusty. And too big for you. You look
+to me like someone who should use a light and fast sword. But you are not trained for swords, are you?"
+
+"No, I am not. I was just scared that someone might want to hurt me, so I picked this up. I don't know how to use it."
+
+"That's a shame. I tell you what, there is a small village nearby with a weapon-smith and an armorer, I need to go there to
+investigate. How about you tag along? I will help you pick a weapon and show you some basics"
+
+"I am sorry, I think I should continue towards the seashore."
+
+"Oh, come on, it will be just a short detour! It will be fun. You will help me look for the Emissary."
+
+"No, really."
+
+"Come on, besides, it is safer to travel in a group! The Island is not that dangerous, but there are still some bandits
+lurking around."
+
+"Ugh fine, then."
+
+"Haha, I'm glad you will tag along. The more the merrier. Besides, my horse fits to people no problem, unless they are
+really fat. And I don't suppose you are hiding an extra two hundred pounds under that fur, are you?"
+
+The two of them then continued eating in relative silence. Fira tried to make sense out of herself and her fragmented
+mind, whereas Rhatholei was thinking about whatever. He wanted to get the conversation going, but he was not too talented
+in this department, so he threw most of the conversation ideas under the bus.
+
+For some reason, this one seemed good enough: "Fria, do you have someone you like?"
+
+Fira nearly choked on her food.
+
+"I am not sure. Do girls maybe count too?" Fira said the last bits in
+an increasingly quiet tone, since she realized midway that maybe this was not something she wanted to divulge, that she
+was not sure who the woman she saw in her memories was and that she did not know this land's policy on girl and girl stuff.
+
+"Why are you so shy about it? This is nothing to be ashamed of, haha. Don't you remember that anyone can love anyone
+on The Island. We have known this for over two thousand years! Well, they did figure out that maybe the adults loving
+children is not too good, but otherwise, like who you like, it doesn't matter if they are a girl or a guy. I just
+wish it was more customary for priestesses to be in relationships. Yeah, I know that it is not forbidden, but it is
+just uncommon."
+
+"Do you have someone you like?"
+
+"Yes, I do. There is this one priestess, she is called Sereta. I have had eyes only for her for some time. She is the
+most beautiful woman I ever laid my eyes on. She has stunning red hair, brown eyes and a figure that must have been sculpted
+by gods, bless Xexanoth."
+
+Fira felt weird again, since this description oddly matched the woman she was seeing.
+
+"Unfortunately, my love for her is courtly at best. We see each other sometimes, but I am not sure if it will ever
+fully become a reality..."
+
+"Ah, I see. I am going to get a room to sleep. Tomorrow, then."
+
+"Goodbye, and blessings of Xexanoth," the paladin said.
