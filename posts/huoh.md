@@ -6508,7 +6508,7 @@ just uncommon."
 
 "Do you have someone you like?"
 
-"Yes, I do. There is this one priestess, she is called Sereta. I have had eyes only for her for some time. She is the
+"Yes, I do. There is this one priestess, she is called Soreta. I have had eyes only for her for some time. She is the
 most beautiful woman I ever laid my eyes on. She has stunning red hair, brown eyes and a figure that must have been sculpted
 by gods, bless Xexanoth."
 
@@ -6520,3 +6520,276 @@ fully become a reality..."
 "Ah, I see. I am going to get a room to sleep. Tomorrow, then."
 
 "Goodbye, and blessings of Xexanoth," the paladin said.
+
+# SECOND MIST
+
+A different place, a different time.
+
+Jay could not tell how long has he been in Hell. He just snapped out of going through another memory about Neiro
+and the rest of his friends.
+
+Just as he came back to his senses, he noticed that he is feeling very stiff. There was nothing holding him in his
+cell, so he figured out that he might as well go for a walk and explore.
+
+He felt like he could use a cigarette for the past what-felt-like-eternity, but unfortunately, he has not seen a single
+cig since mag taunted him with one.
+
+Jay propped up the guitar against the wall and ventured out the building.
+
+He then walked down the street. The road was overrun by vines and other bits of vegetation. It was an interesting
+contrast to the concrete uniformity that was hidden underneath.
+
+It was very silent.
+
+There was no wind and just mist all around.
+
+It was neither warm or cold, the temperature was such that you do not notice it in any capacity.
+
+The air was maybe a little more damp than he would have liked.
+
+He remembered one night back in The City. It was early autumn, and due to certain events, the atmosphere was quite
+heavy and the air felt thick. Perhaps there was more pollution in the air that day, more than usual, but,
+as all men who have lived life know, that which weighs down on a man seldom lies in places other than their heart.
+
+Jay felt he was not too susceptible to this sort of stuff, so one can only imagine how the rest of the gang felt during that
+time.
+
+It has been some time since he, in a profoundly non-chalant manner rescued Neiro from being swallowed by The City
+like many other newcomers.
+
+How strange is it that a single person can be a catalyst to changes in the lives of so many others?
+
+Current-time Jay thought about Neiro as well. He was wondering how she and the rest of their friends are doing.
+
+A part of him has gotten used to existing like this, but another part of him yearned for the life that was.
+
+He figured that these feelings will go away, after all, he still does not feel like he will be leaving this place.
+
+But they did not go away, this little part of him, while still small, flourished and became profound, revealing
+a complexity of feeling previously thought absent.
+
+There is merit to the old saying that those who peer inside are just as valid and well-based as those who go by the external
+world, and that sometimes, those look outside dream, while they who look inside awake.
+
+In his memory, Jay took out a cigarette and lit it and start smoking. He could not do that now. Within this world,
+there was no such thing as physiological nicotine withdrawal, but the mental stuff was all there.
+
+For Jay, smoking has become such an integral part of his life that now that he could not do it, he felt like he
+was missing a limb.
+
+His current state of consciousness broke when he could see a figure in the distance.
+
+He walked over to the person. He was standing there, and looked as if he was keeping watch, or waiting for something.
+
+When Jay got close, the person turned around. It was a boy well into his teenage years, so not too young, but also
+still brimming with youth.
+
+The boy had quite a peculiar look. He had green eyes, and a darker skin. He was not black per se, he seemed more like
+the darkest variety of Egyptian one could find years back in the area that neighbored with Sudan.
+
+He had antiquated dark clothing, the trousers were especially simple, although bandaged at the bottom to make them narrower
+and he was barefoot.
+
+The boy had a furry cape with a hood. The hood resembled the head of a jackal, or perhaps an African black wolf, with ears perked up.
+The green eyes were staring at Jay from underneath the hood.
+
+In one of his hands, the boy was holding a staff with a wooden ornament at the top
+
+"Uh, hello?" Jay spoke to the stranger.
+
+The boy turned his head a little but kept staring in silence.
+
+He then slowly started walking forward.
+
+The stranger went to the center of the road and then started walking forward.
+
+A few seconds later he stopped and turned his head around: "Follow."
+
+Jay quickly caught up to him and spoke: "Phew, at least you can talk, I almost thought you were mute"
+
+The boy swiftly turned to Jay and bonked him in the head with his staff.
+
+"Ouch, the hell?" Jay exclaimed, but the boy did not care at all.
+
+.
+
+Jay has been following the strange boy for about quarter of an hour.
+
+"Where are we going?" he asked, but the boy did not respond.
+
+The landscape around them did not change much, everything was still kind of the same - shrouded by mist.
+
+Jay did, however, notice that they went through a patch of buildings which looked very dry and eroded and there was almost
+no vegetation at all, and now they were entering an area which to the contrary was overrun by vines much more than the one
+Jay started in.
+
+Also, these buildings, while the exact same in general shape, were not built out of concrete, but rather, out of marble.
+
+Jay made another shoddy attempt at a conversation: "So, who are you, are you like a furry or something?"
+
+The boy just bonked Jay in the head with his staff.
+
+"Damn, dude, this actually hurts. Are you trying to injure me?"
+
+Surprisingly, the boy responded: "No."
+
+"Sheesh. So what, are you dead too?"
+
+The stranger repeated his previous answer: "No."
+
+The Egyptian then took a turn left and walked over to one of the little buildings.
+
+"Why are we here?" Jay asked.
+
+The stranger did not answer, but he pointed towards the entrance and stood in place.
+
+Jay walked in.
+
+.
+
+There was a man inside, it took him a while to notice Jay.
+
+"Hi?" Jay asked the man.
+
+"Greetings, stranger, why are you here?"
+
+"There is a guy standing outside who brought me to you."
+
+"I see, then perhaps he hopes that I might tell you what I learned. I am Salmoneus."
+
+"Salmonella- what?"
+
+"In my life, I was the king of Elis, a kingdom of Peloponnesus. I was a great and successful king."
+
+"If you were great and successful, why are you here?"
+
+"I became overbearing and impious. I handled my friends and family with pride and prejudice. Eventually,
+I thought myself god and had my subjects worship me as Zeus. But I was blind and foolish and had thus incurred the
+wrath of Heavens. And smite me, they did."
+
+"So you learned not to be a dick?"
+
+"I learned that which I was pursuing was not fulfilling but wanting. Everyone made sacrifices for my sake. My sister-in-law,
+Tyro, lost her firstborn son to save my life, and I barely acknowledged the fact."
+
+"Okay?"
+
+"One should build bridges in their life, that much is true, and I did do that. But be mindful of how and why you construct
+your bridges, for not all that hides under the same name has the same meaning. Farewell, sinner. Say hello to my brother,
+should you meet him."
+
+Just as Salmoneus finished speaking, the Egyptian walked into the door and beckoned Jay silently, with his eyes.
+
+When they went back onto the road, Jay asked: "Why did you bring me to that bald geezer?"
+
+But all he received was a bonk in the head with the wooden staff.
+
+"Fucking hell, shit, this really hurts, knock it off, or I will beat you you brat."
+
+The boy threatening lifted the staff, but then put it back down and continued walking.
+
+A few minutes later, he stopped, and shuffled around in his pocket for a moment.
+
+"What are you doing?" asked Jay. The boy, of course, did not respond.
+
+Moments later, he finally found what he was looking for and pulled out a pristine looking cigarette.
+
+He put it between his thumb and index finger, as if he was picking a marble off the ground, and held it
+silently, facing Jay.
+
+"Oh dude, c'mon, give me!"
+
+The boy responded: "No."
+
+"Dude, you have to, I need it," said Jay and tried to snatch the cigarette. The stranger, however, evaded the attempted
+and bonked Jay in the head once more.
+
+Jay could swear he saw stars for a moment, that is how hard that hit was.
+
+"Oh, fuck, man, dude, fuck, GRrrrr, this hurts."
+
+"Yes," the boy responded.
+
+Jay had to take a few breath to stabilize himself in face of the pain, then he stood upright again and shuddered off the hurt.
+
+"Dude, **_please_**, give it to me, I beg you."
+
+The boy handed the cigarette over, and spoke: "Was for you."
+
+Jay let out a sigh of relief, as addicts are wont to upon getting their fix, and said: "Thanks."
+
+He than patted his pockets and realized he does not have a lighter. And the angst came back.
+
+"Suppose you have a light, don't you?"
+
+"No."
+
+The boy started walking forward again.
+
+"Hell, you are even worse than that magnusi guy from before, I swear."
+
+The strange Egyptian did not respond, just kept walking.
+
+Suddenly, the part of Jay that used to deal information activated within him and he got a curious question:
+"You know that guy, don't you?"
+
+"Yes," the boy responded.
+
+"Damn, I knew it. You two must be working together. You are friends, aren't you?"
+
+"Scarcely."
+
+It did not seem to Jay like this boy was particularly tight with the man from before. He also looked noticeably younger
+than him, indeed, bordering between being a child and early adulthood.
+
+"So you do Hell evil men stuff, too?"
+
+"No."
+
+"So what do you do?"
+
+"Weigh."
+
+"Okay, what do you weigh?"
+
+The boy did not respond.
+
+"Jeez, and now you are silent."
+
+The Egyptian lifted the hand holding the staff again and that was enough to startle Jay: "Okay, okay, I get it, I get it. Sheesh."
+
+Jay then reflexively took out the cigarette, put it in his mouth and then realized he does not have anything to light it with,
+so he made a sour face.
+
+A while later, the boy stopped in front of another building and pointed towards it. Jay got the cue immediately this time.
+
+.
+
+There was a young, good-looking, woman inside, and she immediately noticed Jay, saying: "Hi, who are you? What brought you
+here? You look cute."
+
+"I am Jay, and I was brought by the guy standing outside. I suppose I am here so you can tell me some more something?"
+
+"Mhmhm, I see. Well, I am Pandora."
+
+"Were you also like a queen or something?"
+
+"No, never. I was the first keeper of secrets. I was given a box full of them to protect and never inspect. And I did
+just that, releasing all sorts of horrible stuff upon the world. Yeaa, my bad. It's just that, you can't sate these prying
+eyes, can you?"
+
+"Okay, I guess."
+
+"The lesson is that there is a reason to keep secrets, especially if they are not yours. But yea, I guess, you bore me,
+bye-bye. Come later without that brooding creepy boy outside and I might show you a good time," Pandora added, winking.
+
+"Well, what, okay? I mean, you look good."
+
+"Oh, I'm sorry, it's just that I haven't had fun in a long time. But now I am bored with you two already, can't do anything
+with kids around. Bye-bye, shoo," Pandora finished with a shooing motion.
+
+A quite perplexed Jay emerged out of the building.
+
+This was a lot to process, he thought.
+
+"Come," beckoned the Egyptian kid in a jackal/wolf hood.
