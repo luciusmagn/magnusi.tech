@@ -5721,7 +5721,6 @@ and he looks under thirty.
 
 Meanwhile, he has already retrieved his arrows. He climbs the nearest building and lies in wait.
 
-<div id="alma"></div>
 
 # THE SEVENTH SERMON TO THE DEAD
 
@@ -6520,6 +6519,8 @@ fully become a reality..."
 "Ah, I see. I am going to get a room to sleep. Tomorrow, then."
 
 "Goodbye, and blessings of Xexanoth," the paladin said.
+
+<div id="alma"></div>
 
 # SECOND MIST
 
