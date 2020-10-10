@@ -1,5 +1,36 @@
-tags = ["samirall"]
-title = "shit"
+tags = ["magnusi"]
+title = "Aaaaaaaa"
+
+<style>
+	html {
+		background-color: #fff;
+		filter: invert(1) hue-rotate(180deg);
+		min-height: 100vh;
+	}
+	body {
+		font-family: "Fanwood", serif;
+		font-size: 1.4rem !important;
+		min-height: 100vh;
+	}
+	main {
+		margin: 0 auto !important;
+	}
+	.post p {
+		text-align: justify;
+		text-justify: auto;
+	}
+	blockquote p {
+		color: #646464;
+	}
+	p em {
+		font-style: italic;
+		font-family: "Fanwood Italic", serif;
+	}
+	img {
+		filter: invert(1);
+	}
+</style>
+
 
 # future past murder idk
 
@@ -112,6 +143,107 @@ a part of who she is right now.
 At the end, a mentally healthy astronaut decides that maybe her powers (of which there is a wide
 range), could be used for good, and so she starts figuring out ways how to control and use them
 at will, and for what reason.
+
+# at thy twilight, old thoughts return, in great waves of nostalgia
+
+The two doctors are friends. One of them is a stereotypical white old man, whereas the other is
+a black gentleman. The white one has retired already, and the black one is very old as well.
+
+Since his retirement, the white one struggles to figure out what to do with his life. He has
+a family, but they are all grown up or abroad, so he can enjoy them only occassionally, he tries
+several hobbies, but nothing fits, and so what he does is he visits his black friend in the
+hospital.
+
+Originally, they were a group of friend doctors, there was about a dozen of them at this
+hospital, men and women, but now, it is only the black left, and the white coming to visit him.
+The others have either died or retired and disappeared from the 'public eye' of the hospital.
+
+Every time he visits, they both have a pleasant conversation, talking about life, interest,
+interesting medical cases, what are the young doctors like, and also sometimes reminiscing
+about the old times, and the people that they used to know who worked at the hospital, and
+so on.
+
+After a few visits, the black reluctantly divulges that he will be retiring soon too, that
+he has some health issued and that he cannot manage the difficult hospital work for that
+much longer. He states to white that he could use a golf partner.
+
+White then starts crying, and so does black. It is because inside they know, that with this,
+their world is over, and the longest chapter of their lives are ending, and now, all that
+they have had over the years will become just memories. Perhaps, it was time to go now.
+
+They realize that the world around them has changed and soared somewhere else, but they,
+in their old age, cannot keep up, and so inevitably, some things must come to an end.
+
+The black, having a very similar familial situation, then retires and together with white,
+they buy a plot in the country-side near the city. And together, with the help of hired
+workers, they start building a house for the two of them, which they eventually succeed
+completing.
+
+The story ends with the two old friends living together in the house and going for a
+game of golf.
+
+# bulgakov
+
+A strange man with a taste of theatrics, peculiar fashion sense, a beret, differently
+colored eyes and a talking cat visit Mikhail Bulgakov at his home, completely disregarding
+anything Bulgakov might have planned to do that day and just pretty much inviting themselves
+in.
+
+The man introduces himself with a number of contradicting titles, stating that he is an
+artist, and that he is a performer, and that he is a government official, and that he is a
+professor, and that he is just a simple man, and that he is nobility, and so on, whereas the
+cat just says it is a talking cat.
+
+Bulgakov quite surprised at what's going on, especially the cat, drops in his mind any plans
+he might have had for that day and decides to sit the uninvited guests down.
+
+The man claims that as a writer (yet another claimed profession) he is interested in Bulgakov's
+works, and mentions his favorite ones, some of which Bulgakov hasn't published or even has no
+knowledge of.
+
+Bulgakov then rightly asks, that while he is flattered that him and the cat (who just lets out
+sarcastic remarks at random moments) consider his work good, that he would still like to know
+why they are here.
+
+The man than tells him that he is there to talk about God and the Devil. He challenges the image
+of God as just a good, merciful benevolent force and Devil as the personification of evil.
+Bulgakov and the man, with occasional input from the cat, then discuss that while the Devil is
+an undeniable agent of chaos and he some anti-heroic/anti-villainic properties, there is no reason,
+and, perhaps there should not be reason, for him to be evil.
+
+That Devil and the temptation are forces from the area of chaos that are working to expose the
+evil that is present in men, that the excuse of 'satan made me do it', or 'satan is responsible'
+are moot because all that Satan does is expose and present to the world, and perhaps to the target
+themselves the evil that is present with in.
+
+They then go back to the image of Satan in the Old Testament, taking into account that Satan means
+the Accuser, and that is perhaps to a degree the Devil's job. To expose, and to accuse. The two
+then discuss the predicament of the Devil himself, his original position, his transgression and
+his rebellion and his being cast out of heaven. And, in relation to this, if it is possible that
+he has done enough penance and that maybe his punishment was harsh. After all, a part of Lucifer's
+motivation was love, and is love really something that should be punished harshly?
+
+Bulgakov then comes to the conclusion that maybe the reason the Devil now stays confined to Hell
+and to the mortal realm (i.e. anywhere but Heaven) is maybe not because he wants to escape but
+cannot, but because he accepts his difficult job out of love for God, and therefore has not thought
+much of escaping and perhaps besieging Heaven again so he could get in once more. The cat calls
+this bullshit.
+
+Once they have finished drinking their tea, the man invites Bulgakov to step outside and follow
+him for a bit. On the way, they discuss the rot in the hearts of men and if it is possible for an
+entire society to become corrupt, given the correct conditions. And the role that desperation
+and manipulation from above perhaps play in that.
+
+They eventually reach a very busy street and the man tells Bulgakov to watch. He loudly yells
+"Behold!" which grabs the attention of the people nearby and takes out a large pouch full of coins
+and bills and swings it out as to cover the entire length of the street with many. The people then
+go crazy trying to grab as many coins and bills as they can, even fighting and punching each other
+and stealing the money from one another. When a sleazy man pulls out a gun at a pregnant woman who
+picked up more money than he did, he immediately turns into a pillar of salt.
+
+Bulgakov, who has not picked up any money and just watched what was happening is completely
+astonished. When he snaps out of it, he tries turning and calling the man but he realises that
+both the man and the cat are nowhere to be found, having seemingly vanished within a few moments.
 
 # two lost at the sea
 
@@ -244,7 +376,7 @@ but mainly the events which created this situation in the first place. The Last 
 lets on, but he contests that this is not the time to just spill the beans. The time-traveler also suspects that
 the old man is lonely, and so keeps secrets so that he would keep coming back into this time.
 
-Eventually, it seems like there is no resolution, and the man have a, unbeknownst to them, last conversation,
+Eventually, it seems like there is no resolution, and the two men have a, unbeknownst to them, last conversation,
 about war and the endless zealous search for one's satisfactory personal "truth", and that perhaps the man's
 search for what caused this is futile.
 
@@ -257,6 +389,71 @@ the king, but when the time-traveler gets closer to him, he finds out he is nowh
 profound as he used to be in the old time, and is in fact quite a mean authoritarian king, who is only a few
 steps apart from a totalitarian regime.
 
-The traveler is confused by this, but eventually, he figures that there is nothing he can do, and that
-maybe that was the only way forward and so he comes home, and tries to make some satisfaction in the
-fact that he prolonged the human existance for thousands more years at least.
+The traveler is confused by this, but eventually, he figures that there is nothing he can do and perhaps nothing
+that he should do, and that maybe that was the only way forward and so he comes home, and tries to take some
+satisfaction in the fact that he prolonged the human existance significantly.
+
+# tiny nazi Franz
+
+Franz is a somewhat high-rank Nazi officer who got into his position more by way of complacency and allowing himself
+to be pushed around, rather than being a horrible monster from the get-go.
+
+At the beginning of the story, Franz suddenly opens his eyes in his office and realises that he forgot absolutely
+everything, including his name and who he is, and what is he doing etc. etc. He goes to look into a mirror, and what
+he sees on the other side of the glass (and after looking at his hands and body) is a twelve-year old boy at best.
+
+Suddenly, some other lower-ranked officers come into his office to clear some stuff, and Franz has to fake that he
+knows what's going on. During this, he learns his name. He finds it strange enough that none of the man question
+that he either is, or at least looks like a child (but does he really?).
+
+Throughout the story, he learns about what is going on in Germany, but because he is not indoctrinated slowly but
+rather immediately thrown into the dark and gritty parts of the Nazi regime (since he lost his memory and just
+immediately experiences hardcore Nazi stuff), he does not share the ideology and is horrified at what is going on.
+
+And so sevelar things are going on for Franz, first he has to learn how to act not to arouse suspicion, then he thinks
+that he should probably do something, since he actually seems to have a lot of power within the state, but then, he
+also thinks that he is in grave danger at his position, since he may get discovered at any time and that could probably
+net him a short drop and a sudden stop, if not a shooting squad. Then he also has to rediscover his connections with
+other people and how he lived his life (for some time not realizing that he has a heavily indoctrinated aryan Nazi wife).
+
+In numerous situations, he is close to being discovered but just barely manages to bullshit his way through. At the same
+time, he also wonders why no one questions the fact that he is a small kid, and finds it strange that big rough tough
+Nazis listen to him.
+
+There is also a strange divide and it is something that is perplexing to him, and that is that on one hand, he knows
+how reprehensible and horrible the stuff the Nazis are doing is, but on the other hand, the top-rank Nazi officers seem
+like such nice people and treat Franz with respect, dignity and friendliness, inviting him for fun activities and doing
+nice gestures. And so he tries to figure out how come that people like these are keeping in operation a machine that
+kills thousands a day.
+
+Over the course of the story, he also gets involved with the resistance, unwittingly running into them and nearly introducing
+collective heart attacks (because top-rank Nazi Franz discovered them), but then it comes to light that this Franz is
+not a Nazi at all really. And he is perplexed because these people are nice to him as well, although suspicious
+and threatening at first. So why the hell is there so much evil? Where is it hiding?
+
+In another venture, Rudolf Höss comes to pick him up for a dinner with The Führer. During the dinner, he has to
+endure Hitler's rants and also pretend to be able of dispensing the right kind of top Nazi table talk, lest he arouses
+suspicion. He finds that Hitler is a really strange person and much different than what the media portrays, on one
+hand showing a clear artistic, animal-loving and intellectual side, but on the other dispensing hateful, anti-semitic
+and racist remarks that completely dehumanize 'enemies' of The Reich. And this allows Franz to make a better picture
+about how it came to be, branding Hitler in his mind as a corrupt and turncoat-ish intellectual. Near the end of the
+evening, Franz fucks up by being unable to remember an important fact, but Höss surprisingly does a friendly gesture
+and saves him from trouble, before causally mentioning that they need to expand the corpse disposal unit at Auschwitz.
+
+In the latter part of the story, Franz is able to piece together an image of the German society and what is going on
+with people. He divorces his absolutely corrupt and indoctrinated Nazi wife on grounds of 'not being Nazi enough',
+which everyone buys, and starts a little more than friendship with a girl from the resistance.
+
+Near the end of the story, he has collected a lot of information about the inner workings of the party and the Reich
+and many state secrets, not to mention secrets of the Nazi officials. Franz then manages to covertly sabotage a large
+communications facility, which allows resitance fighters to carry out a hit at two weapons factories. Through the
+resistance's help and setup through his Nazi connections, he is then able to provide a lot of weaponry for the resitance
+fighters and is also able to fake his death.
+
+Tiny Franz and the girls then covertly travel to the US where Franz contacts and joins the CIA, providing a lot of
+important intel, which might be enough to turn the tide of war.
+
+A few years later, Tiny Franz now looking as a young adult reads the memoirs and writings of Rudolf Höss, the part
+where he realizes the gravity of his crimes and gives advice to other people and especially his son, how to conduct
+themselves as not to not fall into the same ideological pit as he did. The road to hell is paved with good
+intentions and bad eyesight.
