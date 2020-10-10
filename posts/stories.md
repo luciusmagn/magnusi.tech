@@ -105,7 +105,7 @@ After some time of this going on, the fiancé decides that there is no way forwa
 decides to stop being a little bitchboi and start acting like a responsible adult, and not a piece
 of shit who lets problems grow too big and then yeets themself out of a relationship when they become
 untenable, so he just barges into her room to hug her, kiss her and restate his love. Possibly
-also rings favorite food.
+also brings favorite food.
 
 The astronaut is moved by the gesture greatly and decides that it is a good time to rehabilitate,
 and so, small steps at first, she starts by reentering her household, and then re-entering the
@@ -117,7 +117,7 @@ who jumped her because he recognized her as the astronaut. The creepy man profes
 that she is not, in fact, an alien, and then tries to rape her. However, she destroys the man
 through alien power (either something tame like gaping maws and shapeshifting, or if I am given drinks
 and motivation, I could write something gory and disgusting, like tentacles sprouting out of
-her vagina, tearing off the man's penis and then sucking him back down there as a gross unbirthing act id,
+her vagina, tearing off the man's penis and then sucking him back down there as a gross unbirthing act idk,
 or he could just be murdered by non-descript black goo, I dunno). This, however, reveals to her
 that she is the alien.
 
@@ -128,14 +128,14 @@ all. Now it is pretty much the woman in a different, alien, yet very convincingl
 
 The realization of this devastates the woman and she is put into a sort of a mental schism. On one hand,
 she realizes she is the alien, but on the other, she still feels the alien to be a foreign presence,
-like it is something inside of her that she gets to rid of. And so she tries to harm herself in
+like it is something inside of her that she needs to get to rid of. And so she tries to harm herself in
 an effort to 'remove the alien', but this does not work, since the whole of her is
 the alien, not to mention it is under normal conditions indistinguishable from human tissue.
 
 Eventually, she tries to commit suicide but fails because as the alien, she has a much increased
 healing factor.
 
-After stipulations, long reasoning, and interactions with her fiancé, friends, and family, she
+After hurdles, long reasoning, and interactions with her fiancé, friends, and family, she
 decides that life is worth living, even like this, and vows not to hurt anyone innocent, a vow
 which she will keep. She comes to terms with the fact that she is an alien and just takes it as
 a part of who she is right now.
@@ -164,7 +164,7 @@ about the old times, and the people that they used to know who worked at the hos
 so on.
 
 After a few visits, the black reluctantly divulges that he will be retiring soon too, that
-he has some health issued and that he cannot manage the difficult hospital work for that
+he has some health issues and that he cannot manage the difficult hospital work for that
 much longer. He states to white that he could use a golf partner.
 
 White then starts crying, and so does black. It is because inside they know, that with this,
@@ -279,11 +279,11 @@ to the farm, but to each other as well.
 Eventually, the restrictions are lifted from deliveries, so they can get some basic stuff delivered
 to them, although money is short at first until they figure out that they can each do
 little jobs over the internet in their respective fields to earn a little money. But still, it is
-only a little money and neither of them was particularly (maybe one of them perma-broke, and the other
+only a little money and neither of them was particularly rich (maybe one of them perma-broke, and the other
 slow high-earner (not getting paid that often, but it is a bigger amount), slow spender?), so they
 have to figure out how to budget for food and for other things they need.
 
-When the wolf is from the door, so to speak, a way is opened for more high-level issues and things
+When the wolf is away from the door, so to speak, a way is opened for more high-level issues and things
 to consider. One of them is boredom and how to deal with it. Eventually, they figure out that something
 new they can do know is transfer skills, the woman teaches the man some of the things she can do, and
 so does the man. They also both pick up new, more nature-bound hobbies, for example gardening,
@@ -457,3 +457,63 @@ A few years later, Tiny Franz now looking like a young adult reads the memoirs a
 where he realizes the gravity of his crimes and gives advice to other people and especially his son, how to conduct
 themselves as to not fall into the same ideological pit as he did. The road to hell is paved with good
 intentions and bad eyesight.
+
+# leaving
+
+A series of events led one fella to feeling depressed and disappointed with the world. Everything is for him dull
+and gray, and everything only irritates him. He walks through his days as if they were a chore, just an amount of
+hours before he can go to sleep and skip to the next day at which point the cycle repeats. He is lonely and deprived but
+those are completely shadowed by feelings of misery and resentment. He is resentful about the world as a whole
+and he feels he has been dealt a bad hand. In his eyes, living seems kind of tone-deaf, it is just all the same,
+and this same is misery.
+
+He tries seeking solace in some vices and is tempted by hard and less than legal activities, but he drops the idea
+when he realizes it is no help. One day, he gets so irritated by social media, that he decides to leave them and deletes
+all of his accounts. This helps a bit, as he now he one less thing to worry about, and it briefly catches the attention
+of the people around him.
+
+But still, it is no good, the world is still dull, gray and tone deaf. He is still very irritated and after an altercation
+decides to covertly leave his friends, slowly stopping to respond and participates, until he fades away from their
+minds and hearts. Still, it is no help, and soon enough, everything is back to the status quo.
+
+After getting fed up with his family because he feels they are apathethic to his issues, he leaves his family and the
+city to go live in the countryside in a small village. However, when he is there, although he finds the place more
+peaceful, he cannot stand the village folk, feeling that they are all the same measure ignorant. Eventually, he gets
+once again extremely irrateted and so he leaves the country to go live in a small city in Alaska. Same thing, no
+change.
+
+For some time, he tries living there but he is unable to come to terms even with the small-town world of Alaska and
+so he leaves society as a whole, deciding to live as a recluse in the wilderness and do what he can on his own,
+essentially being pretty much completely removed from human contact.
+
+But the man is still miserable and so he eventually 'leaves' the world. After some uncertainty and strange dreamlike
+things, he meets what appears to be God, and he asks him: "Did you get enough love?" The man gets immediately ready
+to angrily respond "No!", but then he stops and thinks for a moment, responding: "I don't know." Everything then
+becomes white and bright, until the man suddenly comes to his senses right in the moment when he was about to delete
+the first of his social media accounts.
+
+He stop for a moment, then opts to not delete this account and only delete some. He then takes a look around and
+notices the world slowly returning the color, and a notion of melody of the world coming into being. He then
+decides to call up his bestfriend, ready to actually share his problems.
+
+# crab
+
+A crab is let out in the world, not knowing why and what is going on. All he knows is that he must find one man
+and pinch him. The crab is amazed by the world and is curious about everything there is to examine. The nature,
+the rivers, the cities and the humans.
+
+The crab then tries to decipher some bits of how the universe works, in particular how people work, noting the
+strangeness of some of the things they do. But regardless, he goes where he has to go and all he knows is he
+must pinch.
+
+Over his journey, he meets other animals and several different people with whom he has various interactions, some
+funny, some confusing, some life threatening. But overall, the crab considers the world a nice and positive place,
+having many wholesome experiences.
+
+Eventually, he finds the man he is supposed to pinch and it is Heracles. However, after pinching him while he is
+fighting a large monster, Heracles just hardly steps on the crab with his other foot, fatally injuring him.
+
+In his final moments, the crab is panicking and perplexed, why was he treated this way, since he only did what
+he was supposed to do. The story ends with the crab ascending into Heaven before being immortalized as a
+star constellation.
+
