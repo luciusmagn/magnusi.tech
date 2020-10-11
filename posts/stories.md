@@ -517,3 +517,143 @@ In his final moments, the crab is panicking and perplexed, why was he treated th
 he was supposed to do. The story ends with the crab ascending into Heaven before being immortalized as a
 star constellation.
 
+# nightcall
+
+A man stumbles out in the rain. He is a professional driver turned mob hitman. At first, his marks
+were only big time criminals, but slowly, his employers were trying to push him towards more innocent
+targets. Tonight, he reached his breaking point after being tasked to kill a gun moll for 'disobedience'.
+Thing is, he even knew her, she was working as a secretary for one of the big bosses within the mob and
+so she heard her voice on the phone multiple times. As it was important that the bosses are never seen
+with a hitman, he has never seen her face though. He got paid beforehand, but tonight, there will be no killing.
+He just decided to quit, and so he slowly stumbles to his car.
+
+Suddenly, he can spot a crying, panicking woman running accross the street before collapsing onto her knees
+and falling by the side of one of the bushes that line the street. Her makeup is all messed up, not just from
+the rain but from crying also, her eyeliner is a complete mess.
+
+The woman sees the man as well, and they feel a certain connection. The man helps her up on her feet and without
+saying anything, they both go to his car, and drive off into the night.
+
+For the first few hours, they are driving without sense or direction, just away from the place where they were,
+and still not a word leaves either of their mouths. The narrator of this story keeps switching between the woman's
+perspective, the man's perspective and an outside perspective very quickly, to disclose what each of them
+is thinking about the other person.
+
+They still aren't speaking, but it stands to reason that they should probably escape the country, which happens
+to be the USA, and go to Europe perhaps. They both kind of figure this out independently of each other, since none
+of them is speaking to the other. Unfortunately, they are on the West coast, in Washington, and they need to
+drive all the way to the East coast to be able to board a ship with the car and escape.
+
+The car is an old Ford, kept in a nearly perfect condition, a true vintage car, and a staple of the old-timey
+Americana. The man has a personal/sentimental connection to the vehicle, and cherishes it greatly. Meanwhile
+the woman thinks the car looks really nice, but that is all that there is to it.
+
+The man recently became 32 years old and the woman is halfway past 26. The man is older, but he is still at
+the beginning of one of life's decades (and all of them are a new world), whereas the woman is younger, but
+she is comfortable in the age range in which she is.
+
+During their journey, the slowly become closer, although still not speaking, they are basically deadlocked in
+a state where no one of them wants to admit to the other they can speak. They are making stops for fuel, food
+and other basic things - money isn't an issue, the man has a very large sum of money from his hits. Whenever
+just one of them leaves the car, they speak just fine, but if it is both of them, neither of them utters a word.
+
+To kind of step around the problem, both of them become really good at reading the body language and non-verbal
+cues of the other, not to mention them developing signs for certain things. In a sense, they are still able
+to establish a common tongue without speaking.
+
+Some time into the journey, each of them slowly comes to the realization that their situation, the places they
+are in, the thing they are doing, is untenable. They cannot continue forever like this. But none of them want
+to hint at this to the other because they do not want (hurt?) let on that they realized something that takes
+away from this dream state they are in.
+
+Throughout the story, they sometimes have to stealthily evade criminals and also law enforcement, and the man,
+in opportune moments (out of her sight) keeps getting rid of his hitman 'toolkit', both for law reasons and to
+signify that he is done with that type of life. Meanwhile the woman stops being so shaken up by the unspecified
+events and so she becomes more relaxed and sometimes even playful. Still, none of them speak.
+
+The car becomes a staple of their journey, they spend most of their time in it, they sleep in it, and regardless
+what they do, they always return to it. Eventually, they also have sex in it. The things they see outside of the
+car bring up emotions and memories, ones which are told by the narrator and explain the histories and mindsets of
+both of the characters.
+
+The narrator also closely watches how both their characters evolve during the journey, although they realize
+how difficult and dangerous their journey is, they become less tense and more human, in a sense. Eventually
+even making stops that are unnecessary or even for entertainment, like a fun fair. The woman vaguely keeps
+thinking about the man with whom she was before, whereas for the man, the victims from his past, although
+deplorable criminals return to haunt him. And so the man's thoughts and reasoning is particularly centered
+about morality and the question whether it is okay to kill someone else for reasons other than defense,
+and the woman is trying to figure out how interpersonal relationships work, how the hell does she keep
+failing hers.
+
+Near the end of their American journey, the big mob boss becomes angry with the incompetence of his lackeys and
+decides that if you want something done right, you better do it yourself. The hitman's advantage is that they
+do not know that the woman is with him (not even from the previous encounters), and so the two of them can
+manouver around quite effectively. The woman knows how to use guns as well, for some reason, and so by the
+use of cunning and the profound non-verbal communication they developed, they are able to take the mob boss
+down and escape, putting an end to their mob problem.
+
+A few days after this last big encounter, they reach the coast and the man buys a ferry ticket for the two
+of them and the car (which is a little scuffed at this point), to the UK. The narrator then reveals that the
+woman is the gun moll the man was supposed to kill what made him quit his job - but he did not know because
+he only knew her name and voice and both of those stayed hidden from him through the journey - and the woman
+was the one who passed several jobs through the phone to the man and was supposed to hire a hitman to kill
+the man, but did not due to relationship issues with the mob boss, with whom she had an affair, which resulted
+in the man being hired to kill her.
+
+At the very end, the two of them are standing on the deck of the ferry watching both stars and the sea waves
+which glisten with the moon reflecting off of them. The woman then loudly sighs (partially out of relief,
+partially out of stress) turns to the man and opens her mouth as if to speak. The end, bam, bye-bye.
+
+# astronomy
+
+A woman and her friend become interested in astronomy after watching the stars together since early childhood.
+It is the 19th century, so the world is a very different place. They live in Coppenhagen and there are stories
+of a young reclusive and mysterious astronomer, who is hard to get ahold of. He is a young guy, looking to be
+of Danish nobility, with not so long wavy/curly hair, a slight figure, sideburns and somewhat attention-grabbing
+sad blue eyes. He is notoriously hard to find, moving between places often and going out into the nature
+to stargaze away from any civilization. He also has some closer unspecified qualities that make people think
+(well, it was kind of normal to think strange things about reclusive people during that time) that he has
+some other-worldy/supernatural quality, like a ghost or something. Which is of course unproven, but it is
+a reason that the common folk avoids the astronomer as well.
+
+The woman and the friend become instantly attracted to the idea of such a mysterious guy and so after some
+investigations, they manage to track him down and ask him to teach them. The astronomer reluctantly accepts and lets
+them into his domain. As it turns out, the astronomer is much more than just a scientist, in fact, in comparison
+to other astronomers, perhaps the science aspect can be considered wanting rather than satisfactory.
+
+He observes the constellations and than makes paintings of them, all of which are sad and gloomy, but also
+extremely beautiful, especially to the woman. He also tries inventing new constellations and painting them
+as well, producing the exact same type of painting as with the real constellations.
+
+The two women meet with him several times, in the first few meetings, he teaches them how to use astronomy
+equipment, how to be a proper stargazer and how to orient oneself in the starchart and the night sky. Then
+he starts going through the constellations and very poetically telling their stories, embellishing them with
+details that make them more emotional and tragic. He does the same for some of the constellations he invented.
+
+Eventually, the friend starts attending less meetings and excusing herself from some, while the woman
+perseveres. In the woman we observe a broadening of horizons and a (re-)activation of an aspect of her
+personality she never thought she had. She learns from the man all she can, which happens to be all he
+can teach her, and the journey culminates in the two of them going out into the nature, far away from
+any city to watch the stars. Together, they notice that a somewhat bright star has suddenly appeared
+where none were found before. The astronomer then rather happily proclaims the woman to be a full-fledged
+astronomer.
+
+A few days later, the astronomer disappears without a trace, and it looks like he left all of his belongings
+and paintings behind. The woman, enlisting the help of her reluctant friend tries checking all the places
+where they have been meeting but to no avail, it seems like he is gone. Eventually, the law enforcement
+gets involved, but they don't find him either. However, thanks to them, the existence of the astronomers
+beautiful paintings comes to light which immediately makes him extremely popular for his artistic skill,
+especially noting the emotions the paintings convey. But no one from the population really cares about him
+as a person, i.e. that he disappeared and that he might be dead. The police is quick to finish the investigation.
+
+After reading about him in the newspaper, a *certain* Danish mean proclaims this:
+"What is an artist? An unhappy man who hides deep anguish in his heart, but whose lips are so
+formed that when the sigh and cry pass through them, it sounds like lovely music.... And people
+flock around the poet and say: 'Sing again soon' - that is, 'May new sufferings torment your soul but
+your lips be fashioned as before, for the cry would only frighten us, but the music, that is blissful."
+
+The woman is shook and so her friend a little bit as well, but the friend eventually becomes indifferent.
+Some time later, the astronomer's will is found and in it it is revealed that he passes all of his belongings,
+especially the astronomy equipment to her. The woman then picks up the torch and tries to invent a story
+with a new constellation that incorporates the star they found. But this time, the story and the painting
+is hopeful and bright, and not sad and gloomy at all.
