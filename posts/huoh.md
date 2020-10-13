@@ -6520,8 +6520,6 @@ fully become a reality..."
 
 "Goodbye, and blessings of Xexanoth," the paladin said.
 
-<div id="alma"></div>
-
 # SECOND MIST
 
 A different place, a different time.
@@ -6793,4 +6791,337 @@ A quite perplexed Jay emerged out of the building.
 
 This was a lot to process, he thought.
 
-"Come," beckoned the Egyptian kid in a jackal/wolf hood.
+"Come," beckoned the Egyptian kid in a jackal or wolf hood.
+
+<div id="alma"></div>
+
+# MISSION 0: ANTENNA
+
+__Neiro picked up: makeshift porter harness.__
+
+__Neiro picked up: wire spool.__
+
+__Neiro picked up: antenna piece x3.__
+
+__Neiro picked up: wire cutter and pliers.__
+
+__Neiro picked up: walkie-talkie.__
+
+Horus: "Alright, Neiro, can you hear me? Make sure to press and hold the large button on the side when you are answering.
+Also remember that walkie-talkies are a simplex device, so you won't hear anything I say until you let go
+of the push-to-talk button. Over."
+
+Neiro: "Okay, I get it. Didn't you say you were coming too?"
+
+Horus: "In spirit only. Make sure you use your free hand to unspool the wire ahead of time, in most cases, you probably
+do not want the wire to have any tension and move around, as it may arouse suspicion. Over."
+
+Neiro started unspooling wire and slowly going forward. The warehouses around looked abandoned,
+but she could see light in one smaller building attached to one of them. Maybe someone is hiding
+there. It was kind of hard to see, as it was still night and she was not using a flashlight,
+which was a wise choice, since it might attract attention.
+
+Suddenly, she heard a sound.
+
+Neiro: "Horus? What to do, if I meet someone?"
+
+Horus: "If it is one of those black soldiers, just shut him down, someone else - run. Remember that you
+can only shut down so many soldiers before you get too tired, so better not to do anything attention grabbing. Over"
+
+Neiro then carefully continued ahead. None of the other warehouses suggested any signs of intelligent life.
+Eventually she reached the building where she was supposed to attach the antenna. She tried the front door.
+
+Locked.
+
+She tried a door that was on the side.
+
+Locked and chained.
+
+Shabby door in the back. Locked, but it was so rotten that she might be able to break.
+
+Kick.
+
+Kick.
+
+Kick.
+
+Shoulder bash.
+
+No luck - there must be something propped up behind the door which is preventing Neiro from
+breaking inside.
+
+Neiro stepped a few steps back to look at the building - apparently there was a fire escape
+staircase on the side, maybe she can use that.
+
+She then went over to it, but unfortunately, the last few steps  were missing.
+Most people with a bit of muscle wouldn't have that much trouble reaching up and
+climbing on the steps that were already there, but Neiro was, god forbid, short.
+
+Neiro: "Uh, Horus, I can only take the fire escape to get up the building but I can't... reach it."
+
+Horus: "Is it because you are too... short for it? \*light laughter sounds in the radio\* Over."
+
+Neiro: "No I'M NOT YOU STINKY OLD MAN!"
+
+Horus: "Sure, you have some pretty strong cable at your disposal, it ain't exactly the perfect climbing
+gear, but methinks it shall suffice. see if you can throw the wire over some pipe or something, then grab
+both ends with with your hands, prop your feet against the wall and climb until you can reach it. Keep in mind
+that you will have to grab both ends with your other hand when you will be reaching for the stairs, or else
+the wire will slip. Over."
+
+Neiro: "Okay?"
+
+__Neiro unlocked skill: wire climbing__
+
+She then tried to follow the instructions. Just as Horus suggested, there was a pipe sticking out near the wall,
+parallel to it. It looked like someone rigged the fire escape staircase with this scaffolding pipe, so it ought
+to support Neiro's weight while climbing.
+
+First throw attempt failed.
+
+Second throw attempt failed.
+
+Neiro was getting a little bit irritated.
+
+Third throw attempt successful.
+
+Alright, now she had the wire over the pipe and could climbed. She remembered she needs to hold both ends at
+once or she will come plummeting down. It was not exactly a lethal height, but it would hurt or maybe break
+a bone if it was a bad angle.
+
+Neiro started to climb, but it turned to be a very easy task, she lacked the muscle mass. She made it three steps
+up the wall before her arms started to twitch from overexertion and she slipped back down some a bit.
+
+She let herself descend all the way back to the ground and moved her arms around to relieve tension and muscle
+pain. She also took a few deep breaths. Okay, she was psyched up now.
+
+Rush time.
+
+One step, second step, another step, yet another step, slip, tumble. Apart from lacking physical strength,
+Neiro also had no gloves and the wire was kind of thin and not overly suited for climbing, so her hands hurt
+and when she slipped, she got slight rag-burn on them.
+
+__Minimum skill requirements not met: wire climbing__
+
+Alright, she could not climb it like this, she had to simplify it somewhat. Neiro stopped to think for
+a moment, then unspooled several meters of the wire so that the wire she threw up stays there while
+she goes to look around.
+
+Hah, there it was, she discovered a crate around the corner of the building. Luckily it was empty.
+Neiro then pushed the crate under the fire escape stairs and climbed on top of it. Because the wires
+were becoming messy, she wound up the spool again so that they wouldn't be lying around. Normally, she
+would not have thought to do this, but she nearly tripped over the wire a second ago.
+
+She still used the wires for support, but she was now quite comfortably able to climb up. Neiro then
+proceeded to ascend the stairs. Being high in the air during night was a little discomforting, but
+she could manage. She did not feel too much vertigo.
+
+Clank. Clank. Clank.
+
+The pieces of the antenna were hitting the bars in the railing. The loud sounds might attract attention.
+Neiro used her right hand to hold the pieces in place.
+
+Finally, Neiro managed to reach the top of the building. Since the building was tall, it was quite a vintage
+point. Neiro could see a large part of the city. Towards the center and especially in the west area, there
+was light in the windows of the buildings.
+
+Neiro: "Uh, how do I attach the antenna?"
+
+Horus: "Screw in the pieces together and put it on the ground with the thiccest one at the bottom.
+Then use your pliers to knock at the pin that is in the side. Loki figured out that we can use gunpowder
+ignition to drive a spike into the ground. So it will be pretty loud. Just lay down for a moment afterwards,
+no one should figure out where you are. Once the antenna is firmly planted in the ground, unspool a little
+bit of your wire then cut it. Then put in to the hole next to the screw and screw the nut in as best as
+you can with the pliers. Over."
+
+Neiro then connected the parts if the antenna and propped it up on the ground, standing on a piece of metal
+at the bottom of the antenna to keep it upright while she held the pliers in one hand and the walkie talkie
+in the other.
+
+Neiro: "So now I just hit it righ- __BANG!__ Aaaa."
+
+She flinched as the loud bang startled her.
+
+Horus: "You okay? Over."
+
+Neiro: "WHY WAS IT SO LOUD"
+
+Horus: "It's gunpowder. Over."
+
+Neiro: "But... *grrr*"
+
+She suddenly heard some commotion nearby. Neiro laid on the ground and tried to not make any sound.
+
+A few agonizing moments later, all was silent again.
+
+Neiro then got back up and connected the wire per instruction.
+
+__Objective accomplished: Connect antenna.__
+
+Neiro: "Okay, I connected the antenna."
+
+Horus: "Fine now co-" Loki: "Maan, Neiro, girl, can you like screw it in a lil' tighter? Don't wanny
+the wire loose brah. Cheers b, I'm out for a smoke."
+
+Horus: "Alright, do that, then come back here. Over."
+
+Once it was as tight as Neiro could make it, she went down the staircase. One one hand, she could have used
+the wire and went down slowly and carefully. On the other hand - jump down.
+
+Unfortunately the landing was too hard on the crate, so it broke and Neiro fell inside. Her hand got scratched
+by the wood and she picked up a splinter or two.
+
+She then murmured to herself a "goddammit" and freed herself from the wooden remnants.
+
+Neiro then went back the way she came from, being able to follow the wire she laid down while
+going to connect the antenna.
+
+The only window that was lit on her way there was now dark, the person probably went elsewhere.
+
+A blue butterfly crossed Neiro's path unexpectedly. It had blue wings with a black edge, and somehow, it
+made the most out of the little light that was shone by the dark sky, enough that it was visible that it
+was blue.
+
+Neiro stopped for a second to look at it.
+
+Heavens, someone grabbed her and started to drag her away. Neiro was shocked and started punching and kicking
+around before noticing that it was one of the black soldiers, mindlessly dragging her towards the city. He must
+have been attracted by the charge in the antenna going off.
+
+Neiro could not focus enough to be able to use her abilities on the soldier, since she was surprised and
+panicking right now.
+
+She started to breath deeply and try to pull herself together. Okay, breathe in, breathe out, breathe in,
+breathe out. There we go, let's try now.
+
+The soldier suddenly let go of her as if she was a sack of potatoes one would just drop onto the ground.
+He dropped his rifle as well.
+
+Neiro picked it up and ran back not caring about anything or sounds.
+
+__Neiro picked up: Sentinel dual-mode lethal/non-lethal rifle.__
+
+__Objective accomplished: Get back to the base of operations.__
+
+She ran inside the warehouse, where Loki was slumped over the couch drawing some doodles
+into the dust and grime on the floor. "Cheers", he said.
+
+Neiro did a long sigh and without saying anything went into the truck, since it was the only other place
+where Horus could have been. And indeed, he was.
+
+"Congrats, good job, we got the antenna connected perfectly, now we can broadcast and listen to a much
+bigger part of the city, thanks to you. Maybe we will be able to find some other people to help us. Why
+are you so sweaty and what's up with that face?"
+
+"Cigar."
+
+"Well, that's one way to put it. Fair enough," responded Horus, pulling out a cigar and a lighter. He then
+lit it and pulled in a few times in quick succession. "There you go."
+
+Neiro pulled in, calmed down and after few more puffs, she explained what happened to her on the way back
+and presented the rifle.
+
+"I see, well, we will have to be more careful about them. Have some rest if you need to. It's not like we
+are in a hurry to do anything right now. We are sitting ducks."
+
+__Mission accomplished: Antenna__
+
+.
+
+.
+
+.
+
+"Oh, darn. I miscalibrated the radio, must have been unpleasant to anyone listening in."
+
+.
+
+.
+
+"There we go, this should be it. Let's try going through the frequencies and see if we catch something.
+Neiro, Loki, come here. Loki? Looki?"
+
+Neiro sat down next to Horus, listening intently. Loki was nowhere to be found, probably went for a walk
+again.
+
+.
+
+.
+
+.
+
+"Nothing on FM radio it seems, only just random sounds here and there, it's probably accidental emission
+by machinery or something. Let's try AM."
+
+.
+
+.
+
+.
+
+Neiro suddenly heard a familiar voice and a chill ran down her spine. The quality wasn't top notch, but
+there was no mistake - it was Nella. It was a message calling out if there is anyone there, that they are
+trapped.
+
+What was she doing here?
+
+Both Neiro and Horus started speaking into the microphone: "Hello? Anyone there? Hello? Can you hear us?
+Hello?"
+
+A few moments later, scrambling could be heard and then a voice responded: "Hello? Yes, I can hear you,
+who are you?"
+
+Horus: "Yes, we can, we are trapped as well in the indus-" __cut off by Neiro.__
+
+Neiro: "Nella?"
+
+Nella: "... Neiro?"
+
+The both of them went silent for a moment.
+
+Neiro: "Yes?"
+
+Nella: "..."
+
+Neiro: "Why are you in The City?"
+
+Nella: "...Someone sent me package here, I was to pick it up. I wanted to call you."
+
+Neiro: "Yeah, me... where are you?"
+
+Nella: "We are in the bistro, there is another girl, Zora, with me, picked her up on the way. Has crutches,
+troublesome."
+
+Neiro: "My old bistro?"
+
+Nella: "Yes. We ended up here by coincidence after escaping from those things."
+
+Horus: "Alright, so Neiro knows where you are, that's good. How are you doing regarding living
+conditions? I am Horus, by the way, that's H-O-R-U-S, No 'Ace' in there. Do you have food, water,
+electricity, heat, shelter?"
+
+Nella: "We barely have enough. We ate some food package."
+
+Neiro: "Can you come here? We are in a warehouse in the abandoned industrial zone."
+
+Nella: "Isn't that on the other side of the river and very far from us? Zora has a broken leg,
+can't walk."
+
+Neiro: "Oh."
+
+Horus: "Neiro, Val lives on the other side of the river right? Maybe they could go to his place
+and we can then pick up all of them at once."
+
+Nella: "Where is he?"
+
+Horus: "Pretty far up north, I don't know the exact address, I am new to The City. Neiro?"
+
+Neiro: "Gay drive, house number 420. It should be straight ahead if you go by the river."
+
+Nella: "Okay, but it will take time for us to travel all the way up there."
+
+Horus: "Fair enough, we will keep this line open for now, so you can speak to us.
+Hopefully, see you soon."
+
+Neiro: "... Bye."
+
