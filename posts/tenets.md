@@ -1,4 +1,4 @@
-tags = ["magnusi"]
+tags = ["peterson", "jung", "hemingway", "others"]
 title = "100 Tenets for a better existence"
 
 1. Assume the person you are listening to might know something you don't. Listen to them hard enough so that they will share it with you
