@@ -7126,3 +7126,7 @@ Hopefully, see you soon."
 Neiro: "... Bye."
 
 __Experience gained: moderate__
+
+# EPISODE 1: FIRA
+
+
