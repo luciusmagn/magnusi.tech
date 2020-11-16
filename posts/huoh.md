@@ -6793,7 +6793,6 @@ This was a lot to process, he thought.
 
 "Come," beckoned the Egyptian kid in a jackal or wolf hood.
 
-<div id="alma"></div>
 
 # MISSION 0: ANTENNA
 
@@ -7127,6 +7126,1024 @@ Neiro: "... Bye."
 
 __Experience gained: moderate__
 
+<div id="alma"></div>
+
 # EPISODE 1: FIRA
 
+Someone's banging on the door.
 
+"Hello? Are you alive? It's quite late already."
+
+The voice belongs to Rhatholei, the paladin.
+
+"Are you awake, yet? Fria?" he continued.
+
+Fira had as messy wakeup as one can be. Her head still hurt a little and she did not have
+a particularly good night, kept seeing some strange flashes and had bizarre nightmares with
+things that confused her.
+
+Her cheek felt like it was burning.
+
+It took her a moment to realize someone is calling out for her. Even when she was completely
+okay, waking up wasn't one of Fira's strengths.
+
+"Wh- hello? Awake yes?" Fira responded half-asleep.
+
+"Oh, blessings, I was worried you left early without me or that something happened to you,"
+responded Rhatholei with relief.
+
+"I'm... fine," came out of the room.
+
+There was no mirror in the room, but there was a wooden tub filled with what was at this point
+cold water. She could use its reflection.
+
+There was a fireplace in the room, and although she did not use it, there was still soot and
+smut from earlier, which she could use to further obscure her hair color.
+
+She did so and fixed up her hair, once again tying it back so its out of her face and can
+be hidden under the hood of her peculiar apparel.
+
+"I will wait for you down in the inn," finished Rhatholei and walked away.
+
+Fira really needed to drink some water, as she was severely dehydrated. There was a pitcher,
+luckily.
+
+She drank about half of it, it was quite refreshing.
+
+Then, she slumped back on the bed for a moment again. How can one wake up and be in such a
+state? Surely, it cant be the beer she drank yesterday. But if you combine it with the
+head injury, the journey and the rapey fellow, it might make sense.
+
+She was, however, eager to follow Rhatholei since she really needed a better way to protect
+herself.
+
+Fira quickly sprung up to her feet again.
+
+That was a mistake. Her vision went strange and blurry and she was caught in a spell of
+vertigo.
+
+There was a sharp pain in her head.
+
+"Aaargh, it hurts," Fira complained leaning on the cupboard in her room. She suddenly
+started seeing flashes again.
+
+Her hand is bloody and her clothes are different. She is confused and angry.
+Sounds are muffled, and yet, she keeps swearing.
+
+It is not her hand that is injured, but her leg. She was holding her hand over the
+wound.
+
+It hurts, she can hear people speaking.
+
+She grabs the cupboard tightly and starts breathing fast.
+
+Fira looks at her hand again and sees that it's gone back to normal, the wound is gone
+as well.
+
+She closes her eyes and takes a deep breath. A vague image of a 'red' woman appears to
+her.
+
+Fira then opens her eyes and gets sick from the stomach, she grabs the pitcher nearby
+an starts vomitting into it.
+
+It's disgusting, but it helps. She is finally able to compose herself again.
+
+She reluctantly slurps a bit of the water from the tub and gargles for a few seconds
+before spitting it out. It's the only thing she can due to stave off the 'flavor' from
+her mouth.
+
+She then takes the rest of her things and heads out of the room and down into the inn.
+
+Rhatholei is waiting down for her: "Are you ready to go, Fria?"
+
+"Yea."
+
+"Bread?" Rhatholei says, throwing a small loaf of bread at her.
+
+Fira just starts eating it only responding with primordial sounds.
+
+The two then go outside where the paladin's steed is stabled.
+
+"Have you ever ridden a horse?"
+
+"No."
+
+"Well, that will be a first then. You are small enough to ride in front of me,
+which is safer, so we'll do that. Just don't do anything stupid."
+
+The two then went off to the village where the armorer was.
+
+.
+
+.
+
+.
+
+Elsewhere, in a different world.
+
+Nella was busy thinking about the best way they can get to Valentine's. If she were
+alone and if it wasnt dark, she thinks she could have gotten there within a day, but
+if its the two of them, it won't be an easy trip.
+
+But there was the main train station nearby, maybe they could hide there for a bit.
+
+"Zora, how fast can you walk? How silent?"
+
+"I am not too fast but I can manage, I think."
+
+"Hmmm..."
+
+Nella went over to the window and checked how many soldiers were there on the main
+street.
+
+About a dozen, a bit spread out, it isn't as bad as it was before, maybe they can sneak
+through the side alleys.
+
+"Neiro, Horus, hello? Hello?"
+
+The radio was silent for a moment, then a few scratching sounds came out of it and
+Horus responded.
+
+"Yes? I hear you, what's up?"
+
+"We are going to go to Valentine's, and we will stop by the main station, there is definitely
+a radio there. Will probably head towards the river next."
+
+"Alright, sounds good."
+
+"I need to know the frequency we're speaking on. This makeshift thing I made has no
+way to tell me."
+
+"Let me see. You are 820kHz AM, we'll be expecting you on this frequency."
+
+"Ok, got it."
+
+Over in the industrial zone, Horus picks up a walkie-talkie and speaks:
+"Neiro, come here. Over"
+
+Neiro meanwhile completely forgot she still had the device on her and lurched back, spilling
+some of the coffee she was just making.
+
+"What the fuck, couldn't you warn me? What is going on?"
+
+"Nella's on the radio again, they are about to leave for Val's. Over."
+
+Neiro put the coffee on one of the shelfs in the warehouse and went over to Horus, who
+was sitting on the radio in the truck.
+
+Loki was in the meantime on the ground tinkering with some wires and other components, at the
+moment, he had two of them stretched between two rods of sort and was trying to see if they
+support his weight.
+
+They did.
+
+"Fuckin slaps," he murmured to himself.
+
+...
+
+Neiro spoke to the radio: "Uh, hi. So you are leaving?"
+
+"Yeah, me and Zora are going to head over to the main station first, will talk to you then.
+Do you think Valentine has a radio?"
+
+"Umm, I am not sure, he has one at the bar, but I don't know if he's got one at home."
+
+Horus weighed in: "And he probably does not have an AM transmitter, but I understand you
+can build one?"
+
+"If I can salvage the parts, that is."
+
+Horus: "Alright."
+
+"Maybe I will take apart this one and carry what I can."
+
+"That makes sense. Anyways, it's a dangerous journey, be safe. Good luck."
+
+Neiro reluctantly wished them good luck as well, she did not really know what else to say.
+
+Zora also started paying attention: "So how are we going to get there?."
+
+"The station is near, must have been the one you came from. We will try to sneak over there,
+the night will help us."
+
+"Oooh."
+
+There was another MRE package waiting for them to eat, once again, they prepared it and
+restored some nutritients.
+
+Zora then asked: "Can I like help or something?"
+
+"Biggest help will be for you to be silent and just move carefully with your crutches.
+I will take our stuff," Nella retorted.
+
+She then took out the heating element from the marble tiles, it did come in handy, and
+packed it along with some MREs, the parts of the radio and some cutlery. You never know
+when you might need a kitchen knife, out there in the wild.
+
+Nella put all of these and two thin blankets into an old pillow case, and put holes into it
+and lead some rope through them. Now they have some rope in case they need it, and it
+also works as a makeshift backpack.
+
+The two women then put on their clothes and Nella checked the windows to see where the
+soldiers are.
+
+She would have to help Zora get out through the window, since the front door might be
+more noticeable.
+
+Nella silently opened the window and beckoned Zora to follow her. Nella climbed outside
+and checked the main street. With as much force she could muster, she lobbed a stone
+into a faraway window, loudly breaking it. This drew the attention of all of the soldiers
+who, quite expectedly, began to converge by that window.
+
+This was the opening she was hoping to create.
+
+"Shh! Come out, let's go," Nella loudly whispered.
+
+"Okay, I'm coming," Zora said climbing out the window with difficulty. The moment she was
+halfway out, Nella grabbed her and dragged her to the side-alley. This was a bit louder,
+but the soldiers did not hear it since they were still too far away.
+
+"We need to be quiet."
+
+"Got it."
+
+"Come, silently, be careful not to bump into anything."
+
+Nella went ahead through the narrow alley, Zora followed suit.
+
+The cybernetic ballerina had a plan prepared, she had a handful of stones ready, the intention
+was to create one opening after another for them to sneak through. Crossing main streets
+would be the most problematic.
+
+She could not be so liberal with doing that, since she might alert the previous group of
+soldiers and an ambush from the back was the last thing they needed.
+
+"Alright, after I throw this, they are going to go over there. On my signal, we are going
+to cross over to that alley, should be safe there."
+
+Sound of breaking glass.
+
+"3... 2... 1... let's go."
+
+They left their alley went started going accross the street, when Zora was surprised by
+a shiny blue butterfly with wings that have black edges flying into her face.
+
+The shock made her lose her footing and hit a trash can with one of her crutches. The
+trashcan made a loud metallic sound.
+
+Nella quickly grabbed her at put her back on her feet. Luckily they made it safely to
+the other side.
+
+"Didn't I tell you to be quiet?"
+
+"I'm sorry, there was a butterfly."
+
+Nella sighed and rubbed her temples. This is going to be a long journey.
+
+.
+
+.
+
+.
+
+Elsewhere, in a different world, Fira and Rhatholei have arrived to the village.
+It took a to get comfortable with the horse and sitting on the horse with Rhatholei behind
+her was a bit uncomfortable at first to her, whereas he did not think it strange at all.
+
+It's a common horse-riding practice after all, it's just that Fira had no idea about it.
+
+When they got off the horse by the armory in this village, the two of them went in and
+greeted the shopkeep.
+
+"Alright, you stay here and see what weapons you like, I need to ask around if they haven't
+seen the emissary around here, and I'll get back to you."
+
+"Welcome, lady, what can I offer you?"
+
+"I need a replacement for this. Too heavy I think."
+
+The older man thought for a bit, growling a little while doing so: "I see, this looks
+like a pretty rusty broadsword. A large one at that, I am surprised you managed to use
+it with your build."
+
+He then left the counter and walked over to one of the racks by the wall: "Take a look
+at our shortsword selection, maybe there will be something to your liking."
+
+These swords looked much more comfortable to Fria.
+
+"Can I swing this one around?"
+
+"Of course, just don't hit anything. Let me roll out the dummy."
+
+While 'Fria' was swinging the sword around, feeling very cool while doing so, the
+shopkeep had a training dummy prepared for her.
+
+"Try this, young lady."
+
+Fira then hit the dummy a few times with increasing amounts of force. It felt quite good,
+she was clearly letting out some steam.
+
+When she was done, she was sweating a little.
+
+"My, what a fierce fighter. Wouldn't like to see anyone who crossed you, haha."
+
+"Huh, thanks?" Fira said, panting a little.
+
+Another piece caught her eye - there was a selection of bows as well, including one
+that was had some etchings and decorations on it.
+
+"Can I try the bow?"
+
+"Sure you can, but you will need to train your muscles to little to use it. Bows are
+not as easy to use as it may seem."
+
+Fira then went outside and tried shooting it at a nearby tree. She managed to hit it,
+although it was not easy to pull the bow.
+
+However, she thought that it will be worth it to train with it.
+
+She went back to the shop, just in time for Rhatholei to return.
+
+"Unfortunately, I still had no luck in my mission. The emissary is one elusive woman.
+Just gotta bring her back safely. What do you have there."
+
+"I'm thinking this sword and this bow?"
+
+"Hmm, I see, that is a fair looking sword. I think it will suit you."
+
+"Thanks."
+
+"And the bow, hmm, looks nice. It will probably take some training."
+
+"Yeah, the man already told me."
+
+They then went for the purchase, but Fira was a few coins short.
+
+She did not want to choose.
+
+"How about I pay for the sword and you pay for the bow. What do you say, Fria?"
+
+"Okay, thanks."
+
+The two then left the shop.
+
+"My next stop is a monastery half an hour from here. Will you come as well?"
+
+"Sure, I can."
+
+"We need to backtrack a little, but it should not be an issue for you."
+
+"Guess I don't really need to go to the sea after all."
+
+Fira figured out that maybe this was the best place to hide. With the man who was looking
+for her. Nobody would suspect a thing.
+
+.
+
+.
+
+.
+
+Elsewhere, Minerva was finally awake and had fully regained her composure. This was not
+the time for panic, after all, she thought.
+
+It was still dark, the black soldiers were still shuffling around in the street, nothing
+has really changed.
+
+Minerva did what she could. She cooked some food, cleaned the little mess that was leftover
+and started reading a random book she found while cleaning.
+
+Everything to keep a cool head in light of Fira missing and Endell being taken captive.
+
+Suddenly, she had a thought. She was forced into her home, and so were others. Then maybe
+she can see if she can figure out more of what's going on by seeing if her neighbor knows
+something.
+
+She went to her kitchen window which was facing the window of the neighboring house. The
+window was about ten to fifteen meters away, but still the closest one.
+
+Minerva had some nuts covered in chocolate laying around, so she started gently throwing them
+at the opposite window.
+
+She could see someone moving over there after a few seconds, but did not see anything
+clearly.
+
+The person on the other side opened the window and looked around. Minerva could not make out
+the details. The person the looked straight ahead and saw Minerva. It was not hard to see
+her, since she had the counter lights on.
+
+"Heyy, hello!" Minerva leaned out of the window.
+
+"Hello?" said the man on the other side. She could not see him very well. But she knew the
+neighbor was a man, although she never spoke to him.
+
+"Are you good? It's dark over where you are," Minerva started the conversation.
+
+"My light's blown out, it sucks yeah, but it's just this room, so I'm good otherwise.
+What about you?"
+
+"I'm managing as well, but it's really strange."
+
+"Yeah, should have been day a long time ago. It's creepy."
+
+Suddenly, shots could be heard. Both her and the man on the other side had to take cover.
+
+The soldiers clearly did not like them talking.
+
+Minerva hid under the window until the shooting stopped. It was way too long.
+
+She then reluctantly poked her head out of her cover and saw that the man was gone,
+but his window was still open.
+
+After a while, the man returned waving at Minerva. He was signalling something to Minerva,
+but she did not know what he meant.
+
+"Go to the side, lady," he finally said with a hint of annoyance in his voice. That's
+what he was trying to tell her.
+
+She did as he told her and suddenly something flew into her window and ended all the way by the
+fridge.
+
+It was a metallic toy car with a paper rolled up inside of it. It was tied to a string. The
+string extended out of her window all the way to the neighbor.
+
+She took the paper out of the toy car, it said:
+
+WRAP ONCE AROUND SOMETHING, THEN THROW BACK.
+
+Oh, that's what this is for. Minerva wrapped the string around the table leg, then
+wound up her arm and threw the car into the window on the other side.
+
+There was a few seconds of nothing happening, when the string suddenly started to tighten and
+move around.
+
+When the line was tight, all movement stopped for a few more seconds, then the string started
+moving in one direction.
+
+A paper attached to the line managed to make it into Minerva's window.
+
+GOT MY MESSAGE ALRIGHT? [ ] YES [ ] NO???
+
+_Minerva was slightly amused, put a cross to yes and then reattached the paper. She then
+started pulling on the opposide side of the loop, which made the paper leave her window and
+make its way to her neighbors'._
+
+She then saw the man from the other side waving happily.
+
+Minerva decided to draw up her own message.
+
+DO YOU KNOW WHAT'S GOING ON? I CAN'T SEE THAT MUCH FROM HERE, BUT YOURS IS A CORNER HOUSE.
+
+After repeating the process and waiting for a bit, she got an answer back.
+
+_I JUST SAW SOME BLACK SOLDIERS FLOODING IN, THEY PUSHED ME INSIDE BUT I SAW THEM
+TAKING SOME PEOPLE AWAY. SOMETIMES A PATROL COMES, BUT OTHERWISE THEY JUST SHUFFLE AROUND.
+IS YOUR PHONE DEAD TOO?_
+
+Minerva responded:
+
+_YEAH, THAT'S WHAT I SAW TOO. I TRIED KILLING THEM, BUT NO LUCK, I AM NOT SURE THEY ARE
+EVEN HUMAN. AND YEAH, MY PHONE'S DEAD TOO, NO SIGNAL. ARE YOU IN THERE ALONE? DO YOU HAVE
+FOOD?_
+
+It was a genuine question she had. So far, she was able to just eat whatever she had but
+she knew, she might eventually run out of food. Maybe the man is in the same condition.
+
+Once again, the line came back with a response.
+
+_THAT SUCKS. I HAVE ENOUGH FOOD, I FOUND A FOOD PACKAGE AT MY DOOR, I THINK THE SOLDIERS
+LEFT IT THERE. MAYBE YOU HAVE ONE TOO? AND YEAH, IM HERE ALONE. I HAVE SOME ROOMMATES BUT
+THEY WERE OUT, NOT SURE WHAT HAPPENED TO THEM. I WAS THE ONLY ONE WHO CLOSE TO THE HOUSE._
+
+Minerva never checked her frontdoor since this thing started, so she did not know. She
+ran down to the door, silently opened it and saw that indeed, there was not one, but
+two packages waiting already.
+
+She sent a short thank you and "good-bye for now" message to the man and then decided it
+was time to try the MREs. She prepared one of them and poured it out onto the plate.
+
+It wasn't bad, kind of spicy, but she felt like it needed some more seasoning. She took
+some out and pimped out her food to a satisfactory level.
+
+MREs are not the perfect meal, or the perfect tasting meal, but it was edible enough.
+Minerva, however, figured out that she should first eat the regular food, which has an
+experation date, rather than start with the MREs.
+
+She then went back to the living room and put a tape into the music player. She had
+no idea what was on the tape. One day, Fira just randomly came holding a bunch of tapes
+she found by the dumpster.
+
+For her, it was a really thrilling find, although Minerva wasn't particularly happy about
+Rat bringing garbage into the house. But Fira just knew what to do, she made that one
+particular face that always worked and all was good. They haven't managed to check out most
+of them yet.
+
+A song started playing shortly.
+
+<small>Carla White: Can't Say Goodbye to Yesterday</small><br>
+<audio
+        controls
+        src="/media/cant-say-goodbye-to-yesterday.opus">
+            Your browser does not support the
+            <code>audio</code> element.
+</audio>
+
+It is a rather nice and jazzy song, although not what Minerva usually listened to.
+
+For her perhaps, it might have been bad optics, as tears started streaming down her cheeks.
+
+What if she too, one day, will have to say good-bye to yesterday?
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+Elsewhere, the paladin and the emissary have arrived by the monastery.
+
+"This looks nice, I thought it would be like an old gloomy building," Fira started.
+
+But then she realized, how does she know monasteries are often old and gloomy from the
+outside? She can't remember anything. Huh.
+
+"Indeed, as Xexanoth cares about his subjects, so does the church care about its members.
+Let's go inside. The monastery takes in the old, without a home or run-aways, maybe we
+can find her here."
+
+"Mhm."
+
+When they walked inside, and one of the priestesses at the reception spoke to them:
+"Blessings of Xexanoth to you, paladin, lady. How can I help you, do you bring an important
+message to the high priestess?"
+
+"I don't, blessed sister. Which of the high priestesses is here?"
+
+"Soreta, good paladin. She has come to oversee our expansion plans."
+
+Rhatholei perked up and a tiny flame lit up in his eyes: "Oh, can we see her?
+I know Soreta very well, I'm sure she will be happy to see me."
+
+"I will alert her and hopefully you will be granted an audience. Sister Iera, would you
+please tell the high priestess?"
+
+The other priestess then left the room to deliver the message.
+
+"What can I help you with, then?"
+
+"I- or, I mean, we, I guess, we are looking for the emissary. I am not sure if you heard,
+but she disappeared form the temple, we are worried something might have happened to her."
+
+"Oh, the horrors, the emissary of Xexanoth disappearing like that is a tragedy. I don't think
+she is here, but you can take a look at our guests and see. Follow me this way, please."
+
+Fira and Rhatholei then followed the priestess through a series of coridors and halls until
+they arrived to a large area with several rooms.
+
+Each of the room housed dozen or more people, and there were priestesses caring for them.
+
+None of the beds were bunk beds and there were holes cut out in the ceiling right above them.
+
+The holes were letting in a lot of light and producing god-rays all over the room.
+
+"These are our guestrooms. Feel free to look around."
+
+It was now clearer that the monastery functioned as a hospital more than anything else. A
+lot of the guests looked sick or injured, but there were also those who looked healthy, the
+ones only seeking shelter.
+
+Rhatholei said: "I think we should try a different room, no chance the emissary is in
+this one."
+
+"Don't you need to look more closely at the people?"
+
+"These are all men... Emissary is a woman... No need to look, Fria," Rhatholei chuckled.
+
+The priestess then let them into the other room.
+
+It looked very similar, but none of these people were the emissary as well. There were
+some women already, but most of them were older or looked way to differently.
+
+Fria finally asked: "Why are there holes in the ceiling?"
+
+"It's so our guests can enjoy the effects of Xexanoth's healing rain. Some of these people
+cannot walk before receiving at least some healing and this is easier than bringing them out
+for healing."
+
+"Can't you just catch the water into buckets and bring it over?"
+
+"Surely you jest, blessed child. Everybody knows the rain only works on what it hits first.
+We don't need blessed healed buckets."
+
+"I'm sorry, priestess, she is bit inattentive, excuse her lack of knowledge."
+
+"May Xexanoth have mercy on her."
+
+"Blessings, sister. Can we see the other rooms?"
+
+The group then went around the rooms, before the last two, a different priestess - a young
+girl - came in and relayed a message that the high priestess is ready to see Fria and
+Rhatholei.
+
+Rhatholei decided they will finish checking out the rooms first, then go see Soreta.
+
+.
+
+.
+
+.
+
+Elsewhere, some time earlier.
+
+Val didn't like being home alone. He did not know anything, could not talk to anybody,
+the lack of information was nerveracking. Back when he and his father were running away
+from the underground, he was used to being isolated for days on end.
+
+Being like this again, and without his father, brought back memories. Not all of them
+were pleasant.
+
+He still had his dagger by his side, but was not clutching nervously like before. No
+attempt of communicating with the outside world has worked so far, and he was not sure
+what to do.
+
+Luckily, he wasn't completely alone. Right now, he was petting his dog,
+_The Demon From Below_ - Rusticus.
+
+Rusticus already had a number of dog years under his belt, but he was a good and healthy
+dog still.
+
+Albeit a dog, Rusticus had some qualities more befitting of cats, most prominent would
+be hiding around the place - if not laying around like a dead body in the most unconventional
+or unwarranted of places - and only listening to Val on a whim, just like cats do.
+
+Sometimes, when a visit came in, only the most observant visitor would figure out there
+was a dog home too, other times, he elected to grace the visitor with perhaps too much
+presence, licking them, and farting and occassionally barking or soliciting food.
+
+Valentine still hasn't gotten around to finishing the food Neiro brought him to try.
+
+Hmm...
+
+She indeed go a little too hard with the soy sauce, but it was an improvement.
+
+"Give her a few more years and she might become a good cook," Valentine chuckled to himself.
+
+He thought for a while how he might entertain himself, since he figured there was nothing
+he could do right now.
+
+Valentine figured he could fill his time by finishing his latest sewing project. Just
+like Neiro was steadily improving in cooking over the last two and half years, so was
+Valentine improving in his sewing efforts.
+
+Once he gets it done, this will be a funky fresh outfit.
+
+Guaranteed.
+
+God Emperor Rusticus has decided to take his leave and disappeared somewhere into the house.
+
+As it was befitting, Valentine liked to work with music. He went into his dedicated
+"technology cupboard", which was basically a piled of tech junk and takes in the shape of
+a cupboard, and thought what tape to pick.
+
+He didn't exactly know how he felt right now, so he wasn't sure about the genre or the
+particular songs he felt like working with.
+
+Then something struck his eye. He got no connection, phone's down, no TV, but there was
+a radio in there.
+
+He hadn't ever really listened to radio outside the bar, but maybe...
+
+Hmm...
+
+Valentine took the device out and dusted it off. It clearly was a year or two since it
+was last used. He didn't know if it still works.
+
+After untangling the cables and extending the antenna, he turned it on to the sounds of
+static.
+
+He had no idea what most of the button do, but he was vaguely aware that there are two
+types of radio signal, AM and FM. FM, which stands for frequency modulation, is more in
+use due to superior quality, among other things, whereas AM, i.e. amplitude modulation
+has the benefit of simplicity and broadcast range.
+
+Valentine knew none of these things, but he knew that most music stations were on FM and
+from AM he could only remember one country music station, which only came in handy when
+there was the biannual "Gay Cowboy Day" at the bar. Oh the memories.
+
+He finally managed to turn on the radio and was greeted by the sound of static, as
+expected.
+
+Val started playing with the frequency when he was interrupted by Rusticus funny noises
+and barking with enthusiasm.
+
+At first look, it seemed as if _The Fridge Calamity, Rusticus_ was trying to eat the
+front door, but it turned out that he is trying to eat some bug on the other side which
+was fluttering on the other side of the sanded glass pane in the front door.
+
+Back when his father was alive and the old Underground led by Antonio was still in operation,
+having a door which even featured a tiny bit of glass was unthinkable, but after an unfortunate
+accident a year ago, which cost Val his front door and involved a sizeable amount of weed
+an alcohol, Valentine had no qualms about getting a fancier looking door.
+
+The glass was still bullet-proof, mind you.
+
+When Val came to the door, the bug disappeared. He still felt like it might not be a bad
+idea to see if something's going on outside.
+
+He silently opened the door to a rather peculiar sight. There was a package filled with
+MREs and rudimentary spoons. On top of the package sat a lightly shining blue butterfly
+with a black edge around its wings.
+
+There was no doubt the butterfly was the culprit of getting _Warrior God_ Rusticus all
+worked up.
+
+Valentine looked at it for a moment, the peculiar sight was interrupted when Rusticus barked
+and lunged at the butterfly.
+
+The butterfly took off and evaded this maneuver, then fluttered around the dog, perhaps too
+close for comfort, as if it was mocking him, before flying away.
+
+Valentine took the package inside, threw it on the kitchen counter and then got back to
+playing with the radio.
+
+He opted to start with AM.
+
+Val was slowly turning the knob, which was cranked to the highest frequency,
+but all he heard was just static and random buzzing at times,
+probably caused by electrical interference.
+
+About halfway through, he got bored and quickly turned the knob all the way down,
+when noticed he heard something strange, like a voice, along the way.
+
+Val became alert and started steadily turning the frequency back up until he heard
+a voice, loud and clear.
+
+It was a woman's voice, although when he first flew past it, he was sure heard a male
+speaking.
+
+"I need to know the frequency we're speaking on. This makeshift thing I made has no
+way to tell me," said the woman.
+
+Valentine could hear a man grunting and making sounds that would correspond to
+leaning forward to check something:
+
+"Let me see. You are 820kHz AM, we'll be expecting you on this frequency."
+
+"Ok, got it," said the woman.
+
+Valentine did not recognize either of these voices, but what he heard next
+shocked him and relieved him at the same time. It was not as loud as the previous
+responses.
+
+"Neiro, come here. Over," followed by a beep of a walkie-talkie.
+
+A response came from the device, but it wasn't clear enough to hear over the radio.
+After all, it was like third-hand hearing at that point.
+
+But the man's response was audible enough.
+
+"Nella's on the radio again, they are about to leave for Val's. Over."
+
+Valentine became very alert and excited, this meant that Neiro was most likely okay,
+and that she and these people are coming to rescue him. He let out a sigh of relief,
+although he had no idea who were these other people and how were they going to rescue
+him.
+
+For sometime, one could only hear the natural noises from both end. There were some
+sounds resembling packing or moving around stuff. And sounds of moving around on a chair
+and sighing. Followed by the unmistakable click of a novelty metal lighter, which itself
+was followed by a dismissive grunt and the lighter closing again.
+
+Finally, Valentine had Neiro's voice. It hadn't been so long since they last spoke,
+but it felt like ages.
+
+"Uh, hi. So you are leaving?"
+
+"Yeah, me and Zora are going to head over to the main station first, will talk to you then.
+Do you think Valentine has a radio?"
+
+"Umm, I am not sure, he has one at the bar, but I don't know if he's got one at home."
+
+Valentine knew the answer for this question. He was sad he had no way to answer them.
+
+The man weighed in: "And he probably does not have an AM transmitter, but I understand you
+can build one?"
+
+"If I can salvage the parts, that is."
+
+"Alright."
+
+"Maybe I will take apart this one and carry what I can."
+
+"That makes sense. Anyways, it's a dangerous journey, be safe. Good luck."
+
+Neiro closed the conversation after a pause: "... Good luck."
+
+Valentine felt relieved and decided that he should make his house presentable and
+relax instead of worrying too much.
+
+Out of curiousity, he decided to check out the FM radio as well.
+
+After looking for a while, he once again received a signal, it was two men talking
+on their walkie-talkies:
+
+"Dude, this really sucks. Like, I know it was an accident and all and someone has to
+help, but picking up the boss's junk in the dark is not how I imagined this job going.
+Over."
+
+"Yeah, but at least you can relax and the money and fun justifies it. And it's not like you are
+doing something difficult like building up the HQ. Hell, we even got dental. Over."
+
+"Can't relax with those black creeps all around the place. What did they call them, Sentinels?
+Over."
+
+"Yeah, Sentinels, but I just call them black soldiers like everybody. But yeah, they won't
+hurt us two, so you don't need to worry. Over."
+
+"You sure? Over."
+
+"Hell, if I had my camera here, I'd take a selfie with one. They really are harmless...
+to us, that is. Over."
+
+"I don't know about you, but they still creep me out. Chills running down my spine
+everytime I look at one. Nuh-uh. Over."
+
+"Look, let me show you. Imma just walk over to that and kick him in the crotch. Over."
+
+"Sheesh. Over."
+
+Valentine felt a bit uneasy since he was unintionally listening in on a conversation
+he definitely wasn't privy too. He was hoping there is no way to track him, but figured
+that with radio, he should be safe.
+
+A thud could be heard on the radio followed by a man laughing.
+
+"Hahaha, see, the cunt just gets up and keeps doing his thing, easy. Over."
+
+"I don't get you sometimes, Jeffrey. Over"
+
+Two distinct types of gunfires can be heard out of the radio. Val notices that he can actually
+hear the same gunfire from the window, a handful of blocks away or more.
+
+Just as he suspected, the two men weren't very far.
+
+"Huh, there is another moron trying to escape the curfew... Shit, this one's got a gun,
+better lay down round the corner for a little. Over."
+
+"This is why we cant relax, just let me know when you're safe. Over."
+
+Two minutes later, this closeby gunfire was over and the outside returned to a regularly
+scheduled programming of odd gunshots.
+
+"I think we good, they knocked him out cold and threw him back into the house. Serves him
+right, cunt nearly got me killed. Over."
+
+"Just pick up a few more things and haul your ass back to base, Jeffrey. Over."
+
+Val was done listening in on people. He set the radio back to the frequency Neiro was on
+and went back to his sewing, which he planned to follow by a clean-up, food and a quick nap.
+
+Canine Cupid Rusticus assumed a pose which strongly resembled the naked paitings of
+Renaissance over the chair nearby.
+
+.
+
+.
+
+.
+
+Elsewhere, in a different world.
+
+"The priestess will see you. Her quarters are over there. Blessings of Xexanoth to you,
+paladin, young lady."
+
+The priestess then left.
+
+"Fria, wait here for a bit, I will say hi and introduce you, then you come in, right?"
+
+Fira nodded.
+
+Rhatholei walked in and greeted the woman inside, bowing his head lightly.
+
+"Hello, Soreta, I'm very glad to see you. Did not expect you here."
+
+"Oh, hey Rhath, I was surprised to hear you are here either. What's up?"
+
+Soreta immediately started pouring two glasses of a very fine wine. They call it
+the Young Winter Wine, a Yiandh speciality.
+
+"I'm looking for the Emissary of Xexanoth. She was found on The Island, but later
+disappeared. Had no luck yet."
+
+"Oh, I've heard, had no idea they would give the task to you."
+
+"I volunteered."
+
+"Of course you did. Care to sit here and join me for a glass or five?"
+
+"Actually, I'm not coming alone. This is Fria, met her on my way randomly a few times,
+now she tags along."
+
+Fira poked her head into the room and shyly responded: "Hello?"
+
+But then she looked at High priestess Soreta and was completely shocked. She was,
+with the highest certainty, the woman from her dreams and visions.
+
+"I know you," Fira immediately started. She was overcome with emotion, but couldn't quite
+figure out what sort of emotion it was.
+
+"Oh no, I'm sorry, I don't remember you, maybe you've been at one of my faith events."
+
+Cartographer's note: "faith" events more often then not ended with Soreta naked and drunk.
+
+Soreta continued: "But you look cute, Fria, care to join us for a drink too? Unless you are
+too much of a child of course, you do look kinda skinny."
+
+Fira blushed: "I'm not sure, but I know you definitely. Yes, I can drink?"
+
+"Well then sit here with me and Rhath. But don't tell anyone that this is what a
+priestess does in her free time!"
+
+Rhath commented: "Dear Xexanoth, she is as lively as ever. I think you are the sole reason our
+god resides up in the skies and not here with us."
+
+Soreta laughed: "Oh, shut up, Rath, that's blasphemy. Listen, Fria, you ever been with a girl?"
+followed by a lightly seductive face.
+
+"You shut up, Soreta. Fria, this is what she does, don't listen to her," Rhath chuckled.
+
+"I'm so confused right now."
+
+"Tends to happen with her around."
+
+All illusions of a respectable paladin and an orderly high priestess have completely
+dissolved in Fria's eyes.
+
+After a few glasses and getting to know each other, which involved Fira getting more
+drunk than she should've, as is befitting of a complete lightweight, the trio has reached
+_that one part_ of an evening.
+
+Soreta, who drank most of the alcohol, then spoke: "You see *\*hiccup\**, me and Rhath have
+known each other since we were children *\*hiccup\** and he is a bit of a hard-ass, but I'm
+probably going to marry him when *\*"hiccup\** *\*burp\** I get older."
+
+Rhath retorded: "Sounds more like a total steal with each coming minute."
+
+But it was obvious to everybody involved how he really meant it.
+
+Soreta continued: "But... but, but, but... but, but. Butt, hehe. But *\*hiccup\**, a girls
+gotta have fun, too, you know?"
+
+Rhatholei was laughing to the point of it sounding like he is suffocating. As a faithful
+paladin who loved Soreta, hearing this could have been a bit concerning, but he knew better.
+Her antics were all but second nature to him.
+
+Rhath elaborated: "This happens everytime, but masn't it fun to watch, right?"
+
+Soreta then slumped to Fria and asked: "Are you, uhh, you are... *\*burp\** are you...
+A VIRGIN??!!?"
+
+Fira responded: "mgrmmhmrmrhgmr"
+
+Rhath: "Yes, exactly. Please continue."
+
+Fira tried again: "mhmw... I don't, know?"
+
+Soreta laughed: "How can you not know? Was the penis imaginary?"
+She was laughing so hard she started to slump on the other side of the bed towards Rhatholei.
+
+"I got.... uh I got... in the head... hit? Stone, hurt?"
+
+"Wh-what? \**burp\**"
+
+"Can't remember."
+
+Rhatholei responded, whilst slightly trying to get Soreta's hair out of his leggings
+armor plates while she was still chuckling a bit: "Oh, you should have said so, we can take
+you to a healer."
+
+And so, another part of the journey was planned ahead.
+
+.
+
+.
+
+.
+
+Elsewhere.
+
+Voss walked into the room where Endell was being held and turned on his heel, per usual.
+
+"Time for another... therapy session, Mr. Gildner."
