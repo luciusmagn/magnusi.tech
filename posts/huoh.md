@@ -7126,7 +7126,6 @@ Neiro: "... Bye."
 
 __Experience gained: moderate__
 
-<div id="alma"></div>
 
 # EPISODE 1: FIRA
 
@@ -8147,3 +8146,463 @@ Elsewhere.
 Voss walked into the room where Endell was being held and turned on his heel, per usual.
 
 "Time for another... therapy session, Mr. Gildner."
+
+<div id="alma"></div>
+
+# INTERMEZZO: THE CARTOGRAPHER
+
+Oh, the joys of storyteller. One might forget about oneself telling a story. But
+for a man such as myself, it is important to sometimes take a break too, lest I
+fail in my endeavors.
+
+The storylines are quite developing, I would say.
+
+We have Neiro, Horus and Loki in the warehouse trying to get by and perhaps mount some
+resistence. They've already managed to establish some communications, Neiro carried out a
+successful mission and Loki is building a device which might help them.
+
+They are quite the motley crew, with the angry goofball Neiro, who is, however, mostly
+well-meaning and wants to save her friends, we got Loki, who can be best described as an
+amnesiac addict with an annoying streak but a large technical skill, not to mention some
+hints of horny, and the older experienced light bulb salesman Horus, who is used to some
+tougher situation and not all of the experiences under his belt can be considered morally
+white.
+
+Meanwhile Valentine and Rusticus went from dread to finding some peace of mind, and
+food, by one of those annoying shiny blue butterflies with wings that have a black edge.
+His old radio, which most likely even belonged to his late father, allowed him to listen in
+on a conversation between Horus, Neiro and Nella and a conversation between two rowdy
+Morpho workers, just what are they up to?
+
+On the other side of the river, Nella ended up being stuck with a girl named Zora.
+While Nella has been through the thin and thick, Zora is inexperienced in the ways of
+life and the need to carry crutches makes things difficult. Through wit and some scientific
+experience, Nella was able to construct radio and call for help. While they did not
+receive it, they were able to contact Neiro and Horus and formulate a plan. Now they
+are on their way to the main station, and after some other stops, they hope to make it
+to Valentine's and eventually to the abandoned industrial area where Horus, Neiro and Loki
+have taken refuge.
+
+There is somebody else living in the industrial area, the presence of whom caught the eye
+of Neiro while she was sneaking around to attach an antenna to allow the crew to use
+radio to communicate with a significant portion of The City. Will they cause trouble in
+the future?
+
+Meanwhile Jake has had a rollercoaster of a life, a strange journey, a helicopter crash
+and injury and then a bizarre experience with a strange naked girl he ended up naming Alice,
+since more and more things were making him feel as if he was in Wonderland. His journey for
+now is at the point where he had an interesting conversation with The Boss, the enigmatic
+leader of Morpho Inc.
+
+Morpho Inc. has been doing some strange things around the city, including occupying it
+with inhuman soldiers, introducing a lockdown, flooding the Underground and sealing the
+entrypoints to The City. They have been also seen kidnapping heavily mutated Modified folk.
+
+There is another new force in The City. Mr. Voss and his company of zealots. They are a
+terrorist group up to something, beginning with attacking the home of Neiro and Endell.
+Only Endell was home and despite fighting a valiant battle, he was taken captive as well.
+Through his interactions with Endell, his philosophical background is showing, a proponent
+of Social Darwinism. The eternal night in the city and the influx of Morpho forces was a
+surprise to him and threw a wrench into his plans. There is something up with the blood
+bags they are carrying.
+
+Several people have been affected by the events of the last days, but not many of them
+to the degree that Minerva was. In a very short span, her girlfriend, Fira, disappeared
+and she ended up inadvertently facilitating the attack on Endell's and Neiro's home, this
+was hard on her, as we have seen, albeit a strong woman otherwise, two blows in combination
+with the lockdown were enough to do a number on her. She also wasn't able to communicate
+with the outer world. After finally managing to pull herself together, she was able to
+contact her neighbor. It is not much, but it is some contact.
+
+Meanwhile her girlfriend Fira was, just as many times before, removed from her world and
+sent into another. After a long chase, a shadowy figure got to her and removed her from
+the world of The City. We also saw one of her memories from an older world, where she met
+the enigmatic magnusi who uncovered her true nature and attempted to help, with the promise
+of returning later. Right now, she was sent to a strange world of The Island, a realm
+overseen by a god called Xexanoth, an eldritch date in opposition to time. However, something
+is not right this time, and her memory is malfunctioning, which prevented her from doing
+what was intended for her. Through a series of unfortunate events, she ended up befriending
+Rhatholei a clueless paladin tasked with finding her, and realized that the woman she keeps
+seeing in her dreams, visions and hallucinations looks just like High priestess Soreta of
+the church of Xexanoth. After replacing the sword she gained by preventing her own rape and
+checking out a few places with Rhath, she was finally able to meet Soreta and in doing so
+discovered that both her and Rhatholei are people too.
+
+An unexpected person started showing up in our journey. It is Jay, Neiro's former boyfriend,
+a photograph, information broker and a person dancing on the thin line between moral and
+amoral. Perhaps more than any other of the main crew, Jay has the most unfavorable acts
+under his belt. This led to him getting a ticket to hell after his untimely death, but the
+overseer of his world's hell made a trade with magnusi, overseer of a different world's hell
+realm, one which is ran much more like a correctional facility. After being taunted by mag
+for a while, Jay was offered an involuntary experience with Anubis as his guide. Currently,
+he is meeting history's most famous sinners, one's that haven't repented and left hell yet.
+Perhaps he may learn something from them.
+
+There is another person moving around The City. A japanese samurai, appearing to have been
+taken out of time. It doesn't look like The City would be a plce he would know and he is
+surprised by the reactions of the people he met and the immortality of the black soldiers.
+
+I think it's time to dispense information about a few more of the people involved in current
+events.
+
+### Minerva
+
+<div class="char-row">
+	<div class="char-column">
+		<table>
+			<tr>
+				<th>
+					Age
+				</th>
+				<td>
+					20+
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Sex
+				</th>
+				<td>
+					A lot
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Eyes
+				</th>
+				<td>
+					Brown
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Weight
+				</th>
+				<td>
+					69 kg
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Height
+				</th>
+				<td>
+					174 cm
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Birthday
+				</th>
+				<td>
+					27th April
+				</td>
+			</tr>
+		</table>
+	</div>
+	<div class="char-column">
+		<table>
+			<tr>
+				<th>
+					Build
+				</th>
+				<td>
+					Curvy
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Favorite food
+				</th>
+				<td>
+					olives, pizza, penis pasta
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Likes
+				</th>
+				<td>
+					Good food, music,
+					pretty people,
+					wine,
+					Fira,
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Dislikes
+				</th>
+				<td>
+					Mess,
+					annoying people,
+					Endell's hard-assery
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Designation
+				</th>
+				<td>
+					<u>Fox</u>
+				</td>
+			</tr>
+		</table>
+	</div>
+</div>
+
+Many would be surprised to hear that the caring and experienced Minerva is as young as
+she really is. Her tough upbringing forced her to mature quicker than others and to adopt
+a certain degree of responsibility.
+
+On the other hand, her early life has been a prime example of drug abuse, irresponsible
+romantic life and struggle within the crime underworld. However, despite all of this,
+Minerva was able to preserve herself and make good on her abilities.
+
+Although she may only look like a luscious party-seeking foxy woman, she is also a skilled
+pharmacist and a drug dealer. After dating Endell for a time, Minerva met her future love
+interest - Fira, a girl she shot in the Underground, thinking she is Modified just as many
+other inhabitants of that wretched place. That has, however, proven to be a false assumption
+and Fira started bleeding.
+
+### Jake
+
+<div class="char-row">
+	<div class="char-column">
+		<table>
+			<tr>
+				<th>
+					Age
+				</th>
+				<td>
+					23
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Sex
+				</th>
+				<td>
+					M
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Eyes
+				</th>
+				<td>
+					Brown
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Weight
+				</th>
+				<td>
+					72 kg
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Height
+				</th>
+				<td>
+					179 cm
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Birthday
+				</th>
+				<td>
+					14th April
+				</td>
+			</tr>
+		</table>
+	</div>
+	<div class="char-column">
+		<table>
+			<tr>
+				<th>
+					Build
+				</th>
+				<td>
+					Slim to athletic
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Favorite food
+				</th>
+				<td>
+					pizza
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Likes
+				</th>
+				<td>
+					animals, cars, climbing,
+					helicopters
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Dislikes
+				</th>
+				<td>
+					subways, tight spaces,
+					animal abuse, team sports
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Designation
+				</th>
+				<td>
+					<u>Human</u>
+				</td>
+			</tr>
+		</table>
+	</div>
+</div>
+
+Jake is as regular a guy as can be. He comes from one of the nearest large cities,
+Yatoru. He is not sure what he wants to make of his life yet and so he spent a great deal
+of time doing odd jobs and trying out a variety of occupations.
+
+Despite being well educated, he finds manual jobs to be relaxing and allowing him to think
+about subjects e found interesting. In Yatoru, he managed to obtain a driver's licence, a
+bus and truck licence and eventually, even became a certified helicopter pilot.
+
+He is endlessly curious and wayward, having moved away from his apparents at the first
+opportunity and exploring various places and fields. His ordinary life was changed recently
+by joining Morpho Inc. Despite getting shot and shot down, perhaps the most bewildering
+experience was with Alice, the naked girl who somehow froze the river.
+
+### Endell
+
+<div class="char-row">
+	<div class="char-column">
+		<table>
+			<tr>
+				<th>
+					Age
+				</th>
+				<td>
+					25+
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Sex
+				</th>
+				<td>
+					M
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Eyes
+				</th>
+				<td>
+					Blue
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Weight
+				</th>
+				<td>
+					82 kg
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Height
+				</th>
+				<td>
+					187 cm
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Birthday
+				</th>
+				<td>
+					18th January
+				</td>
+			</tr>
+		</table>
+	</div>
+	<div class="char-column">
+		<table>
+			<tr>
+				<th>
+					Build
+				</th>
+				<td>
+					Muscular
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Favorite food
+				</th>
+				<td>
+					roastbeef
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Likes
+				</th>
+				<td>
+					his car, order,
+					cleanliness, Neiro, the law
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Dislikes
+				</th>
+				<td>
+					mess and dirty, Neiro's mess
+					in particular, loud people and social gatherings
+				</td>
+			</tr>
+			<tr>
+				<th>
+					Designation
+				</th>
+				<td>
+					<u>Knight</u>
+				</td>
+			</tr>
+		</table>
+	</div>
+</div>
+
+Endell the modified albino man is one of the visually strangest people in the crew.
+His very light blonde hair and pale skin made more than a handful people think he is
+a vampire or a corpse.
+
+After helping his brother Antonio erect the walls and build the Underground into the
+form it was most well-known as, Endell realized the error of his ways and elected to live
+in seclusion in an abandoned church he fashioned to be his home.
+
+A solitaire minding his own business and boyfriend to Minerva, Endell only became involved
+with the crew due to Neiro's incessant meddling. Although it seemed highly unlikely,
+he ended up together with Neiro and has been living rather happily with her for the last
+few years until the untimely ambush by Voss and his men.
+
+Life in The City does not allow him to reach is desired potential. Here, he is a valiant
+fighter and was an important member of the resistance towards The Underground, but if he
+had a choice, he would prefer studying law and other more scholarly subjects. Optimally,
+if he could combine a law practice with his love for cars, everything would be just fine.
+
+.
+
+And that's all I have to say for this break, I suspect. I'm still a buzzed up from the
+coffee, so without further ado, let's get to the next part.
