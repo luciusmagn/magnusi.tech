@@ -8606,3 +8606,505 @@ if he could combine a law practice with his love for cars, everything would be j
 
 And that's all I have to say for this break, I suspect. I'm still a buzzed up from the
 coffee, so without further ado, let's get to the next part.
+
+# MISSION 1: FIRST CONTACT
+
+Horus: "Neiro, can you hear me, where are you? Still taking a nap? Over."
+
+...
+
+Horus: "Neiro, hello? Wake up, I need you to do something. Over."
+
+...
+
+Horus: "Loki, would you kindly?"
+
+\**sounds of something being handed over\**
+
+Loki: "WOOOOOOOooooOOOOOooooooooOOOOOOOO"
+
+Neiro wakes up, dazed, confused and mildly shook. Years of poor sleep in The City
+do make someone sleep deprived, and for some reason, everyone sleeps perhaps to good
+now. It is the waking up what is difficult now.
+
+Neiro: "Mmmgrmmgr"
+
+Horus: "Perfect, come over here, we need you to do another small task. Loki
+made an interesting invention."
+
+Neiro: "Uggghh, I'm coming"
+
+__Neiro picked up: improved wire spool (replaces wire spool)__
+
+__Neiro picked up: communication's device__
+
+__Neiro picked up: zipline rod x3__
+
+Horus: "What you have just got are three zipline rods and splitting wire, both
+made by Loki. The rods are motorized by electricity and allow for automatically
+moving items through the zipline. The line just needs to be tight and everything
+will work out."
+
+Neiro: "Why do we need this?"
+
+Loki: "Like bruh, girl, big brain. Send items, trade, travel?"
+
+Neiro: "I want my cigerettes back."
+
+Loki: "Good luck brah. Cheers b, smoke time."
+
+Horus: "There is strength in numbers. We need to find some large house on the other
+side of the edge of the industrial house and cooperate with the people there. We
+can offer them a lot and they might have something we need."
+
+Horus: "The communication's device you got. Cold war, well, while it still was only
+a cold war, tech. It is between a computer and a walkie-talkie, it will allow us to
+communicate with the people. I've got 17 more, but I don't think you can carry too
+many of them."
+
+The device was like a large wide brick with a folded-up antenna. Upon being opened,
+one could pop out a microphone and see a small screen and keyboard.
+
+These devices created their own peer to peer over the air network, independent of
+internet and the cell network. The soviets intended to use it for communication on
+the front-line, but it ended up being too expensive for the Soviets, since it came
+around the time when they were finally figuring out communism doesn't work. The
+nukes fixed the problem.
+
+As such these communications device, called жаворонок or ZH4-V0-R0-N0-K, a bit of
+a tongue-in-cheek name owing to the sounds the device makes while operating, become
+little more than a sought after novelty. Horus got ahold of these in a trade with
+one of the large cities in what was formerly known as Estonia.
+
+Neiro: "So what do I do? How does this all work, I'm confused."
+
+Horus: "Okay, here's what you need to do:"
+
+__Objective added: attach rod at base (completed) and start wire__
+
+__Objective added: attach rod and wire at the edge of the industrial zone, atop a
+tall building__
+
+__Objective added: identify suitable house for cooperation, provide Zhavoronok__
+
+__Objective added: attach rod and wire atop the building__
+
+Neiro: "Okay, jeez. Does this help in rescuing Val, Endell and Minerva?"
+
+Horus: "Yes, we will keep extending the network until we reach Val's proximity, then
+we can make a speedy escape using the ziplines. Should allow us to outrun
+the soldiers."
+
+Neiro: "Fine."
+
+Neiro then set off on her way. Unlike before, there was much less gunfire coming
+from The City. Everything was still dark. There was no moon. It was still cold,
+but it felt a little warmer before. Maybe it was the fact she was moving and
+carrying items on her hip and back.
+
+This time, Neiro did not want the wire loose and she had to make sure there was no
+obstructions on the way.
+
+For the most part she took the same path as before. She already had experience with
+the antenna building, so why not use that one again?
+
+The fact that she was only retracing her steps made Neiro infinitely more comfortable
+than the first time. Once again, she passed that one lit window. It felt like someone
+was staring at her from behind the courtain. Strange.
+
+Neiro thought about how to tackle the climb this time, she did not feel like
+repeating her previous misadventures. Hmm, what would Endell do? Or Minerva?
+Val?
+
+"Hmm, Endell would take the smart approach. How to be smart?"
+
+...
+
+Then it struck her. The antenna is planted firmly in the roof and it would definitely
+support her weight. Better to verify.
+
+Neiro: "Horus, you think the antenna will support my weight if I use it to climb?"
+
+Horus: "Don't think why it shouldn't. It's pretty deep. Why are you asking? Over."
+
+Neiro: "Okay."
+
+Her idea was to throw the wire around the antenna and then climb on the building's
+wall. This might actually work very well. Neiro started by unspooling a sufficient
+length of wire and lining it in such a way that makes throwing easier. Furthermore,
+she was able to find a large metal carabine to provide projectile weight.
+
+3...
+
+2...
+
+1...
+
+Throw!
+
+__*Throw was unsuccessful*__
+
+Second attempt.
+
+3...
+
+2...
+
+1...
+
+Throw!
+
+__*Throw was successful*__
+
+Climbing it wasn't that hard surprisingly, although it did wasn't exactly easy.
+
+__Neiro unlocked skill: wire wall climbing__
+
+__Minimum requirements met.__
+
+When Neiro got to the top, she took a look at the city. She saw a lot of tiny
+lights coming from the windows of others. It was dark so she had no way of telling
+which one is Val's, but it was surely out there. She knew.
+
+After taking a moment standing at the roof, Neiro decided it was a good time to do
+her task. The process was the same. She was not looking forward to the bang, but she
+had to do, what she had to do.
+
+Bang!
+
+__Objective accomplished: attach rod and wire at the edge of the industrial zone,
+a top a tall building__
+
+A loud crack could be heard even a few blocks away, but the rod was planted in the
+roof quite well. Unfortunately, she did not have a hook to ride the zipline down,
+a bit of an oversight on both her and Horus's part.
+
+However, Neiro still had some tasks to do and the wire was now connected to this
+zipline rod, so she could scale the building down easily.
+
+She actually kinda enjoyed the jumps down, it was fun.
+
+But now, the tougher task came, she had to find a suitable building that was at least
+a bit away.
+
+The antenna building was near a T crossroads not too far from the center,
+which meant that there was a line of sight to many buildings in the perpendicular
+road.
+
+There was one taller older house situated a good seventy metres away. That was
+far enough for Neiro. She picked it also because it looked maintained and not like
+a crackhouse unlike many other houses in this district. There had to be at least
+three flats in it.
+
+But there was a problem along the way, the black soldiers. Neiro had to sneak around.
+She only had one rod left now, so she could take it off her suit and hold it in her
+hand. That way, she had better control about it not making any sound.
+
+Neiro unspooled a bit more of the wire to make sure it does not alert the soldiers
+she would have already gone past. There was a dumpster alley where she could
+temporarily hide.
+
+Careful steps.
+
+Crouching along the ground, using cars for cover.
+
+First, we need to cross the street. Neiro did her best to focus on the task at hand.
+She knew she had to remain calm, and that wasn't her strong suit.
+
+__Neiro entered: full-focus stealth mode. Stealth +6__
+
+Careful steps.
+
+Look behind her shoulder.
+
+A patrol is coming bye.
+
+Hide by a dumpster.
+
+Hold your breath.
+
+Just a few more seconds.
+
+Just a few more seconds.
+
+Nearly choking.
+
+Have to let go.
+
+Try to limit the gasping so they won't hear her.
+
+Breathe in.
+
+Breathe out.
+
+Breathe in.
+
+Breathe out.
+
+All good, proceed to cross the street. There is a car in the middle of the
+road, can be used for cover.
+
+Clear, let's go.
+
+Street crossed successfully.
+
+Now to cross the other street of the T junction.
+
+There is no cover here.
+
+Have to time her crouch dash appropriately.
+
+Wait for a bit.
+
+A little longer.
+
+Hah, there it is, the perfect opening!
+
+Cross the street, hide by some hedges.
+
+Slowly crouch walk along the shrubbery. All in silence.
+
+She is clutching the rod like a weapon. If someone or something scares her,
+it's getting the rod.
+
+Stop by and breathe slowly.
+
+Approaching the house.
+
+Suddenly, something tugs her from behind.
+
+About 15 meters behind her, a black soldier is standing on the cable.
+
+Oh no, he definitely felt it, he is approaching and so are several others.
+
+How do they communicate?
+
+Quickly, go around the car and under that hedge, sneak in.
+
+Lie down, hold your breath, be as quiet as possible.
+
+She is still clutching the rod. She wasn't going out without a fight.
+
+Quite tired, how many soldiers can she disable before she falls asleep? Two, three?
+Four if pushing it?
+
+But there was about six of them coming her way.
+
+The heart is beating fast and loud.
+
+How come they do not hear it? She can even feel her temples pumping.
+
+They are definitely going to find her.
+
+Two of them are already by the hedge.
+
+She will try her best, time to hold breath again.
+
+The heart keeps beating faster, but she grows more pale as the Adrenaline
+dilates her blood vessels.
+
+Then she starts turning red.
+
+Still holding her breath.
+
+There it is, they must definitely find her!
+
+Four of them are so close to her she could untie their shoelaces.
+
+She feels scared like never before.
+
+But then, the unthinkable happens. They start leaving.
+
+Neiro starts breathing again.
+
+Breathe in.
+
+Breathe out.
+
+Neiro slowly gets out of the hedge and quietly makes her way towards the house.
+Once she is on their front porch, she pulls out her walkie-talkie.
+
+Neiro: "Horus, I am at the house, what do I do? Do I just ring, or?"
+
+Horus: "Try that, but be careful. Over."
+
+Neiro tried gently knocking. No response. Then she tried knocking again,
+but louder. Whispers and some movement could be heard from the house.
+She had no idea what they were saying, then she heard commotion behind the door.
+The door flung open and within it was a man holding a baseball bat and next to him
+a woman with a gun.
+
+Neiro took her rod as a weapon in anticipation.
+
+"What do you want!? Are you with them?!" the man said as loudly as he could
+quietly yell.
+
+"What, no. I am here to offer cooperation."
+
+"How can we trust you?"
+
+"Uh... I don't know? I am with two people in the industrial zone nearby. We
+have some supplies we could offer you. Is that enough?"
+
+"We are good with the food they give us, but we could you some other things, yeah.
+So what do you want, then?"
+
+"Wait, they give you food??"
+
+"Yeah, they leave packages by the door, you haven't been getting any? It's like
+military, so it isn't perfect, but it's edible."
+
+"Oh."
+
+"So, anyways, what do you want, then?"
+
+"We are building like a network? I think. I have this communications device for your
+house, there is like an instruction list inside. And I need your help with getting
+to your roof."
+
+"Why do you need the roof? There is multiple people in the four flats here, we would
+need to discuss it. Me and Sophie here don't own the building."
+
+"For the zipline network, so we can deliver and receive stuff. I can give you the
+man that came up with the idea, he will explain it better."
+
+"Okay."
+
+Neiro: "Uh, Horus? Loki? I got the people here, can you like explain what's going on
+to them?"
+
+Horus: "Okay, hand over the walkie-talkie. Over."
+
+Neiro did exactly that and the man and his wife spoke with Horus for a short while
+before getting back to her.
+
+"Fine, I think we are good. Let us speak with the other tenants if they are up for it.
+You can stay inside the house behind the door, so they don't get you, but don't come
+more inside, nobody else knows you here, sorry."
+
+Neiro: "Mhm"
+
+__Objective accomplished: identify suitable house for cooperation, provide
+Zhavoronok__
+
+Neiro spent sitting behind a nearly closed door - as the cable was blocking it and
+she did not have the presence of mind to leave the spool outside - for nearly half of
+an hour. Sometimes the people somewhere in the building were speaking louder.
+
+They were clearly arguing.
+
+Finally, about eight people came to the door, including the man and the woman from
+before.
+
+A different man spoke: "We decided to take you up on the offer. So how do we do this."
+
+"We need to get me and the spool to the roof, but it has to be through the outside,
+so that the zipline is clear."
+
+"Hmm. Ralph, can you get some rope? Miss, follow me to the roof and leave the spool
+here."
+
+When they got to the roof they threw the rope down and tied the spool to it.
+Afterwards, the pulled it up and Neiro was able to finish the job.
+
+__Objective accomplished: attach rod and wire atop the building__
+
+"Okay, thanks. How do we contact you?"
+
+The first man chimed in: "We got this from them, there is a paper with
+instructions. Also says the guy will call us once she gets back safely."
+
+"Fair enough."
+
+...
+
+"So you are going back now, then?"
+
+"Yea. I am."
+
+"Why don't you use the zipline?"
+
+"I don't have any hook to use it with."
+
+"Mhm, I can give you this one from my old climbing gear. If it's a downwards slope,
+it should get you back to beginning."
+
+It was a downwards slope, so Neiro could speed up her way 'home' drastically.
+
+__Neiro picked up: Old zipline hook. (temporary item)__
+
+
+Neiro thanked and went back up on the roof with the inhabitants.
+A man and a woman told her how to use the carabine and helped her attach it with
+a piece of rope to her modified climbing harness.
+
+Neiro stood at the edge of the roof. She had a bit of a vertigo looking down,
+but there was no helping, she had to do it.
+
+Alright, maybe she was a little uneasy with the height than she thought. What if
+the zipline failed, after all?
+
+No, she has to do it, she really does not want to walk all this way back. And so
+she took a deep breath and jumped.
+
+At first, it was nerveracking. The zipline was louder and faster than she expected
+and she pretty much smashed into the rod on top of the antenna building. The
+zipline had functionality for switching over and keeping on going, but that
+required the motorized carrier carabiners Loki had made, not this makeshift one.
+
+The impact hurt a bit, she will definitely have a bruised knee.
+
+"Fuck, this fucking hurts. I will kill that Horus son of a bitch, shit, fuck!!"
+
+Then it was the time for the second line. This one didn't have such an angle,
+unfortunately. It was going to the roof of the warehouse and although there was
+a height difference between the buildings, the distance between them was great.
+
+Neiro jumped again, but this time, the zipline was much slower.
+
+Oh no, Neiro got stuck about ten meters from the roof.
+
+Understandably, she was not happy about it.
+
+"Grrrrr, this- fucking- hate- this- shit- piece- fuck-"
+
+With each word, she swung forward which helped her jump a handful of centimeters.
+
+Eventually, Neiro realized it might be a better idea to use her hands to clime
+forward. This was unpleasant and very straining, she just was not fit enough,
+but after about ten minutes hanging uncomfortably in the air, she was able to
+make it to the roof.
+
+Neiro climbed down, went inside the warehouse and slumped over the couch.
+
+__Mission accomplished: First Contact__
+
+Horus came in after hearing commotion and swearing up in the air. Loki was, of course,
+nowhere to be found.
+
+"Good job, had a good time?"
+
+"I'm sore, fuck off," a completely immobile Neiro responded.
+
+"Well, take some rest. I'm going to call those guys and see if we can make
+some diplomatic relations. Loki? Where are youuu, you crackhead?"
+
+Loki wasn't answering, so he was probably out on an adventure again. Horus would
+swear that one day, this guy would drag in the enemy in the warehouse.
+
+"Oh, before I forget, here's your reward. But beware, one day I'm going to run out,
+you know?" added Horus, handing her a ready cigar. It's the same for previous time,
+there was no way Neiro could smoke an entire one.
+
+Horus in the meantime retreated to his radio station and called the other
+ZH4-V0-R0-N0-K.
+
+Horus: "Hello, can you hear me alright?"
+
+"Yeah, hello."
+
+Horus: "Alright, so here's what we can do..."
+
+__Experience gained: Moderate. Fitness skill increased.__
+
+__A period of rest is required.__
