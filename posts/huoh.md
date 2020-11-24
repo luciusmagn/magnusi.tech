@@ -8147,8 +8147,6 @@ Voss walked into the room where Endell was being held and turned on his heel, pe
 
 "Time for another... therapy session, Mr. Gildner."
 
-<div id="alma"></div>
-
 # INTERMEZZO: THE CARTOGRAPHER
 
 Oh, the joys of storyteller. One might forget about oneself telling a story. But
@@ -9108,3 +9106,353 @@ Horus: "Alright, so here's what we can do..."
 __Experience gained: Moderate. Fitness skill increased.__
 
 __A period of rest is required.__
+
+<div id="alma"></div>
+
+# MEMORY: DIARY OF ONE NEIL KILGRAY
+
+Please, find attached the unedited entries from the short diary of one of the
+inhabitants and witnesses to the events that transpired in the city.
+
+### November 7, 12:00 PM
+
+The sun is gone, and I do not know why.
+
+My name is Neil Kilgray, and I have been living in The City ever since I was young.
+I am no longer young, I feel. I remember Santorini, I remember life before the walls,
+I hope that in a few years, I won't have to say I remember the sun.
+
+The City changed a lot since I came here. I was optimistic and full of hope and I
+had no idea about what will become of it. There is something rotten in the state of
+Denmark. Or perhaps was, I heard the guy who replaced Santorini kicked the bucket
+a few years ago. But it's not the paradise, or oasis, it once was. Perhaps, it never
+was, and it was just my youthful enthusiasm seeing things through rose-tinted glasses.
+
+I was enamored by the idea of writing a diary, or a journal of sorts for many years
+now. I actually wanted to be a writer as a kid, and I would explore strange and
+mystical worlds in my head, and invent complex and intertwined stories for my
+imaginary friends. I still remember some of their names, and on some days, I yearn
+for childhood, for those simpler days where all I would do is indulge myself in
+adventures and imagine things so fantasical, that I... I don't know, I digress.
+
+It looks to me, like it's finally the time to write a diary. I am in a peculiar
+situation and there is not much else I can do to pass time. Let me start by recounting
+the events of the twenty-four hours, or so. Yesterday looked to be another ordinary
+day, as far as The City is concerned. But still, I could not help but feel uneasy,
+like there was something strange in the air. It was that feeling, I am not sure how
+to describe it, it was like there was a weight attached to my ribcage dragging me
+downards. And that odd feeling down my throat, like I am congested but cannot
+swallow the mucus.
+
+Then it happened, it was afternoon. Call me old fashioned, but I was just watering
+my plants, I am not about that more, let's say, active life that is common in The
+City nowadays. After all, I think I am one of the oldest people in here, and yet,
+I am not that old at all. It is just that... The City isn't friendly towards growing
+old. And I feel... like I am past my prime. Perhaps, I should have moved, but I
+just could not do that. The City, despite all the rot, has grown close to my heart,
+sunk its claws deep into my arteries, and now, I no longer think I could live with it.
+
+Ah, I've digressed again, perhaps I should have started writing earlier, or focused
+more on the present. Very well, then. It was afternoon, and all over the city,
+through the streets, some armored men in black started pouring in. They have guns,
+armors, helmets and masks, a really scarry military force. They started forcing
+everybody indoors, and firing at people. I don't think they killed anyone around
+here, since I did not see any corpse for the few moments when I stood frozen,
+looking out of the window. But I am not sure, they were taking some people away,
+most of them did not look very good. I think it was those failed "golden age"
+children, most of them looked worse than the clients of my old drug dealer connections.
+
+I am not as brave or reckless I was during my younger days, when I did stupid things
+such as working as a runner for one of the most dangerous drug dealers and got nearly
+shot to death on multiple occasions, and so I elected to hide inside my closet with
+my Glock and hid behind some of my old clothes. I spent a long time nervously looking
+at the door, until gunfire started dying off. It never really stopped though, I can
+hear it still.
+
+When I got outside of the closet, it was almost dark already. Curse the short winter
+days, I thought at first, but maybe it came earlier than it should. A short look
+through the window revelead that the armored men were still in the streets, and there
+was quite many of them.
+
+I went downstairs to inspect the rest of my house, since there was a lot of commotion
+outside and some of it sounded too close for comfort, but nothing was out of the
+ordinary. My front door was slightly opened, but I think that's on me, I go back
+and forth to my basement, which can only be accessed from the outside. It's a stupid
+design, but the house itself makes up for it. It is quite large. I am making a course
+for my cat, down in the basement, which I use as a workshop.
+
+There is nothing I can do about the situation outside, and so me and Mr. Floofers
+ended up watching a movie from my humble collection. Then I went to bed, I was
+unusually sleepy.
+
+I woke up only an hour ago. I don't think I have slept this well and this long since
+I came to The City. Twelve hours in this age and this place? Felt like a heavenly
+blessing, although I was a little stiff. But, one can't have everything perfect, can
+they.
+
+That's where today took a nose dive downards. The sun disappeared and I don't know
+why. And so did the moon. All I can see is a few dim stars which are covered by a few
+fuzzy cloud, it seems. This is strange and concerning, and I am not sure what's
+wrong. Bizarre things have been happening in The City all throughout its history,
+I mean, the river is a story in and of itself, but whose machinations and what
+magics might steal the day away?
+
+And the electricity is out. I see other houses lit up, and there is voltage in my
+breaker box, so I am not sure why my lights are dead. Must be a blown fuse somewhere.
+Mr. Floofers is more active and on edge than usual, but I think that I understand,
+after all, this is a strange day.
+
+And so, I took my fleshlight, and my ample supply of AA batteries, taped it to my
+desk light and started this diary. It's just a way to pass time.
+
+### November 7, 17:00 PM
+
+There is still no daylight. I tried figuring out the electricity, but no luck so far.
+It's kind of difficult in the dark. I forgot my glasses somewhere yesterday, and I
+am having trouble finding them without the lights too, which makes it more difficult.
+
+Eventually, it might be time for me to break out the candles, if I run out of
+batteries before this blows over. Repairing anything with a candle in hand will be
+troublesome. I think I will feel like Count Dracula, living inside his fancy castle
+in Transylvanie. But Alas, I am not a vampire and neither is Mr. Floofers.
+
+Speaking of Mr. Floofers, he only comes check up on me occassionally, perhaps he
+is returning to his cat roots? He is definitely more lively, I can hear him making
+strange noises all over the house. I can understand if he is a little upset too, this
+must be even a bigger shock for his cat brain. He is still the best cat in the world.
+
+I am worried about my flowers, without the sun, they will die. I have a large purple
+orchid. She is almost fifteen years old now. It was a gift from the only woman I
+ever loved. I still think about her sometimes. If the plant dies, I will lose the
+last memory I have of her, part of me will die, too. Just thinking about it makes
+me tear up a little, but, no one wants to see an old man cry, do they?
+
+### November 7, 22:00 PM
+
+I think I am going to wrap it up for today. There is not that many things I can do
+and so I might just try to catch up on years of lost sleep. There is not much point
+in staying awake.
+
+Damn, this entry looks too short for my taste. Alright, let's add some things.
+Mr. Floofers calmed down a little, even came to sit on my lap a while ago. There
+is less gunfire outside. The strange men are still patrolling the streets, I don't
+think I will be able to get out anytime soon.
+
+### November 8, 11:30 AM
+
+I slept even longer today, could hardly imagine that ever happening. But there is
+still no light, I am very concerned. Did something happen in outer space? Was the
+sun shadowed by something? Or is the nuclear winter back and much worse than it was
+during the Great War? Are we the playthings of cruel being? Or is this just one long
+and deep dream that's plaguing me with the all-too-sweet-sounding lies of being the
+reality? Perhaps I might wake up to Mr. Floofers licking me in the face again,
+as always, demanding a little more than his fair share of food.
+
+But I did have a dream today, and I remember it. I dreamed about the deep blue sea,
+a clear sky and tiny stars shimmering with in. Moon, a watchful eye, winking at me as
+ever. A warm breeze blowing on the beach, roughing up my hair and racing through my
+beard.
+
+I never was to the see. I don't think most of the people in The City were either.
+But now, I feel like I want to make a pilgrimage to the see, although I am not sure
+if I survive the journey.
+
+I found a food package at my front door, I am going to inspect it later, in case
+it might be bad or poisoned.
+
+Still wasn't able to figure out the electricity. Fixing it might probably require me
+to check all of the main fuses and see where is the problem.
+
+### November 8, 16:15 PM
+
+The food is not too bad, although a little spicy. I have alsways liked spicy food,
+but I am guilty of fixing up bad food with spices such as chilli or wasabi replacements,
+so I cannot call myself a spicy food enthusiast, I think.
+
+I heard someone yelling outside about an hour ago or so, then there was gunfire,
+and then there was silence. Perhaps not everybody is dealing with the current situation
+as well. For many it may be even more terrifying than for me.
+
+My glasses are still nowhere to be found, and I am hearing some strange sounds
+around the house. Mr. Floofers without the slightest doubt responsible for some
+of these, the others - I don't know. They say that if you are in the dark for too
+long, your mind will start filling in the gaps with fantasies, that might be what's
+going on, I believe. This means I might stay closer to the light I have.
+
+It is night and my home, the safest place for me, is suddenly starting to look odd
+and alien to me. And dangerous. It is like a continous feeling of deja vu combined
+with the fear and wonder of the unknown. I have seen these things, these walls, the
+furniture, appliances, everything, and yet, they take on a new look now. The
+perspective changed.
+
+I sat in my reclining chair, the one I got from a garbage dump about three years
+ago, and thought about my life. In the end, I feel that I do not regret the things
+I have done, I learned to live with what I got, but I do regret the things I did
+not know. Oh, Amelie, where is thy end? Could a songbird shewed you the way home?
+Would a moth lead you to the light?
+
+It's funny how some things look much, much clearer in the dark.
+
+### November 8, 17:30 PM
+
+There was a loud bang somewhere in the house. I got scared. I went to investigate
+and I found the cat bowl was knocked off the counter. Mr. Floofers, you sly beast
+with the face of an angel.
+
+It's just that I find it peculiar how ordinary things are scary now. Maybe it is
+finally settling down, the predicament I am in. After all, my continued survival
+was mostly luck. I will have to be careful.
+
+### November 8, 22:20 PM
+
+I decided to spend most of the time in my living room. I have a desk here too,
+and this is where I have been writing this journal. My confinement to this place
+is justified in that I have my only light here. Without it, I fear I might go
+crazy.
+
+Still, no success in fixing the electricity. I checked every fuse around the house,
+none of them are blown. The issue must be elsewhere, but I was unable to pinpoint it
+as of yet. The people in other house still look like they have electricity, but
+there is otherwise no street lighting. And yet, it is comforting to know that there
+are people alive around me and that I am not completely alone in this dark, dark
+city.
+
+I have a lot of history to get back to, here in the living room. Heaps of records
+are stashed in my couch and only now I have been getting back to them. It's like
+when a person keeps something thinking they will return to it later, and they never
+might. I think that for me, it is the time to return now.
+
+There is a lot of photos in it too. Golly, was I the chubby kid back when I was small.
+It's surprising the other kids did not pick on me for it. Might be because I was
+large too, and could beat up most or all of them. I am glad I am in good health even
+now, past my zenith, so to speak.
+
+I should probably get out of this old mentality. Now that I think of it, the fact
+that I am older than most of the people in the city does not mean I am old. There is
+still a lot I can do with my life. Should I get a dog as well?
+
+### November 9, 10:20 AM
+
+My dream was interrupted by some strange sounds and meows coming from the kitchen.
+I sprung out of my bed with my firearm fully expecting to fight an intruder. But
+there was no one in the kitchen, but the chair was moved a bit and there was crumbs
+and mess of the bread basket on the table. Mr. Floofers was not with me, so I think
+he was the suspect, the little rascal must have made the chair creak by jumping on
+it or off of it.
+
+There was another package on my front door. I might be oversupplied at this point,
+but no one knows when this will be over and the food supply might be cut short, so
+why not take what I have been given.
+
+Still no sign of the sun, nothing has changed outside. I think there is slightly
+fewer of those armored men, but it's dark and I can only see too much without my
+glasses.
+
+### November 9, 12:10 PM
+
+I cannot find Mr. Floofers, I am concerned.
+
+### November 9, 18:25 PM
+
+Damn you, Mr. Floofers. I found Mr. Floofers trapped in the attic. I sometimes leave
+the trapdoor to the attic open to let in some clean air and then I forget to close it.
+This one opens upwards, so no wonder if the little demon knocked ot the rod supporting
+it and could not get out.
+
+On one hand, I am mad that I had to spend the entire afternoon searching, but I am
+also glad I found him and that he is okay. Mr. Floofers is my only company in these
+trying times.
+
+The search was quite exhausting, although I discovered more things to play with,
+so I am going to bed earlier today and probably continue writing tomorrow.
+
+### November 10, 11:00 AM
+
+Another sound sleep today, slept for a very long time again. Almost did not feel
+like living the bed. I suppose it might be because my body still thinks it's night,
+when in reality, I am looking at my watch the numbers it show would usually correspond
+to a time when I was busy working for a few hours already. The insomnia is nearly
+completely gone.
+
+A food package arrived at the door today as well. I got a bit bored, so I started
+glueing together a fort out of the cheap spoons and utensils that came with. It's
+going to be majestic, I can see it already, clear as the day.
+
+The days still are not clear, though. But it looks to me like the stars are a
+little brighter today, and that brings me some joy and hope. Maybe it is just my
+eyes getting used to the dark finally. I read some stories about miners in medieval
+times, and their eyes would get so sensitive to light, that after working for days
+on end, they would have stay in special darkened houses which had settings for slowly
+letting in light, lest they become blind.
+
+### November 10, 14:00 PM
+
+I just saw a very strange thing. A large mildly shining butterfly sat at my window.
+It was blue. I have never seen such a butterfly here in The City. Most of them are
+extinct in the world at large, even. I shone a flashlight on it, and it lit up
+like a Christmas tree, only blue.
+
+I do not know how come it found my window in particular, but I am happy it did, the
+little bit of beauty brought joy to me.
+
+### November 10, 18:15 PM
+
+Mr. Floofers has gone missing again, he is probably hiding again. Can't blame him,
+I would be stressed, too, if I was a cat. I mean, I am stressed, just not as much
+as the cat.
+
+I found my glasses, they were by my storage room on the ground, wrecked completely,
+I won't be able to use them again. Mr. Floofers probably knocked them off the counter
+and I must have stepped on them the first time I was searching for him. I guess I
+do not need them as much anyway, it's not like they will help that much in the darkness.
+
+The issue with the electricity has been finally uncovered and it's not good. I found
+several cut cables and there is something jammed behind the breaker box. I have no
+idea how it happened or if I even have the necessary tools and materials to make
+repairs, but hopefully, I will be able to get electricity running by tomorrow.
+
+There are horrible chills running down my spine, I think I will sleep in the
+living room tonight with my Glock at hand. Should find Mr. Floofers first.
+
+### November 10, 19:39 PM
+
+*note: this paper is stained and many letters are blurry, some words are aproximated
+from context*
+
+I found Mr. Floofers. He is dead, his neck was broken and his body is bloodied, as if
+someone bit into it several times. I don't know what to say. He was my only friend in
+this.
+
+I am sad. I should have protected you, Mr. Floofers.
+
+I think there is someone in the house.
+
+### November 10, 20:20 PM
+
+I buried what was left of Mr. Floofers. I don't know what's the point
+anymore, he was my only light in these dark times. I keep reminiscing on the times
+we spent together.
+
+I adopted Mr. Floofers as a kitty and saw him grow from kitty to big cat and from
+a shy inhabitant of this house to my best friend. We don't deserve animals like he
+was. I don't know who or what would want to hurt him, but I think there is something
+or someone in the house.
+
+Even if that were the last thing I do, I have to avenge my cat.
+
+### November 10, 20:40 PM
+
+I am positive I saw a figure in the hallway, but I couldn't catch up to it, it's
+lost somewhere in the house, I have to catch it and put an end to him.
+
+### November 10, 21:05 PM
+
+*note: text is partially obscured by blood stains*
+
+She caught me off-guard and stabbed me twice in the stomach. I barricaded myself in
+the living room, but I think I am done for. Goodbye.
+
+### <Last entry, time unknown>
+
+Oh Amelie, would you please forgive me?
+
