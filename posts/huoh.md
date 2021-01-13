@@ -9445,14 +9445,15 @@ Even if that were the last thing I do, I have to avenge my cat.
 I am positive I saw a figure in the hallway, but I couldn't catch up to it, it's
 lost somewhere in the house, I have to catch it and put an end to him.
 
-### November 10, 21:05 PM
+### November 10, some time about 21:05-21:10 PM
 
 *note: text is partially obscured by blood stains*
 
-She caught me off-guard and stabbed me twice in the stomach. I barricaded myself in
-the living room, but I think I am done for. Goodbye.
+She caught me off-guard and sta⬛⬛ed me twice in the stomach. I barricaded myself in
+the ⬛⬛⬛ing room, but I think I am don⬛ for. Go⬛⬛bye.
 
 ### <Last entry, time unknown>
 
-Oh Amelie, would you please forgive me?
+Oh A⬛⬛⬛⬛⬛ wo⬛⬛d y⬛o ple⬛⬛fo⬛⬛ive me?
 
+# EPISODE 2: ENDELL
