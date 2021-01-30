@@ -1,6 +1,6 @@
 created = "2019-08-07T13:27:08+02:00"
 tags = ["magnusi"]
-title = "Vagrant's descent"
+title = "[EN/Story] Vagrant's descent"
 
 A deep dark chasm.
 Why was he thrown down here?

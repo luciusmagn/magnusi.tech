@@ -4,11 +4,6 @@ hidden = true
 
 
 ## Rocks
-- Calcite
-- Graphite
-- Andezite
-- Marble
-
 The good ones. Also there might be great
 things that I don't know, I am not infallible.
 
@@ -17,6 +12,7 @@ things that I don't know, I am not infallible.
 * C
 * C2
 * C# - good for self-learning beginners
+* Nim
 * Wren
 * Rhai
 * Ruby
@@ -32,19 +28,24 @@ things that I don't know, I am not infallible.
 	* Solus
 	* Gentoo (if you have the patience)
 * BSD
-* Plan9 (actually 9front, see their web page for how LSD works)
+	* OpenBSD
+	* GhostBSD
+	* NomadBSD (good for trying BSD out)
+* Plan9 (check out the 9front fork, see their web page for what LSD does to software developers)
 * MenuetOS (engineering retro-wonder)
 
 ### Editors
 * kakoune (like Vim but with  clippy)
-* Sublime Text 3
+* amp
 * ed
 * nano
 * micro
+* Sublime Text 3 - good for beginners
 
 ### File viewers
 * feh
 * meh
+* sxiv
 
 ### File browser
 * w3m
@@ -59,6 +60,7 @@ things that I don't know, I am not infallible.
 ### Video players
 * ffplay
 * mplayer
+* VLC
 
 ### Utils
 * ripgrep - a splendid grep replacement
@@ -70,20 +72,16 @@ things that I don't know, I am not infallible.
 * RLS
 * Clippy
 * rustfmt (although some style decisions I consider... questionable)
+* rust-analyzer
+* racer
 
-## Everything that sucks
-- Electrolux
-- Siemens
-- Philips
-
-Note that when I say everything, I actually mean software and
-computer related stuff in general. In the future, I will add
-articles about why I think thing X sucks.
+# Sucks
+The not so good ones.
 
 ### Programming Languages
 * Java
 * Go (only like 50% succ)
-* PHP sucks massive piles of mouldy dicks
+* PHP sucks a lot
 * COBOL
 
 ### Operating Systems
@@ -94,4 +92,5 @@ articles about why I think thing X sucks.
 
 ### Software
 * Eclipse
+* A lot of proprietary software, surprisingly
 * Bloatware in general

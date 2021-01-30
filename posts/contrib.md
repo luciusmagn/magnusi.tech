@@ -1,5 +1,5 @@
 tags = ["magnusi"]
-title = "Contributing to Outer Heaven"
+title = "Contributing to the website"
 hidden = true
 
 Contributions in any form are welcome.
@@ -9,4 +9,4 @@ or message me directly using one of the [contacts listed here](/posts/contacts.h
 The following rules apply to all contributions, failure to abide will result in article
 not being included:
 
-0. Don't be a cunt
+0. Don't be a dick

@@ -1,6 +1,6 @@
-created = "2017-06-10T11:35:25+02:00"
+created = "2015-11-10T11:35:25+02:00"
 tags = ["magnusi"]
-title = "My Programming Languages - From Pascal to Rust"
+title = "[EN/IT] My Programming Languages - From Pascal to Rust"
 
 
 Over the years, I have played with many programming languages,

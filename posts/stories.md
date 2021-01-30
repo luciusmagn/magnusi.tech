@@ -1,5 +1,6 @@
 tags = ["magnusi"]
-title = "Aaaaaaaa"
+created = "2020-12-19T21:44:36+02:00"
+title = "[EN/Story] Story concepts"
 
 <style>
 	html {

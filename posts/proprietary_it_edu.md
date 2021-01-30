@@ -1,6 +1,6 @@
 created = "2020-04-01T13:44:18+02:00"
 tags = ["magnusi"]
-title = "Properietary software has no place in common IT education and otherwise"
+title = "[EN/IT Rant] Properietary software has no place in general IT education"
 
 During the last few weeks, I had a lot more time to discuss education with
 my friends from different schools and also got to experience what systems

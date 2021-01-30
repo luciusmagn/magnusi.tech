@@ -1,6 +1,6 @@
 created = "2020-03-31T13:32:58+02:00"
 tags = ["magnusi"]
-title = "Messenger is a fractal of bad design"
+title = "[EN/IT Rant] Messenger is a fractal of bad design"
 
 Throwing around “fractals of bad design” is a serious offense,
 since it immediately draws connection to the semi-legendary

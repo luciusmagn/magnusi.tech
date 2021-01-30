@@ -1,5 +1,6 @@
 tags = ["samirall"]
-title = "Empyrean Paradox"
+created = "2020-09-21T16:47:09+02:00"
+title = "[EN/Story] Empyrean Paradox"
 
 <style>
 	html {

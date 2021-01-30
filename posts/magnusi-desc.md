@@ -1,5 +1,6 @@
 tags = ["magnusi"]
 title = "magnusi"
+hidden = true
 
 magnusi is a very old powered being. These beings are often referred to as
 'deities', although both he and most of others dislike this classification

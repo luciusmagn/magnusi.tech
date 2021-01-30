@@ -1,5 +1,6 @@
 tags = ["magnusi"]
-title = "Deep sea metamorphoses"
+created = "2020-07-14T17:55:08+02:00"
+title = "[EN/Story] Deep sea metamorphoses"
 
 */I have forgotten even reason with tears  
 My memories were frozen, and  

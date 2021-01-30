@@ -1,6 +1,6 @@
-created = "2018-07-09T11:32:41+02:00"
+created = "2017-07-09T11:32:41+02:00"
 tags = ["magnusi"]
-title = "C++-ish functor in Rust with fn_traits"
+title = "[EN/IT] C++-ish functor in Rust with fn_traits"
 
 
 The term functor seems to have quite a few meanings in Computer Science.

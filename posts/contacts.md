@@ -3,11 +3,10 @@ title = "Contacts"
 hidden = true
 
 
-Howdy.
+Howdy. Feel free to add me anywhere, I like to talk to people
 
 ### List
-* Email: me@magnusi.tech
-* Skype: luciusmagn
+* Email: hozda@gjk.cz
 * Github: luciusmagn
 * IRC (#rust-beginners at irc.mozilla.org): magnusi
 * Steam: luciusmagn

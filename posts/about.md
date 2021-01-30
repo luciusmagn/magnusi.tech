@@ -7,15 +7,17 @@ hidden = true
 <i><b>K: </b>They've only got two options, Heaven or Hell.</i><br>
 <i><b>V: </b>No, there's another.</i><br>
 <p>
-The purpose of this website is to hold basic information
-about me, some of my notable projects, pieces of my crappy mythology and articles about.
+The purpose of this website is to store some information
+about me, some of my notable projects, pieces of my writing
+and small articles.
 
-The content falls under the following categories:
+The content should fall under the following categories:
 
 - Programming (mainly Rust)
-- Social topics
-- My mythology
-- Stuff for my programming classes -> [RGJK](/rgjk)
+- Other topics and my stories
+- Cool things I have found
+- Media files
+- Materials for my programming classes (now at gjk.cat) -> [GJK.CAT](https://it.gjk.cat)
 <br>
 
 Legacy versions of this website also served to view information

@@ -1,5 +1,6 @@
 tags = ["cartographer"]
-title = "THE BARTENDER"
+created = "2020-10-12T14:06:12+02:00"
+title = "[EN/Story] THE BARTENDER"
 
 <style>
 	html {
