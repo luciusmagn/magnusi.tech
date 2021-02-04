@@ -119,6 +119,14 @@ tweaking kernel parameters.
 
 Repository: <https://github.com/luciusmagn/ipc-rs>
 
+## initrs
+
+A tiny Linux init written in Rust. It does pretty much
+what [sinit](https://core.suckless.org/sinit/) does, but
+is more talkative, colorful and is a bit more customizable.
+
+Repository: <https://github.com/magnusi/initrs>
+
 ## light_pencil
 My fork of Sharp Pencil, which is a fork of Pencil. Pencil
 is a Rust web microframework inspired by Flask. For my
@@ -203,6 +211,13 @@ are needed for compilation. Pretty efficient, but has unconventional
 API which needs a refreshment.
 
 Repository: <https://github.com/c2hub/recipe-reader>
+
+## rgc
+A small command-line fully-featured Gopher client. It has been modeled
+after `cgo`, another client that's written in C. The two clients, however,
+share no code. It is controled through a command system.
+
+Repository: <https://git.microlab.space/magnusi/rgc>
 
 ## Rhai & Nary
 A small, embeddable and fast interpreted programming language
