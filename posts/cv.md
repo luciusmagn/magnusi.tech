@@ -59,9 +59,9 @@ li {
 
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
 <p style="font-size: 1.2rem; width: 50%">Rust Programmer</p>
-<a href="https://www.linkedin.com/in/lukas-hozda/">LinkedIn</a>
-<a href="https://github.com/luciusmagn">Github</a>
-<a href="https://mag.wiki">Website</a>
+<a href="https://www.linkedin.com/in/lukas-hozda/">LinkedIn: lukas-hozda</a>
+<a href="https://github.com/luciusmagn">Github: luciusmagn</a>
+<a href="https://mag.wiki">Website: mag.wiki</a>
 </div>
 
 <section class="cv-box">
@@ -90,7 +90,7 @@ li {
 	<p>Dedicated to developing performant, clean and elegant software using the latest and smartest technologies, but
 	doesn't mind less creative tasks like docs, refactoring and tests either.
 	Fluent English speaker who loves to communicate with both co-workers and clients.</p>
-	<p>Interested in text processing, parsers, programming language design and implementation and backend development. Proud adherent of the hacker culture.</p>
+	<p>Interested in *nix operating systems, open-source, programming language design and implementation and backend development. Adherent of the hacker culture.</p>
 	<hr>
 	<h2>EXPERIENCE</h2>
 	<div class="underbar"></div>
@@ -100,12 +100,13 @@ li {
 		<li>CPE English Proficiency certificate at C2 level</li>
 		<li>Graduated from <i>Information Technologies, Psychology</i> and <i>English</i> at <a href="https://gjk.cz/">Johannes Kepler Gymnasium</a></li>
 		<li>Three AGILE/Scrum codeweeks at CA Technologies / Broadcom Inc. (2017, 2018, 2019)</li>
-		<li>Engaged with open-source since 2013</li>
+		<li>Involved with open-source since 2013</li>
 		<li>Maintaining <a href="https://github.com/rust-unofficial/awesome-rust">awesome-rust</a> since June 2017</li>
-		<li>Lead backend developer at Meedias.cz startup (2017-2020) - parted on bad terms, willing to explain</li>
+		<li>Worked lead Rust backend developer for a defunct web-development startup (2017-2020) </li>
 		<li>Experience with Rust and its community since 2015</li>
 		<li>Linux administration since 2016</li>
 		<li>Experience managing online communities (2015-now)</li>
+		<li>Programming projects: <a href="https://mag.wiki/posts/projects.html">https://mag.wiki/posts/projects.html</a></li>
 	</ul>
 </div>
 </section>
