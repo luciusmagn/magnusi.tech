@@ -7,7 +7,8 @@ These are some projects of mine. Of course,
 all of them are opensource. Unless specified otherwise,
 every project (apart from forks, of course) is licensed
 under the [ISC license](https://choosealicense.com/licenses/isc/).
-The list is (hopefully) sorted alphabetically.
+The list is (hopefully) sorted alphabetically. If not specified
+otherwise, every project is written in Rust.
 
 ## alma-hook
 
